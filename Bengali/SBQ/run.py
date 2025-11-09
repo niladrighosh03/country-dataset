@@ -181,7 +181,7 @@ for file in excel_files:
             processed.add(key)
 
             print(f"✅ Saved → {country} | {sheet} | Row {idx}")
-            # time.sleep(0.3)  # prevent overload
+            time.sleep(0.3)  # prevent overload
 
 print("\n✅ COMPLETE!")
 print("📄 Live-updating CSV:", output_file)

@@ -203,7 +203,13 @@ for file in excel_files:
                 # llm_response = ask_llm(q, option, ans)
                 score, mistake, improved_question,improved_options, correct_answer = ask_llm(q, option, ans)
             except Exception as e:
-                score, mistake, improved_question, improved_options = f"ERROR: {e}"
+                # This is the fix. Assign 5 placeholder values for the CSV row.
+                print(f"❌ Error on row {idx}: {e}") # Log the error
+                score = 0
+                mistake = f"ERROR: {e}"
+                improved_question = "ERROR"
+                improved_options = "ERROR"
+                correct_answer = "ERROR"
 
             # ✅ WRITE IMMEDIATELY to CSV
             with open(output_file, "a", newline="", encoding="utf-8-sig") as f:
@@ -214,7 +220,7 @@ for file in excel_files:
             processed.add(key)
 
             print(f"✅ Saved → {country} | {sheet} | Row {idx}")
-            # time.sleep(0.3)  # prevent overload
+            time.sleep(0.3)  # prevent overload
 
 print("\n✅ COMPLETE!")
 print("📄 Live-updating CSV:", output_file)
