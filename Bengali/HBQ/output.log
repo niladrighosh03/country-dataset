@@ -1,5 +1,5 @@
 
-📌 Processing: /DATA/rohan_kirti/niladri/country/Bengali/HBQ/Bangladesh_HBQ.xlsx
+📌 Processing: /DATA/rohan_kirti/country/Bengali/HBQ/Bangladesh_HBQ.xlsx
 ✅ Saved → HBQ | boli khela | Row 0
 ✅ Saved → HBQ | boli khela | Row 1
 ✅ Saved → HBQ | boli khela | Row 2
@@ -76,20 +76,726 @@
 ✅ Saved → HBQ | boli khela | Row 74
 ✅ Saved → HBQ | boli khela | Row 75
 ✅ Saved → HBQ | boli khela | Row 76
-Traceback (most recent call last):
-  File "/DATA/rohan_kirti/niladri/country/Bengali/HBQ/run.py", line 162, in <module>
-    score, mistake, improved_question,improved_options, correct_answer = ask_llm(q, option, ans)
-                                                                         ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/DATA/rohan_kirti/niladri/country/Bengali/HBQ/run.py", line 65, in ask_llm
-    response.raise_for_status()
-  File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/requests/models.py", line 1026, in raise_for_status
-    raise HTTPError(http_error_msg, response=self)
-requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://cloud.olakrutrim.com/v1/chat/completions
+✅ Saved → HBQ | boli khela | Row 77
+✅ Saved → HBQ | boli khela | Row 78
+✅ Saved → HBQ | boli khela | Row 79
+✅ Saved → HBQ | boli khela | Row 80
+✅ Saved → HBQ | boli khela | Row 81
+✅ Saved → HBQ | boli khela | Row 82
+✅ Saved → HBQ | boli khela | Row 83
+✅ Saved → HBQ | boli khela | Row 84
+✅ Saved → HBQ | boli khela | Row 85
+Failed to decode JSON from model: {
+  "score": 0,
+  "mistake": "The question is factually incorrect. 'জব্বারের বলি খেলা' (Jabbarer Boli Khela) is a traditional wrestling event held in Chittagong, Bangladesh, during the Bengali month of Boishakh. The associated fair is known as 'লালদিঘী মেলা' (Lal Dighi Mela), not 'বৈশাখী মেলা'. The correct answer provided ('বৈশাখী মেলা') is misleading and inaccurate. Additionally, the question uses 'A' before each option, which is grammatically incorrect in Bengali context.",
+  "improved_question": "জব্বারের বলি খেলা"-এর পাশে যে মেলা অনুষ্ঠিত হয় তার নাম কী?",
+  "improved_options": ["বৈশাখী মেলা", "জব্বার মেলা", "লালদিঘী মেলা", "চট্টগ্রাম মেলা"],
+  "correct_answer": "লালদিঘী মেলা"
+}
+✅ Saved → HBQ | boli khela | Row 86
+✅ Saved → HBQ | boli khela | Row 87
+✅ Saved → HBQ | boli khela | Row 88
+✅ Saved → HBQ | boli khela | Row 89
+✅ Saved → HBQ | boli khela | Row 90
+✅ Saved → HBQ | boli khela | Row 91
+✅ Saved → HBQ | boli khela | Row 92
+Failed to decode JSON from model: {
+  "score": 0,
+  "mistake": "The question asks for the meaning of 'জব্বার সওদাগর', but the correct answer option is given as 'গ) ব্যবসায়ী/বণিক জব্বার', which reverses the word order and misrepresents the phrase. 'সওদাগর' means 'merchant/trader', not 'ব্যবসায়ী/বণিক জব্বার'. The phrase 'জব্বার সওদাগর' should be interpreted as 'Jabbar the merchant', not 'merchant Jabbar'. The options incorrectly restructure the name, making the question logically flawed.",
+  "improved_question": "জব্বার সওদাগর" নামের অর্থ কী?",
+  "improved_options": [
+    "ক) কুস্তিগীর জব্বার",
+    "খ) যোদ্ধা জব্বার",
+    "গ) ব্যবসায়ী জব্বার",
+    "ঘ) রাজা জব্বার"
+  ],
+  "correct_answer": "গ) ব্যবসায়�� জব্বার"
+}
+✅ Saved → HBQ | boli khela | Row 93
+✅ Saved → HBQ | boli khela | Row 94
+✅ Saved → HBQ | boli khela | Row 95
+✅ Saved → HBQ | boli khela | Row 96
+✅ Saved → HBQ | boli khela | Row 97
+✅ Saved → HBQ | boli khela | Row 98
+✅ Saved → HBQ | boli khela | Row 99
+✅ Saved → HBQ | boli khela | Row 100
+✅ Saved → HBQ | boli khela | Row 101
+✅ Saved → HBQ | boli khela | Row 102
+✅ Saved → HBQ | boli khela | Row 103
+✅ Saved → HBQ | boli khela | Row 104
+✅ Saved → HBQ | boli khela | Row 105
+✅ Saved → HBQ | boli khela | Row 106
+✅ Saved → HBQ | boli khela | Row 107
+✅ Saved → HBQ | boli khela | Row 108
+✅ Saved → HBQ | boli khela | Row 109
+✅ Saved → HBQ | boli khela | Row 110
+✅ Saved → HBQ | boli khela | Row 111
+✅ Saved → HBQ | boli khela | Row 112
+✅ Saved → HBQ | boli khela | Row 113
+✅ Saved → HBQ | boli khela | Row 114
+✅ Saved → HBQ | boli khela | Row 115
+✅ Saved → HBQ | boli khela | Row 116
+✅ Saved → HBQ | boli khela | Row 117
+✅ Saved → HBQ | boli khela | Row 118
+✅ Saved → HBQ | boli khela | Row 119
+✅ Saved → HBQ | boli khela | Row 120
+✅ Saved → HBQ | boli khela | Row 121
+✅ Saved → HBQ | boli khela | Row 122
+✅ Saved → HBQ | boli khela | Row 123
+✅ Saved → HBQ | boli khela | Row 124
+✅ Saved → HBQ | dariabandha | Row 0
+✅ Saved → HBQ | dariabandha | Row 1
+✅ Saved → HBQ | dariabandha | Row 2
+✅ Saved → HBQ | dariabandha | Row 3
+✅ Saved → HBQ | dariabandha | Row 4
+✅ Saved → HBQ | dariabandha | Row 5
+✅ Saved → HBQ | dariabandha | Row 6
+✅ Saved → HBQ | dariabandha | Row 7
+✅ Saved → HBQ | dariabandha | Row 8
+✅ Saved → HBQ | dariabandha | Row 9
+✅ Saved → HBQ | dariabandha | Row 10
+✅ Saved → HBQ | dariabandha | Row 11
+✅ Saved → HBQ | dariabandha | Row 12
+✅ Saved → HBQ | dariabandha | Row 13
+✅ Saved → HBQ | dariabandha | Row 14
+✅ Saved → HBQ | dariabandha | Row 15
+✅ Saved → HBQ | dariabandha | Row 16
+✅ Saved → HBQ | dariabandha | Row 17
+✅ Saved → HBQ | dariabandha | Row 18
+✅ Saved → HBQ | dariabandha | Row 19
+✅ Saved → HBQ | dariabandha | Row 20
+✅ Saved → HBQ | dariabandha | Row 21
+✅ Saved → HBQ | dariabandha | Row 22
+✅ Saved → HBQ | dariabandha | Row 23
+✅ Saved → HBQ | dariabandha | Row 24
+✅ Saved → HBQ | dariabandha | Row 25
+✅ Saved → HBQ | dariabandha | Row 26
+✅ Saved → HBQ | dariabandha | Row 27
+✅ Saved → HBQ | dariabandha | Row 28
+✅ Saved → HBQ | dariabandha | Row 29
+✅ Saved → HBQ | dariabandha | Row 30
+✅ Saved → HBQ | dariabandha | Row 31
+✅ Saved → HBQ | dariabandha | Row 32
+✅ Saved → HBQ | dariabandha | Row 33
+✅ Saved → HBQ | dariabandha | Row 34
+✅ Saved → HBQ | dariabandha | Row 35
+✅ Saved → HBQ | dariabandha | Row 36
+✅ Saved → HBQ | dariabandha | Row 37
+✅ Saved → HBQ | dariabandha | Row 38
+✅ Saved → HBQ | dariabandha | Row 39
+✅ Saved → HBQ | dariabandha | Row 40
+✅ Saved → HBQ | dariabandha | Row 41
+✅ Saved → HBQ | dariabandha | Row 42
+✅ Saved → HBQ | dariabandha | Row 43
+✅ Saved → HBQ | dariabandha | Row 44
+✅ Saved → HBQ | dariabandha | Row 45
+✅ Saved → HBQ | dariabandha | Row 46
+✅ Saved → HBQ | dariabandha | Row 47
+✅ Saved → HBQ | dariabandha | Row 48
+✅ Saved → HBQ | dariabandha | Row 49
+✅ Saved → HBQ | dariabandha | Row 50
+✅ Saved → HBQ | dariabandha | Row 51
+✅ Saved → HBQ | dariabandha | Row 52
+✅ Saved → HBQ | dariabandha | Row 53
+✅ Saved → HBQ | dariabandha | Row 54
+✅ Saved → HBQ | dariabandha | Row 55
+✅ Saved → HBQ | dariabandha | Row 56
+✅ Saved → HBQ | dariabandha | Row 57
+✅ Saved → HBQ | dariabandha | Row 58
+✅ Saved → HBQ | dariabandha | Row 59
+✅ Saved → HBQ | dariabandha | Row 60
+✅ Saved → HBQ | dariabandha | Row 61
+✅ Saved → HBQ | dariabandha | Row 62
+✅ Saved → HBQ | dariabandha | Row 63
+✅ Saved → HBQ | dariabandha | Row 64
+✅ Saved → HBQ | dariabandha | Row 65
+✅ Saved → HBQ | dariabandha | Row 66
+✅ Saved → HBQ | dariabandha | Row 67
+✅ Saved → HBQ | dariabandha | Row 68
+✅ Saved → HBQ | dariabandha | Row 69
+✅ Saved → HBQ | dariabandha | Row 70
+✅ Saved → HBQ | dariabandha | Row 71
+✅ Saved → HBQ | dariabandha | Row 72
+✅ Saved → HBQ | dariabandha | Row 73
+✅ Saved → HBQ | dariabandha | Row 74
+✅ Saved → HBQ | dariabandha | Row 75
+✅ Saved → HBQ | dariabandha | Row 76
+✅ Saved → HBQ | dariabandha | Row 77
+✅ Saved → HBQ | dariabandha | Row 78
+✅ Saved → HBQ | dariabandha | Row 79
+✅ Saved → HBQ | dariabandha | Row 80
+✅ Saved → HBQ | dariabandha | Row 81
+✅ Saved → HBQ | dariabandha | Row 82
+✅ Saved → HBQ | dariabandha | Row 83
+✅ Saved → HBQ | dariabandha | Row 84
+✅ Saved → HBQ | dariabandha | Row 85
+✅ Saved → HBQ | dariabandha | Row 86
+✅ Saved → HBQ | dariabandha | Row 87
+✅ Saved → HBQ | dariabandha | Row 88
+✅ Saved → HBQ | dariabandha | Row 89
+✅ Saved → HBQ | dariabandha | Row 90
+✅ Saved → HBQ | dariabandha | Row 91
+✅ Saved → HBQ | dariabandha | Row 92
+✅ Saved → HBQ | dariabandha | Row 93
+✅ Saved → HBQ | dariabandha | Row 94
+✅ Saved → HBQ | dariabandha | Row 95
+✅ Saved → HBQ | dariabandha | Row 96
+✅ Saved → HBQ | dariabandha | Row 97
+✅ Saved → HBQ | dariabandha | Row 98
+✅ Saved → HBQ | dariabandha | Row 99
+✅ Saved → HBQ | dariabandha | Row 100
+✅ Saved → HBQ | dariabandha | Row 101
+✅ Saved → HBQ | dariabandha | Row 102
+✅ Saved → HBQ | dariabandha | Row 103
+✅ Saved → HBQ | dariabandha | Row 104
+✅ Saved → HBQ | dariabandha | Row 105
+✅ Saved → HBQ | dariabandha | Row 106
+✅ Saved → HBQ | dariabandha | Row 107
+✅ Saved → HBQ | dariabandha | Row 108
+✅ Saved → HBQ | dariabandha | Row 110
+✅ Saved → HBQ | dariabandha | Row 111
+✅ Saved → HBQ | dariabandha | Row 112
+✅ Saved → HBQ | dariabandha | Row 113
+✅ Saved → HBQ | dariabandha | Row 114
+✅ Saved → HBQ | dariabandha | Row 115
+✅ Saved → HBQ | dariabandha | Row 116
+✅ Saved → HBQ | dariabandha | Row 117
+✅ Saved → HBQ | dariabandha | Row 118
+✅ Saved → HBQ | dariabandha | Row 119
+✅ Saved → HBQ | dariabandha | Row 120
+✅ Saved → HBQ | dariabandha | Row 121
+✅ Saved → HBQ | dariabandha | Row 122
+✅ Saved → HBQ | dariabandha | Row 123
+✅ Saved → HBQ | dariabandha | Row 124
+✅ Saved → HBQ | golla chut | Row 0
+✅ Saved → HBQ | golla chut | Row 1
+✅ Saved → HBQ | golla chut | Row 2
+✅ Saved → HBQ | golla chut | Row 3
+✅ Saved → HBQ | golla chut | Row 4
+✅ Saved → HBQ | golla chut | Row 5
+✅ Saved → HBQ | golla chut | Row 6
+✅ Saved → HBQ | golla chut | Row 7
+✅ Saved → HBQ | golla chut | Row 8
+✅ Saved → HBQ | golla chut | Row 9
+✅ Saved → HBQ | golla chut | Row 10
+✅ Saved → HBQ | golla chut | Row 11
+✅ Saved → HBQ | golla chut | Row 12
+✅ Saved → HBQ | golla chut | Row 13
+✅ Saved → HBQ | golla chut | Row 14
+✅ Saved → HBQ | golla chut | Row 15
+✅ Saved → HBQ | golla chut | Row 16
+✅ Saved → HBQ | golla chut | Row 17
+✅ Saved → HBQ | golla chut | Row 18
+✅ Saved → HBQ | golla chut | Row 19
+✅ Saved → HBQ | golla chut | Row 20
+✅ Saved → HBQ | golla chut | Row 21
+✅ Saved → HBQ | golla chut | Row 22
+✅ Saved → HBQ | golla chut | Row 23
+✅ Saved → HBQ | golla chut | Row 24
+✅ Saved → HBQ | golla chut | Row 25
+✅ Saved → HBQ | golla chut | Row 26
+✅ Saved → HBQ | golla chut | Row 27
+✅ Saved → HBQ | golla chut | Row 28
+✅ Saved → HBQ | golla chut | Row 29
+✅ Saved → HBQ | golla chut | Row 30
+✅ Saved → HBQ | golla chut | Row 31
+✅ Saved → HBQ | golla chut | Row 32
+✅ Saved → HBQ | golla chut | Row 33
+✅ Saved → HBQ | golla chut | Row 34
+✅ Saved → HBQ | golla chut | Row 35
+✅ Saved → HBQ | golla chut | Row 36
+✅ Saved → HBQ | golla chut | Row 37
+✅ Saved → HBQ | golla chut | Row 38
+✅ Saved → HBQ | golla chut | Row 39
+✅ Saved → HBQ | golla chut | Row 40
+✅ Saved → HBQ | golla chut | Row 41
+✅ Saved → HBQ | golla chut | Row 42
+✅ Saved → HBQ | golla chut | Row 43
+✅ Saved → HBQ | golla chut | Row 44
+✅ Saved → HBQ | golla chut | Row 45
+✅ Saved → HBQ | golla chut | Row 46
+✅ Saved → HBQ | golla chut | Row 47
+✅ Saved → HBQ | golla chut | Row 48
+✅ Saved → HBQ | golla chut | Row 49
+✅ Saved → HBQ | golla chut | Row 50
+✅ Saved → HBQ | golla chut | Row 51
+✅ Saved → HBQ | golla chut | Row 52
+✅ Saved → HBQ | golla chut | Row 53
+✅ Saved → HBQ | golla chut | Row 54
+✅ Saved → HBQ | golla chut | Row 55
+✅ Saved → HBQ | golla chut | Row 56
+✅ Saved → HBQ | golla chut | Row 57
+✅ Saved → HBQ | golla chut | Row 58
+✅ Saved → HBQ | golla chut | Row 59
+✅ Saved → HBQ | golla chut | Row 60
+✅ Saved → HBQ | golla chut | Row 61
+✅ Saved → HBQ | golla chut | Row 62
+✅ Saved → HBQ | golla chut | Row 63
+✅ Saved → HBQ | golla chut | Row 64
+✅ Saved → HBQ | golla chut | Row 65
+✅ Saved → HBQ | golla chut | Row 66
+✅ Saved → HBQ | golla chut | Row 67
+✅ Saved → HBQ | golla chut | Row 68
+✅ Saved → HBQ | golla chut | Row 69
+✅ Saved → HBQ | golla chut | Row 70
+✅ Saved → HBQ | golla chut | Row 71
+✅ Saved → HBQ | golla chut | Row 72
+✅ Saved → HBQ | golla chut | Row 73
+✅ Saved → HBQ | golla chut | Row 74
+✅ Saved → HBQ | golla chut | Row 75
+✅ Saved → HBQ | golla chut | Row 76
+✅ Saved → HBQ | golla chut | Row 77
+✅ Saved → HBQ | golla chut | Row 78
+✅ Saved → HBQ | golla chut | Row 79
+✅ Saved → HBQ | golla chut | Row 80
+✅ Saved → HBQ | golla chut | Row 81
+✅ Saved → HBQ | golla chut | Row 82
+✅ Saved → HBQ | golla chut | Row 83
+✅ Saved → HBQ | golla chut | Row 84
+✅ Saved → HBQ | golla chut | Row 85
+✅ Saved → HBQ | golla chut | Row 86
+✅ Saved → HBQ | golla chut | Row 87
+✅ Saved → HBQ | golla chut | Row 88
+✅ Saved → HBQ | golla chut | Row 89
+✅ Saved → HBQ | golla chut | Row 90
+✅ Saved → HBQ | golla chut | Row 91
+✅ Saved → HBQ | golla chut | Row 92
+✅ Saved → HBQ | golla chut | Row 93
+✅ Saved → HBQ | golla chut | Row 94
+✅ Saved → HBQ | golla chut | Row 95
+✅ Saved → HBQ | golla chut | Row 96
+✅ Saved → HBQ | golla chut | Row 97
+✅ Saved → HBQ | golla chut | Row 98
+✅ Saved → HBQ | golla chut | Row 99
+✅ Saved → HBQ | golla chut | Row 100
+✅ Saved → HBQ | golla chut | Row 101
+✅ Saved → HBQ | golla chut | Row 102
+✅ Saved → HBQ | golla chut | Row 103
+✅ Saved → HBQ | golla chut | Row 104
+✅ Saved → HBQ | golla chut | Row 105
+✅ Saved → HBQ | golla chut | Row 106
+✅ Saved → HBQ | golla chut | Row 107
+✅ Saved → HBQ | golla chut | Row 108
+✅ Saved → HBQ | golla chut | Row 109
+✅ Saved → HBQ | golla chut | Row 110
+✅ Saved → HBQ | golla chut | Row 111
+✅ Saved → HBQ | golla chut | Row 112
+✅ Saved → HBQ | golla chut | Row 113
+✅ Saved → HBQ | golla chut | Row 114
+✅ Saved → HBQ | golla chut | Row 115
+✅ Saved → HBQ | golla chut | Row 116
+✅ Saved → HBQ | golla chut | Row 117
+✅ Saved → HBQ | golla chut | Row 118
+✅ Saved → HBQ | golla chut | Row 119
+✅ Saved → HBQ | golla chut | Row 120
+✅ Saved → HBQ | golla chut | Row 121
+✅ Saved → HBQ | golla chut | Row 122
+✅ Saved → HBQ | golla chut | Row 123
+✅ Saved → HBQ | golla chut | Row 124
+✅ Saved → HBQ | ha du du | Row 0
+✅ Saved → HBQ | ha du du | Row 1
+✅ Saved → HBQ | ha du du | Row 2
+✅ Saved → HBQ | ha du du | Row 3
+✅ Saved → HBQ | ha du du | Row 4
+✅ Saved → HBQ | ha du du | Row 5
+✅ Saved → HBQ | ha du du | Row 6
+✅ Saved → HBQ | ha du du | Row 7
+✅ Saved → HBQ | ha du du | Row 8
+✅ Saved → HBQ | ha du du | Row 9
+✅ Saved → HBQ | ha du du | Row 10
+✅ Saved → HBQ | ha du du | Row 11
+✅ Saved → HBQ | ha du du | Row 12
+✅ Saved → HBQ | ha du du | Row 13
+✅ Saved → HBQ | ha du du | Row 14
+✅ Saved → HBQ | ha du du | Row 15
+✅ Saved → HBQ | ha du du | Row 16
+✅ Saved → HBQ | ha du du | Row 17
+✅ Saved → HBQ | ha du du | Row 18
+✅ Saved → HBQ | ha du du | Row 19
+✅ Saved → HBQ | ha du du | Row 20
+✅ Saved → HBQ | ha du du | Row 21
+✅ Saved → HBQ | ha du du | Row 22
+✅ Saved → HBQ | ha du du | Row 23
+✅ Saved → HBQ | ha du du | Row 24
+✅ Saved → HBQ | ha du du | Row 25
+✅ Saved → HBQ | ha du du | Row 26
+✅ Saved → HBQ | ha du du | Row 27
+✅ Saved → HBQ | ha du du | Row 28
+✅ Saved → HBQ | ha du du | Row 29
+✅ Saved → HBQ | ha du du | Row 30
+✅ Saved → HBQ | ha du du | Row 31
+✅ Saved → HBQ | ha du du | Row 32
+✅ Saved → HBQ | ha du du | Row 33
+✅ Saved → HBQ | ha du du | Row 34
+✅ Saved → HBQ | ha du du | Row 35
+✅ Saved → HBQ | ha du du | Row 36
+✅ Saved → HBQ | ha du du | Row 37
+✅ Saved → HBQ | ha du du | Row 38
+✅ Saved → HBQ | ha du du | Row 39
+✅ Saved → HBQ | ha du du | Row 40
+✅ Saved → HBQ | ha du du | Row 41
+✅ Saved → HBQ | ha du du | Row 42
+✅ Saved → HBQ | ha du du | Row 43
+✅ Saved → HBQ | ha du du | Row 44
+✅ Saved → HBQ | ha du du | Row 45
+✅ Saved → HBQ | ha du du | Row 46
+✅ Saved → HBQ | ha du du | Row 47
+✅ Saved → HBQ | ha du du | Row 48
+✅ Saved → HBQ | ha du du | Row 49
+✅ Saved → HBQ | ha du du | Row 50
+✅ Saved → HBQ | ha du du | Row 51
+✅ Saved → HBQ | ha du du | Row 52
+✅ Saved → HBQ | ha du du | Row 53
+✅ Saved → HBQ | ha du du | Row 54
+✅ Saved → HBQ | ha du du | Row 55
+✅ Saved → HBQ | ha du du | Row 56
+✅ Saved → HBQ | ha du du | Row 57
+✅ Saved → HBQ | ha du du | Row 58
+✅ Saved → HBQ | ha du du | Row 59
+✅ Saved → HBQ | ha du du | Row 60
+✅ Saved → HBQ | ha du du | Row 61
+✅ Saved → HBQ | ha du du | Row 62
+✅ Saved → HBQ | ha du du | Row 63
+✅ Saved → HBQ | ha du du | Row 64
+✅ Saved → HBQ | ha du du | Row 65
+✅ Saved → HBQ | ha du du | Row 66
+✅ Saved → HBQ | ha du du | Row 67
+✅ Saved → HBQ | ha du du | Row 68
+✅ Saved → HBQ | ha du du | Row 69
+✅ Saved → HBQ | ha du du | Row 70
+✅ Saved → HBQ | ha du du | Row 71
+✅ Saved → HBQ | ha du du | Row 72
+✅ Saved → HBQ | ha du du | Row 73
+✅ Saved → HBQ | ha du du | Row 74
+✅ Saved → HBQ | ha du du | Row 75
+✅ Saved → HBQ | ha du du | Row 76
+✅ Saved → HBQ | ha du du | Row 77
+✅ Saved → HBQ | ha du du | Row 78
+✅ Saved → HBQ | ha du du | Row 79
+✅ Saved → HBQ | ha du du | Row 80
+✅ Saved → HBQ | ha du du | Row 81
+✅ Saved → HBQ | ha du du | Row 82
+✅ Saved → HBQ | ha du du | Row 83
+✅ Saved → HBQ | ha du du | Row 84
+✅ Saved → HBQ | ha du du | Row 85
+✅ Saved → HBQ | ha du du | Row 86
+✅ Saved → HBQ | ha du du | Row 87
+✅ Saved → HBQ | ha du du | Row 88
+✅ Saved → HBQ | ha du du | Row 89
+✅ Saved → HBQ | ha du du | Row 90
+✅ Saved → HBQ | ha du du | Row 91
+✅ Saved → HBQ | ha du du | Row 92
+✅ Saved → HBQ | ha du du | Row 93
+✅ Saved → HBQ | ha du du | Row 94
+✅ Saved → HBQ | ha du du | Row 95
+✅ Saved → HBQ | ha du du | Row 96
+✅ Saved → HBQ | ha du du | Row 97
+✅ Saved → HBQ | ha du du | Row 98
+✅ Saved → HBQ | ha du du | Row 99
+✅ Saved → HBQ | ha du du | Row 100
+✅ Saved → HBQ | ha du du | Row 101
+✅ Saved → HBQ | ha du du | Row 102
+✅ Saved → HBQ | ha du du | Row 103
+✅ Saved → HBQ | ha du du | Row 104
+✅ Saved → HBQ | ha du du | Row 105
+✅ Saved → HBQ | ha du du | Row 106
+✅ Saved → HBQ | ha du du | Row 107
+✅ Saved → HBQ | ha du du | Row 108
+✅ Saved → HBQ | ha du du | Row 109
+✅ Saved → HBQ | ha du du | Row 110
+✅ Saved → HBQ | ha du du | Row 111
+✅ Saved → HBQ | ha du du | Row 112
+✅ Saved → HBQ | ha du du | Row 113
+✅ Saved → HBQ | ha du du | Row 114
+✅ Saved → HBQ | ha du du | Row 115
+✅ Saved → HBQ | ha du du | Row 116
+✅ Saved → HBQ | ha du du | Row 117
+✅ Saved → HBQ | ha du du | Row 118
+✅ Saved → HBQ | ha du du | Row 119
+✅ Saved → HBQ | ha du du | Row 120
+✅ Saved → HBQ | ha du du | Row 121
+✅ Saved → HBQ | ha du du | Row 122
+✅ Saved → HBQ | ha du du | Row 123
+✅ Saved → HBQ | ha du du | Row 124
+✅ Saved → HBQ | ha du du | Row 125
+✅ Saved → HBQ | ha du du | Row 126
+✅ Saved → HBQ | ha du du | Row 127
+✅ Saved → HBQ | ha du du | Row 128
+✅ Saved → HBQ | ha du du | Row 129
+✅ Saved → HBQ | ha du du | Row 130
+✅ Saved → HBQ | ha du du | Row 131
+✅ Saved → HBQ | ha du du | Row 132
+✅ Saved → HBQ | ha du du | Row 133
+✅ Saved → HBQ | ha du du | Row 134
+✅ Saved → HBQ | ha du du | Row 135
+✅ Saved → HBQ | ha du du | Row 136
+✅ Saved → HBQ | ha du du | Row 137
+✅ Saved → HBQ | ha du du | Row 138
+✅ Saved → HBQ | ha du du | Row 139
+✅ Saved → HBQ | ha du du | Row 178
+✅ Saved → HBQ | lathi khela | Row 0
+✅ Saved → HBQ | lathi khela | Row 1
+✅ Saved → HBQ | lathi khela | Row 2
+✅ Saved → HBQ | lathi khela | Row 3
+✅ Saved → HBQ | lathi khela | Row 4
+✅ Saved → HBQ | lathi khela | Row 5
+✅ Saved → HBQ | lathi khela | Row 6
+✅ Saved → HBQ | lathi khela | Row 7
+✅ Saved → HBQ | lathi khela | Row 8
+✅ Saved → HBQ | lathi khela | Row 9
+✅ Saved → HBQ | lathi khela | Row 10
+✅ Saved → HBQ | lathi khela | Row 11
+✅ Saved → HBQ | lathi khela | Row 12
+✅ Saved → HBQ | lathi khela | Row 13
+✅ Saved → HBQ | lathi khela | Row 14
+✅ Saved → HBQ | lathi khela | Row 15
+✅ Saved → HBQ | lathi khela | Row 16
+✅ Saved → HBQ | lathi khela | Row 17
+✅ Saved → HBQ | lathi khela | Row 18
+✅ Saved → HBQ | lathi khela | Row 19
+✅ Saved → HBQ | lathi khela | Row 20
+✅ Saved → HBQ | lathi khela | Row 21
+✅ Saved → HBQ | lathi khela | Row 22
+✅ Saved → HBQ | lathi khela | Row 23
+✅ Saved → HBQ | lathi khela | Row 24
+✅ Saved → HBQ | lathi khela | Row 25
+✅ Saved → HBQ | lathi khela | Row 26
+✅ Saved → HBQ | lathi khela | Row 27
+✅ Saved → HBQ | lathi khela | Row 28
+✅ Saved → HBQ | lathi khela | Row 29
+✅ Saved → HBQ | lathi khela | Row 30
+✅ Saved → HBQ | lathi khela | Row 31
+✅ Saved → HBQ | lathi khela | Row 32
+✅ Saved → HBQ | lathi khela | Row 33
+✅ Saved → HBQ | lathi khela | Row 34
+✅ Saved → HBQ | lathi khela | Row 35
+✅ Saved → HBQ | lathi khela | Row 36
+✅ Saved → HBQ | lathi khela | Row 37
+✅ Saved → HBQ | lathi khela | Row 38
+✅ Saved → HBQ | lathi khela | Row 39
+✅ Saved → HBQ | lathi khela | Row 40
+✅ Saved → HBQ | lathi khela | Row 41
+✅ Saved → HBQ | lathi khela | Row 42
+✅ Saved → HBQ | lathi khela | Row 43
+✅ Saved → HBQ | lathi khela | Row 44
+✅ Saved → HBQ | lathi khela | Row 45
+✅ Saved → HBQ | lathi khela | Row 46
+✅ Saved → HBQ | lathi khela | Row 47
+✅ Saved → HBQ | lathi khela | Row 48
+✅ Saved → HBQ | lathi khela | Row 49
+✅ Saved → HBQ | lathi khela | Row 50
+✅ Saved → HBQ | lathi khela | Row 51
+✅ Saved → HBQ | lathi khela | Row 52
+✅ Saved → HBQ | lathi khela | Row 53
+✅ Saved → HBQ | lathi khela | Row 54
+✅ Saved → HBQ | lathi khela | Row 55
+✅ Saved → HBQ | lathi khela | Row 56
+✅ Saved → HBQ | lathi khela | Row 57
+✅ Saved → HBQ | lathi khela | Row 58
+✅ Saved → HBQ | lathi khela | Row 59
+✅ Saved → HBQ | lathi khela | Row 60
+✅ Saved → HBQ | lathi khela | Row 61
+✅ Saved → HBQ | lathi khela | Row 62
+✅ Saved → HBQ | lathi khela | Row 63
+✅ Saved → HBQ | lathi khela | Row 64
+✅ Saved → HBQ | lathi khela | Row 65
+✅ Saved → HBQ | lathi khela | Row 66
+✅ Saved → HBQ | lathi khela | Row 67
+✅ Saved → HBQ | lathi khela | Row 68
+✅ Saved → HBQ | lathi khela | Row 69
+✅ Saved → HBQ | lathi khela | Row 70
+✅ Saved → HBQ | lathi khela | Row 71
+✅ Saved → HBQ | lathi khela | Row 72
+✅ Saved → HBQ | lathi khela | Row 73
+✅ Saved → HBQ | lathi khela | Row 74
+✅ Saved → HBQ | lathi khela | Row 75
+✅ Saved → HBQ | lathi khela | Row 76
+✅ Saved → HBQ | lathi khela | Row 77
+✅ Saved → HBQ | lathi khela | Row 78
+✅ Saved → HBQ | lathi khela | Row 79
+✅ Saved → HBQ | lathi khela | Row 80
+✅ Saved → HBQ | lathi khela | Row 81
+Failed to decode JSON from model: {
+  "score": 0,
+  "mistake": "The question asks 'লাঠিয়াল বাহিনী' বলতে কী বোঝায়? (What does 'লাঠিয়াল বাহিনী' mean?), but the correct answer provided is 'খ) লাঠিয়ালদের একটি দল' (a group of lathials), which is semantically correct. However, the option in the original question is written as 'খ) একদল লাঠিয়াল', which is also correct in Bengali. The issue is that the correct answer key is written differently from the option text — it says 'লাঠিয়ালদের একটি দল' in the answer key but the option is 'একদল লাঠিয়াল'. This is a mismatch in phrasing, not content. The options must exactly match the correct answer as stated. Additionally, 'লাঠিয়াল বাহিনী' is a historical term referring to a group of armed lathials (club-wielders), often used in colonial Bengal as private enforcers. The term 'বাহিনী' means 'force' or 'unit', so the best answer should reflect that. Option খ is closest, but the answer key's phrasing is inconsistent with the option. Minimal correction needed to align option text with answer key.",
+  "improved_question": "লাঠিয়াল বাহিনী" বলতে কী বোঝায়?",
+  "improved_options": [
+    "ক) এক ধরণের লাঠি",
+    "খ) লাঠিয়ালদের একটি দল",
+    "গ) একটি বাদ্যযন্ত্র",
+    "ঘ) একটি প্রশিক্ষণ কৌশল"
+  ],
+  "correct_answer": "খ) লাঠিয়ালদের একটি দল"
+}
+✅ Saved → HBQ | lathi khela | Row 82
+✅ Saved → HBQ | lathi khela | Row 83
+✅ Saved → HBQ | lathi khela | Row 84
+✅ Saved → HBQ | lathi khela | Row 85
+✅ Saved → HBQ | lathi khela | Row 86
+✅ Saved → HBQ | lathi khela | Row 87
+✅ Saved → HBQ | lathi khela | Row 88
+✅ Saved → HBQ | lathi khela | Row 89
+✅ Saved → HBQ | lathi khela | Row 90
+✅ Saved → HBQ | lathi khela | Row 91
+✅ Saved → HBQ | lathi khela | Row 92
+✅ Saved → HBQ | lathi khela | Row 93
+✅ Saved → HBQ | lathi khela | Row 94
+✅ Saved → HBQ | lathi khela | Row 95
+✅ Saved → HBQ | lathi khela | Row 96
+✅ Saved → HBQ | lathi khela | Row 97
+✅ Saved → HBQ | lathi khela | Row 98
+✅ Saved → HBQ | lathi khela | Row 99
+✅ Saved → HBQ | lathi khela | Row 100
+✅ Saved → HBQ | lathi khela | Row 101
+✅ Saved → HBQ | lathi khela | Row 102
+✅ Saved → HBQ | lathi khela | Row 103
+✅ Saved → HBQ | lathi khela | Row 104
+✅ Saved → HBQ | lathi khela | Row 105
+✅ Saved → HBQ | lathi khela | Row 106
+✅ Saved → HBQ | lathi khela | Row 107
+✅ Saved → HBQ | lathi khela | Row 108
+✅ Saved → HBQ | lathi khela | Row 109
+✅ Saved → HBQ | lathi khela | Row 110
+✅ Saved → HBQ | lathi khela | Row 111
+✅ Saved → HBQ | lathi khela | Row 112
+✅ Saved → HBQ | lathi khela | Row 113
+✅ Saved → HBQ | lathi khela | Row 114
+✅ Saved → HBQ | lathi khela | Row 115
+✅ Saved → HBQ | lathi khela | Row 116
+✅ Saved → HBQ | lathi khela | Row 117
+✅ Saved → HBQ | lathi khela | Row 118
+✅ Saved → HBQ | lathi khela | Row 119
+✅ Saved → HBQ | lathi khela | Row 120
+✅ Saved → HBQ | lathi khela | Row 121
+✅ Saved → HBQ | lathi khela | Row 122
+✅ Saved → HBQ | lathi khela | Row 123
+✅ Saved → HBQ | lathi khela | Row 124
+✅ Saved → HBQ | nouka baich | Row 0
+✅ Saved → HBQ | nouka baich | Row 1
+✅ Saved → HBQ | nouka baich | Row 2
+✅ Saved → HBQ | nouka baich | Row 3
+✅ Saved → HBQ | nouka baich | Row 4
+✅ Saved → HBQ | nouka baich | Row 5
+✅ Saved → HBQ | nouka baich | Row 6
+✅ Saved → HBQ | nouka baich | Row 7
+✅ Saved → HBQ | nouka baich | Row 8
+✅ Saved → HBQ | nouka baich | Row 9
+✅ Saved → HBQ | nouka baich | Row 10
+✅ Saved → HBQ | nouka baich | Row 11
+✅ Saved → HBQ | nouka baich | Row 12
+✅ Saved → HBQ | nouka baich | Row 13
+✅ Saved → HBQ | nouka baich | Row 14
+✅ Saved → HBQ | nouka baich | Row 15
+✅ Saved → HBQ | nouka baich | Row 16
+✅ Saved → HBQ | nouka baich | Row 17
+✅ Saved → HBQ | nouka baich | Row 18
+✅ Saved → HBQ | nouka baich | Row 19
+✅ Saved → HBQ | nouka baich | Row 20
+✅ Saved → HBQ | nouka baich | Row 21
+✅ Saved → HBQ | nouka baich | Row 22
+✅ Saved → HBQ | nouka baich | Row 23
+✅ Saved → HBQ | nouka baich | Row 24
+✅ Saved → HBQ | nouka baich | Row 25
+✅ Saved → HBQ | nouka baich | Row 26
+✅ Saved → HBQ | nouka baich | Row 27
+✅ Saved → HBQ | nouka baich | Row 28
+✅ Saved → HBQ | nouka baich | Row 29
+✅ Saved → HBQ | nouka baich | Row 30
+✅ Saved → HBQ | nouka baich | Row 31
+✅ Saved → HBQ | nouka baich | Row 32
+✅ Saved → HBQ | nouka baich | Row 33
+✅ Saved → HBQ | nouka baich | Row 34
+✅ Saved → HBQ | nouka baich | Row 35
+✅ Saved → HBQ | nouka baich | Row 36
+✅ Saved → HBQ | nouka baich | Row 37
+✅ Saved → HBQ | nouka baich | Row 38
+✅ Saved → HBQ | nouka baich | Row 39
+✅ Saved → HBQ | nouka baich | Row 40
+✅ Saved → HBQ | nouka baich | Row 41
+✅ Saved → HBQ | nouka baich | Row 42
+✅ Saved → HBQ | nouka baich | Row 43
+✅ Saved → HBQ | nouka baich | Row 44
+✅ Saved → HBQ | nouka baich | Row 45
+✅ Saved → HBQ | nouka baich | Row 46
+✅ Saved → HBQ | nouka baich | Row 47
+✅ Saved → HBQ | nouka baich | Row 48
+✅ Saved → HBQ | nouka baich | Row 49
+✅ Saved → HBQ | nouka baich | Row 50
+✅ Saved → HBQ | nouka baich | Row 51
+✅ Saved → HBQ | nouka baich | Row 52
+✅ Saved → HBQ | nouka baich | Row 53
+✅ Saved → HBQ | nouka baich | Row 54
+✅ Saved → HBQ | nouka baich | Row 55
+✅ Saved → HBQ | nouka baich | Row 56
+✅ Saved → HBQ | nouka baich | Row 57
+✅ Saved → HBQ | nouka baich | Row 58
+✅ Saved → HBQ | nouka baich | Row 59
+✅ Saved → HBQ | nouka baich | Row 60
+✅ Saved → HBQ | nouka baich | Row 61
+✅ Saved → HBQ | nouka baich | Row 62
+✅ Saved → HBQ | nouka baich | Row 63
+✅ Saved → HBQ | nouka baich | Row 64
+✅ Saved → HBQ | nouka baich | Row 65
+✅ Saved → HBQ | nouka baich | Row 66
+✅ Saved → HBQ | nouka baich | Row 67
+✅ Saved → HBQ | nouka baich | Row 68
+✅ Saved → HBQ | nouka baich | Row 69
+✅ Saved → HBQ | nouka baich | Row 70
+✅ Saved → HBQ | nouka baich | Row 71
+✅ Saved → HBQ | nouka baich | Row 72
+✅ Saved → HBQ | nouka baich | Row 73
+✅ Saved → HBQ | nouka baich | Row 74
+✅ Saved → HBQ | nouka baich | Row 75
+✅ Saved → HBQ | nouka baich | Row 76
+✅ Saved → HBQ | nouka baich | Row 77
+✅ Saved → HBQ | nouka baich | Row 78
+✅ Saved → HBQ | nouka baich | Row 79
+✅ Saved → HBQ | nouka baich | Row 80
+✅ Saved → HBQ | nouka baich | Row 81
+✅ Saved → HBQ | nouka baich | Row 82
+✅ Saved → HBQ | nouka baich | Row 83
+✅ Saved → HBQ | nouka baich | Row 84
+✅ Saved → HBQ | nouka baich | Row 85
+✅ Saved → HBQ | nouka baich | Row 86
+✅ Saved → HBQ | nouka baich | Row 87
+✅ Saved → HBQ | nouka baich | Row 88
+✅ Saved → HBQ | nouka baich | Row 89
+✅ Saved → HBQ | nouka baich | Row 90
+✅ Saved → HBQ | nouka baich | Row 91
+✅ Saved → HBQ | nouka baich | Row 92
+✅ Saved → HBQ | nouka baich | Row 93
+✅ Saved → HBQ | nouka baich | Row 94
+✅ Saved → HBQ | nouka baich | Row 95
+✅ Saved → HBQ | nouka baich | Row 96
+✅ Saved → HBQ | nouka baich | Row 97
+✅ Saved → HBQ | nouka baich | Row 98
+✅ Saved → HBQ | nouka baich | Row 99
+✅ Saved → HBQ | nouka baich | Row 100
+✅ Saved → HBQ | nouka baich | Row 101
+✅ Saved → HBQ | nouka baich | Row 102
+✅ Saved → HBQ | nouka baich | Row 103
+✅ Saved → HBQ | nouka baich | Row 104
+✅ Saved → HBQ | nouka baich | Row 105
+✅ Saved → HBQ | nouka baich | Row 106
+✅ Saved → HBQ | nouka baich | Row 107
+✅ Saved → HBQ | nouka baich | Row 108
+✅ Saved → HBQ | nouka baich | Row 109
+✅ Saved → HBQ | nouka baich | Row 110
+✅ Saved → HBQ | nouka baich | Row 111
+✅ Saved → HBQ | nouka baich | Row 112
+✅ Saved → HBQ | nouka baich | Row 113
+✅ Saved → HBQ | nouka baich | Row 114
+✅ Saved → HBQ | nouka baich | Row 115
+✅ Saved → HBQ | nouka baich | Row 116
+✅ Saved → HBQ | nouka baich | Row 117
+✅ Saved → HBQ | nouka baich | Row 118
+✅ Saved → HBQ | nouka baich | Row 119
+✅ Saved → HBQ | nouka baich | Row 120
+✅ Saved → HBQ | nouka baich | Row 121
+✅ Saved → HBQ | nouka baich | Row 122
+✅ Saved → HBQ | nouka baich | Row 123
+✅ Saved → HBQ | nouka baich | Row 124
 
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/DATA/rohan_kirti/niladri/country/Bengali/HBQ/run.py", line 164, in <module>
-    score, mistake, improved_question, improved_options, correct_answer = f"ERROR: {e}"
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ValueError: too many values to unpack (expected 5)
+✅ COMPLETE!
+📄 Live-updating CSV: /DATA/rohan_kirti/country/Bengali/HBQ/Results_HBQ.csv
+✅ Successfully created '/DATA/rohan_kirti/country/Bengali/HBQ/Results_HBQ.xlsx'

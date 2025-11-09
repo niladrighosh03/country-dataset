@@ -1,6 +1,6 @@
-Started at: 01:58:27
+Started at: 10:31:08
 
-📌 Processing: /DATA/rohan_kirti/niladri/country/pakistan/SBQ/Pakistan_SBQ.xlsx
+📌 Processing: /DATA/rohan_kirti/country/pakistan/SBQ/Pakistan_SBQ.xlsx
 ✅ Saved → SBQ | Malakhra | Row 0
 ✅ Saved → SBQ | Malakhra | Row 1
 ✅ Saved → SBQ | Malakhra | Row 2
@@ -143,18 +143,6 @@ Started at: 01:58:27
 ✅ Saved → SBQ | Chaturanga | Row 11
 ✅ Saved → SBQ | Chaturanga | Row 12
 ✅ Saved → SBQ | Chaturanga | Row 13
-Failed to decode JSON from model: {
-  "score": 0,
-  "mistake": "The question contains a factual error: 'چتورنگا' (Chaturanga) is an ancient Indian precursor to chess, and the rule of 'en passant' did not exist in Chaturanga. However, the question incorrectly phrases the concept as 'خصوصی پیاد کی گرفتاری "این پاسنٹ"' which is misleading and grammatically awkward. Also, the correct answer option is labeled 'ب)' in the response but written as 'B)' in the options — inconsistency in labeling. The options are not clearly aligned with the question’s intent, and 'این پاسنٹ' is not a term used in Chaturanga, making the question logically flawed.",
-  "improved_question": "کیا چتورنگا میں 'این پاسنٹ' کا قانون موجود تھا؟",
-  "improved_options": [
-    "A) جی ہاں، چتورنگا میں ایں پاسنٹ کا قانون تھا",
-    "B) نہیں، ایں پاسنٹ ایک بعد کا یورپی اختراع تھا",
-    "C) صرف پاڈیٹس آ�� دی ایج فائلوں کے لیے",
-    "D) صرف چار پلیئر ورژن میں"
-  ],
-  "correct_answer": "B) نہیں، ایں پاسنٹ ایک بعد کا یورپی اختراع تھا"
-}
 ✅ Saved → SBQ | Chaturanga | Row 14
 ✅ Saved → SBQ | Chaturanga | Row 15
 ✅ Saved → SBQ | Chaturanga | Row 16
@@ -283,20 +271,545 @@ Failed to decode JSON from model: {
 ✅ Saved → SBQ | Chaturanga | Row 142
 ✅ Saved → SBQ | Chaturanga | Row 143
 ✅ Saved → SBQ | Chaturanga | Row 144
-Traceback (most recent call last):
-  File "/DATA/rohan_kirti/niladri/country/pakistan/SBQ/run.py", line 172, in <module>
-    score, mistake, improved_question,improved_options, correct_answer = ask_llm(q, option, ans)
-                                                                         ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/DATA/rohan_kirti/niladri/country/pakistan/SBQ/run.py", line 66, in ask_llm
-    response.raise_for_status()
-  File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/requests/models.py", line 1026, in raise_for_status
-    raise HTTPError(http_error_msg, response=self)
-requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://cloud.olakrutrim.com/v1/chat/completions
+✅ Saved → SBQ | Chaturanga | Row 145
+✅ Saved → SBQ | Chaturanga | Row 146
+✅ Saved → SBQ | Chaturanga | Row 147
+✅ Saved → SBQ | Chaturanga | Row 149
+✅ Saved → SBQ | Buzkashi | Row 0
+✅ Saved → SBQ | Buzkashi | Row 1
+✅ Saved → SBQ | Buzkashi | Row 2
+✅ Saved → SBQ | Buzkashi | Row 3
+✅ Saved → SBQ | Buzkashi | Row 4
+✅ Saved → SBQ | Buzkashi | Row 5
+✅ Saved → SBQ | Buzkashi | Row 6
+✅ Saved → SBQ | Buzkashi | Row 7
+✅ Saved → SBQ | Buzkashi | Row 8
+✅ Saved → SBQ | Buzkashi | Row 9
+✅ Saved → SBQ | Buzkashi | Row 10
+✅ Saved → SBQ | Buzkashi | Row 11
+✅ Saved → SBQ | Buzkashi | Row 12
+✅ Saved → SBQ | Buzkashi | Row 13
+✅ Saved → SBQ | Buzkashi | Row 14
+✅ Saved → SBQ | Buzkashi | Row 15
+✅ Saved → SBQ | Buzkashi | Row 16
+✅ Saved → SBQ | Buzkashi | Row 17
+✅ Saved → SBQ | Buzkashi | Row 18
+✅ Saved → SBQ | Buzkashi | Row 19
+✅ Saved → SBQ | Buzkashi | Row 20
+✅ Saved → SBQ | Buzkashi | Row 21
+✅ Saved → SBQ | Buzkashi | Row 22
+✅ Saved → SBQ | Buzkashi | Row 23
+✅ Saved → SBQ | Buzkashi | Row 24
+✅ Saved → SBQ | Buzkashi | Row 25
+✅ Saved → SBQ | Buzkashi | Row 26
+✅ Saved → SBQ | Buzkashi | Row 27
+✅ Saved → SBQ | Buzkashi | Row 28
+✅ Saved → SBQ | Buzkashi | Row 29
+✅ Saved → SBQ | Buzkashi | Row 30
+✅ Saved → SBQ | Buzkashi | Row 31
+✅ Saved → SBQ | Buzkashi | Row 32
+✅ Saved → SBQ | Buzkashi | Row 33
+✅ Saved → SBQ | Buzkashi | Row 34
+✅ Saved → SBQ | Buzkashi | Row 35
+✅ Saved → SBQ | Buzkashi | Row 36
+✅ Saved → SBQ | Buzkashi | Row 37
+✅ Saved → SBQ | Buzkashi | Row 38
+✅ Saved → SBQ | Buzkashi | Row 39
+✅ Saved → SBQ | Buzkashi | Row 40
+✅ Saved → SBQ | Buzkashi | Row 41
+✅ Saved → SBQ | Buzkashi | Row 42
+✅ Saved → SBQ | Buzkashi | Row 43
+✅ Saved → SBQ | Buzkashi | Row 44
+✅ Saved → SBQ | Buzkashi | Row 45
+✅ Saved → SBQ | Buzkashi | Row 46
+✅ Saved → SBQ | Buzkashi | Row 47
+✅ Saved → SBQ | Buzkashi | Row 48
+✅ Saved → SBQ | Buzkashi | Row 49
+✅ Saved → SBQ | Buzkashi | Row 50
+✅ Saved → SBQ | Buzkashi | Row 51
+✅ Saved → SBQ | Buzkashi | Row 52
+✅ Saved → SBQ | Buzkashi | Row 53
+✅ Saved → SBQ | Buzkashi | Row 54
+✅ Saved → SBQ | Buzkashi | Row 55
+✅ Saved → SBQ | Buzkashi | Row 56
+✅ Saved → SBQ | Buzkashi | Row 57
+✅ Saved → SBQ | Buzkashi | Row 58
+✅ Saved → SBQ | Buzkashi | Row 59
+✅ Saved → SBQ | Buzkashi | Row 60
+✅ Saved → SBQ | Buzkashi | Row 61
+✅ Saved → SBQ | Buzkashi | Row 62
+✅ Saved → SBQ | Buzkashi | Row 63
+✅ Saved → SBQ | Buzkashi | Row 64
+✅ Saved → SBQ | Buzkashi | Row 65
+✅ Saved → SBQ | Buzkashi | Row 66
+✅ Saved → SBQ | Buzkashi | Row 67
+✅ Saved → SBQ | Buzkashi | Row 69
+✅ Saved → SBQ | Buzkashi | Row 70
+✅ Saved → SBQ | Buzkashi | Row 71
+✅ Saved → SBQ | Buzkashi | Row 72
+✅ Saved → SBQ | Buzkashi | Row 73
+✅ Saved → SBQ | Buzkashi | Row 74
+✅ Saved → SBQ | Buzkashi | Row 75
+✅ Saved → SBQ | Buzkashi | Row 76
+✅ Saved → SBQ | Buzkashi | Row 77
+✅ Saved → SBQ | Buzkashi | Row 78
+✅ Saved → SBQ | Buzkashi | Row 79
+✅ Saved → SBQ | Buzkashi | Row 80
+✅ Saved → SBQ | Buzkashi | Row 82
+✅ Saved → SBQ | Buzkashi | Row 83
+✅ Saved → SBQ | Buzkashi | Row 84
+✅ Saved → SBQ | Buzkashi | Row 85
+✅ Saved → SBQ | Buzkashi | Row 86
+✅ Saved → SBQ | Buzkashi | Row 87
+✅ Saved → SBQ | Buzkashi | Row 88
+✅ Saved → SBQ | Buzkashi | Row 89
+✅ Saved → SBQ | Buzkashi | Row 90
+✅ Saved → SBQ | Buzkashi | Row 91
+✅ Saved → SBQ | Buzkashi | Row 92
+✅ Saved → SBQ | Buzkashi | Row 93
+✅ Saved → SBQ | Buzkashi | Row 94
+✅ Saved → SBQ | Buzkashi | Row 95
+✅ Saved → SBQ | Buzkashi | Row 96
+✅ Saved → SBQ | Buzkashi | Row 97
+✅ Saved → SBQ | Buzkashi | Row 98
+✅ Saved → SBQ | Buzkashi | Row 99
+✅ Saved → SBQ | Buzkashi | Row 100
+Failed to decode JSON from model: {
+  "score": 0,
+  "mistake": "The term 'آگ کی کمی' (lack of fire) is factually incorrect and logically inconsistent in the context of horse types. 'ٹھنڈے خون والے' (cold-blooded) horses are not described by 'fire'—this term is metaphorical and misapplied. In equine terminology, 'cold-blooded' refers to calm, steady temperaments suited for draft work, while 'hot-blooded' refers to energetic, spirited breeds like Arabians. 'Fire' is not a standard or accurate descriptor for performance traits in this context.",
+  "improved_question": "ٹھنڈے خون والے" گھوڑے کی بنیادی خصوصیت کیا ہے، اور یہ ریس کے لیے کیوں نا مناسب ہے؟",
+  "improved_options": [
+    "ا) وہ جارحانہ ہیں؛ وہ بہت خطرناک ہیں",
+    "ب) وہ پرسکون اور سست ہیں؛ ان میں ضروری رفتار اور توانائی کی کمی ہے",
+    "C) وہ چھوٹے ہیں؛ وہ کافی مضبوط نہیں ہی��",
+    "D) وہ نایاب ہیں؛ وہ بہت مہنگے ہیں"
+  ],
+  "correct_answer": "ب) وہ پرسکون اور سست ہیں؛ ان میں ضروری رفتار اور توانائی کی کمی ہے"
+}
+✅ Saved → SBQ | Buzkashi | Row 101
+✅ Saved → SBQ | Buzkashi | Row 102
+✅ Saved → SBQ | Buzkashi | Row 103
+✅ Saved → SBQ | Buzkashi | Row 104
+✅ Saved → SBQ | Buzkashi | Row 105
+✅ Saved → SBQ | Buzkashi | Row 106
+✅ Saved → SBQ | Buzkashi | Row 107
+✅ Saved → SBQ | Buzkashi | Row 108
+✅ Saved → SBQ | Buzkashi | Row 111
+✅ Saved → SBQ | Buzkashi | Row 112
+✅ Saved → SBQ | Buzkashi | Row 113
+✅ Saved → SBQ | Buzkashi | Row 114
+✅ Saved → SBQ | Buzkashi | Row 115
+✅ Saved → SBQ | Buzkashi | Row 116
+✅ Saved → SBQ | Buzkashi | Row 117
+✅ Saved → SBQ | Buzkashi | Row 118
+✅ Saved → SBQ | Buzkashi | Row 119
+✅ Saved → SBQ | Buzkashi | Row 120
+✅ Saved → SBQ | Buzkashi | Row 121
+✅ Saved → SBQ | Buzkashi | Row 122
+✅ Saved → SBQ | Buzkashi | Row 123
+✅ Saved → SBQ | Buzkashi | Row 124
+✅ Saved → SBQ | Buzkashi | Row 125
+✅ Saved → SBQ | Buzkashi | Row 126
+✅ Saved → SBQ | Buzkashi | Row 127
+✅ Saved → SBQ | Buzkashi | Row 128
+✅ Saved → SBQ | Buzkashi | Row 129
+✅ Saved → SBQ | Buzkashi | Row 130
+✅ Saved → SBQ | Buzkashi | Row 131
+✅ Saved → SBQ | Buzkashi | Row 132
+✅ Saved → SBQ | Buzkashi | Row 133
+✅ Saved → SBQ | Buzkashi | Row 134
+✅ Saved → SBQ | Buzkashi | Row 135
+✅ Saved → SBQ | Buzkashi | Row 136
+✅ Saved → SBQ | Buzkashi | Row 137
+✅ Saved → SBQ | Buzkashi | Row 138
+✅ Saved → SBQ | Buzkashi | Row 139
+✅ Saved → SBQ | Buzkashi | Row 140
+✅ Saved → SBQ | Gatka | Row 0
+✅ Saved → SBQ | Gatka | Row 1
+✅ Saved → SBQ | Gatka | Row 2
+✅ Saved → SBQ | Gatka | Row 3
+✅ Saved → SBQ | Gatka | Row 4
+✅ Saved → SBQ | Gatka | Row 5
+✅ Saved → SBQ | Gatka | Row 6
+✅ Saved → SBQ | Gatka | Row 7
+✅ Saved → SBQ | Gatka | Row 8
+✅ Saved → SBQ | Gatka | Row 9
+✅ Saved → SBQ | Gatka | Row 10
+✅ Saved → SBQ | Gatka | Row 11
+✅ Saved → SBQ | Gatka | Row 12
+✅ Saved → SBQ | Gatka | Row 13
+✅ Saved → SBQ | Gatka | Row 14
+✅ Saved → SBQ | Gatka | Row 15
+✅ Saved → SBQ | Gatka | Row 16
+✅ Saved → SBQ | Gatka | Row 17
+✅ Saved → SBQ | Gatka | Row 18
+✅ Saved → SBQ | Gatka | Row 19
+✅ Saved → SBQ | Gatka | Row 20
+✅ Saved → SBQ | Gatka | Row 21
+✅ Saved → SBQ | Gatka | Row 22
+✅ Saved → SBQ | Gatka | Row 23
+✅ Saved → SBQ | Gatka | Row 24
+✅ Saved → SBQ | Gatka | Row 25
+✅ Saved → SBQ | Gatka | Row 26
+✅ Saved → SBQ | Gatka | Row 27
+✅ Saved → SBQ | Gatka | Row 28
+✅ Saved → SBQ | Gatka | Row 29
+✅ Saved → SBQ | Gatka | Row 30
+✅ Saved → SBQ | Gatka | Row 31
+✅ Saved → SBQ | Gatka | Row 32
+✅ Saved → SBQ | Gatka | Row 33
+✅ Saved → SBQ | Gatka | Row 34
+✅ Saved → SBQ | Gatka | Row 35
+✅ Saved → SBQ | Gatka | Row 36
+✅ Saved → SBQ | Gatka | Row 37
+✅ Saved → SBQ | Gatka | Row 38
+✅ Saved → SBQ | Gatka | Row 39
+✅ Saved → SBQ | Gatka | Row 40
+✅ Saved → SBQ | Gatka | Row 41
+✅ Saved → SBQ | Gatka | Row 42
+✅ Saved → SBQ | Gatka | Row 43
+✅ Saved → SBQ | Gatka | Row 44
+✅ Saved → SBQ | Gatka | Row 45
+✅ Saved → SBQ | Gatka | Row 46
+✅ Saved → SBQ | Gatka | Row 47
+✅ Saved → SBQ | Gatka | Row 48
+✅ Saved → SBQ | Gatka | Row 49
+✅ Saved → SBQ | Gatka | Row 50
+✅ Saved → SBQ | Gatka | Row 51
+✅ Saved → SBQ | Gatka | Row 52
+✅ Saved → SBQ | Gatka | Row 53
+✅ Saved → SBQ | Gatka | Row 54
+✅ Saved → SBQ | Gatka | Row 55
+✅ Saved → SBQ | Gatka | Row 56
+✅ Saved → SBQ | Gatka | Row 57
+✅ Saved → SBQ | Gatka | Row 58
+✅ Saved → SBQ | Gatka | Row 59
+✅ Saved → SBQ | Gatka | Row 60
+✅ Saved → SBQ | Gatka | Row 61
+✅ Saved → SBQ | Gatka | Row 62
+✅ Saved → SBQ | Gatka | Row 63
+✅ Saved → SBQ | Gatka | Row 64
+✅ Saved → SBQ | Gatka | Row 65
+✅ Saved → SBQ | Gatka | Row 66
+✅ Saved → SBQ | Gatka | Row 67
+✅ Saved → SBQ | Gatka | Row 68
+✅ Saved → SBQ | Gatka | Row 69
+✅ Saved → SBQ | Gatka | Row 70
+✅ Saved → SBQ | Gatka | Row 72
+✅ Saved → SBQ | Gatka | Row 73
+✅ Saved → SBQ | Gatka | Row 74
+✅ Saved → SBQ | Gatka | Row 77
+✅ Saved → SBQ | Gatka | Row 78
+✅ Saved → SBQ | Gatka | Row 79
+✅ Saved → SBQ | Gatka | Row 80
+✅ Saved → SBQ | Gatka | Row 81
+✅ Saved → SBQ | Gatka | Row 82
+✅ Saved → SBQ | Gatka | Row 83
+✅ Saved → SBQ | Gatka | Row 84
+✅ Saved → SBQ | Gatka | Row 85
+✅ Saved → SBQ | Gatka | Row 86
+✅ Saved → SBQ | Gatka | Row 92
+✅ Saved → SBQ | Gatka | Row 97
+✅ Saved → SBQ | Gatka | Row 98
+✅ Saved → SBQ | Gatka | Row 100
+✅ Saved → SBQ | Gatka | Row 101
+✅ Saved → SBQ | Gatka | Row 102
+✅ Saved → SBQ | Gatka | Row 103
+✅ Saved → SBQ | Gatka | Row 104
+✅ Saved → SBQ | Gatka | Row 105
+✅ Saved → SBQ | Gatka | Row 106
+✅ Saved → SBQ | Gatka | Row 107
+✅ Saved → SBQ | Gatka | Row 108
+✅ Saved → SBQ | Gatka | Row 109
+✅ Saved → SBQ | Gatka | Row 110
+✅ Saved → SBQ | Gatka | Row 111
+✅ Saved → SBQ | Gatka | Row 112
+✅ Saved → SBQ | Gatka | Row 113
+✅ Saved → SBQ | Gatka | Row 114
+✅ Saved → SBQ | Gatka | Row 115
+✅ Saved → SBQ | Gatka | Row 116
+✅ Saved → SBQ | Gatka | Row 117
+✅ Saved → SBQ | Gatka | Row 118
+✅ Saved → SBQ | Gatka | Row 119
+Failed to decode JSON from model: {
+  "score": 0,
+  "mistake": "The question is in Urdu but contains mixed English terms ('footwork pattern', 'angle', 'dip') without proper Urdu translation or context. The term 'گٹکا' is incorrect for 'basketball' — it should be 'بالکٹ' or 'بیسکٹ بال'. Also, 'فارورڈ چارج' and 'ساکت کھڑا ہونا' are not standard defensive footwork terms in basketball. The correct answer option (B) uses 'ایک طرف قدم یا "اینگولیشن" (ڈیپچ)" which is partially correct but poorly phrased. 'ڈیپچ' is not a standard term; 'dip' should be translated as 'ڈپ' or 'گھٹنا ٹیکنا'. The question lacks clarity and correct terminology.",
+  "improved_question": "بیسکٹ بال میں سے کون سا فٹ ورک پیٹرن ایک اہم دفاعی حرکت ہے؟",
+  "improved_options": [
+    "A) فارورڈ چارج",
+    "B) ایک طرف قدم یا 'اینگولیشن' (ڈپ)",
+    "C) ساکت کھڑا ہونا",
+    "D) ایک کم کراؤچ"
+  ],
+  "correct_answer": "B) ایک طرف قدم یا 'اینگولیشن' (ڈپ)"
+}
+✅ Saved → SBQ | Gatka | Row 120
+✅ Saved → SBQ | Gatka | Row 121
+✅ Saved → SBQ | Gatka | Row 122
+✅ Saved → SBQ | Gatka | Row 123
+✅ Saved → SBQ | Gatka | Row 124
+✅ Saved → SBQ | Gatka | Row 125
+✅ Saved → SBQ | Gatka | Row 126
+✅ Saved → SBQ | Gatka | Row 128
+✅ Saved → SBQ | Gatka | Row 129
+✅ Saved → SBQ | Gatka | Row 130
+✅ Saved → SBQ | Gatka | Row 131
+✅ Saved → SBQ | Gatka | Row 132
+✅ Saved → SBQ | Gatka | Row 134
+✅ Saved → SBQ | Gatka | Row 135
+✅ Saved → SBQ | Gatka | Row 137
+✅ Saved → SBQ | Gatka | Row 138
+✅ Saved → SBQ | Gatka | Row 143
+Failed to decode JSON from model: {
+  "score": 0,
+  "mistake": "The question contains a factual error: 'گٹکا' (Gutta) is not a recognized sport stick; the correct term is 'hurley' or 'camán' in Irish sports context, but the intended comparison is between 'hurling camán' (Irish shillelagh) and 'gutta' — which is likely a misspelling or misnomer for 'hockey stick' or 'gaelic hurling stick'. Moreover, 'شیللاگ' (shillelagh) is a traditional Irish wooden club, often used in stick-fighting, not the official hurling stick. The official Irish hurling stick is called 'camán', not 'shillelagh'. The question confuses shillelagh (a walking stick/club) with camán (hurling stick), making the premise factually incorrect. Option B and C are based on this false premise.",
+  "improved_question": "گیلک ہرلنگ کی "کامان" اور آئرش "شیللاگ" کے درمیان بنیادی فرق کیا ہے؟",
+  "improved_options": [
+    "A) کامان لمبا ہوتا ہے،",
+    "B) کامان دو ہاتھ والے انداز میں استعمال ہوتا ہے، جبکہ شیللاگ عام طور پر ایک ہاتھ کی ہوتا ہے،",
+    "C) شیللاگ کے سرے پر ایک دستہ ہوتا ہے،",
+    "D) B اور C دونوں"
+  ],
+  "correct_answer": "D) B اور C دونوں"
+}
+✅ Saved → SBQ | Gatka | Row 144
+✅ Saved → SBQ | Gatka | Row 146
+✅ Saved → SBQ | Gatka | Row 147
+✅ Saved → SBQ | Gatka | Row 148
+✅ Saved → SBQ | Gatka | Row 149
+✅ Saved → SBQ | Gilli Danda | Row 0
+✅ Saved → SBQ | Gilli Danda | Row 1
+✅ Saved → SBQ | Gilli Danda | Row 2
+✅ Saved → SBQ | Gilli Danda | Row 3
+✅ Saved → SBQ | Gilli Danda | Row 4
+✅ Saved → SBQ | Gilli Danda | Row 5
+✅ Saved → SBQ | Gilli Danda | Row 6
+✅ Saved → SBQ | Gilli Danda | Row 7
+✅ Saved → SBQ | Gilli Danda | Row 8
+✅ Saved → SBQ | Gilli Danda | Row 9
+✅ Saved → SBQ | Gilli Danda | Row 10
+✅ Saved → SBQ | Gilli Danda | Row 11
+✅ Saved → SBQ | Gilli Danda | Row 12
+✅ Saved → SBQ | Gilli Danda | Row 13
+✅ Saved → SBQ | Gilli Danda | Row 14
+✅ Saved → SBQ | Gilli Danda | Row 15
+✅ Saved → SBQ | Gilli Danda | Row 16
+✅ Saved → SBQ | Gilli Danda | Row 17
+✅ Saved → SBQ | Gilli Danda | Row 18
+✅ Saved → SBQ | Gilli Danda | Row 19
+✅ Saved → SBQ | Gilli Danda | Row 20
+✅ Saved → SBQ | Gilli Danda | Row 21
+✅ Saved → SBQ | Gilli Danda | Row 22
+✅ Saved → SBQ | Gilli Danda | Row 23
+✅ Saved → SBQ | Gilli Danda | Row 24
+✅ Saved → SBQ | Gilli Danda | Row 25
+✅ Saved → SBQ | Gilli Danda | Row 26
+✅ Saved → SBQ | Gilli Danda | Row 27
+✅ Saved → SBQ | Gilli Danda | Row 28
+✅ Saved → SBQ | Gilli Danda | Row 29
+✅ Saved → SBQ | Gilli Danda | Row 30
+✅ Saved → SBQ | Gilli Danda | Row 31
+✅ Saved → SBQ | Gilli Danda | Row 32
+✅ Saved → SBQ | Gilli Danda | Row 33
+✅ Saved → SBQ | Gilli Danda | Row 34
+✅ Saved → SBQ | Gilli Danda | Row 35
+✅ Saved → SBQ | Gilli Danda | Row 36
+✅ Saved → SBQ | Gilli Danda | Row 37
+✅ Saved → SBQ | Gilli Danda | Row 38
+✅ Saved → SBQ | Gilli Danda | Row 39
+✅ Saved → SBQ | Gilli Danda | Row 40
+✅ Saved → SBQ | Gilli Danda | Row 41
+✅ Saved → SBQ | Gilli Danda | Row 42
+✅ Saved → SBQ | Gilli Danda | Row 43
+✅ Saved → SBQ | Gilli Danda | Row 44
+✅ Saved → SBQ | Gilli Danda | Row 45
+✅ Saved → SBQ | Gilli Danda | Row 46
+✅ Saved → SBQ | Gilli Danda | Row 47
+✅ Saved → SBQ | Gilli Danda | Row 48
+✅ Saved → SBQ | Gilli Danda | Row 49
+✅ Saved → SBQ | Gilli Danda | Row 50
+✅ Saved → SBQ | Gilli Danda | Row 51
+✅ Saved → SBQ | Gilli Danda | Row 52
+✅ Saved → SBQ | Gilli Danda | Row 53
+✅ Saved → SBQ | Gilli Danda | Row 54
+✅ Saved → SBQ | Gilli Danda | Row 55
+✅ Saved → SBQ | Gilli Danda | Row 56
+✅ Saved → SBQ | Gilli Danda | Row 57
+✅ Saved → SBQ | Gilli Danda | Row 58
+✅ Saved → SBQ | Gilli Danda | Row 59
+✅ Saved → SBQ | Gilli Danda | Row 60
+✅ Saved → SBQ | Gilli Danda | Row 61
+✅ Saved → SBQ | Gilli Danda | Row 62
+✅ Saved → SBQ | Gilli Danda | Row 63
+✅ Saved → SBQ | Gilli Danda | Row 64
+✅ Saved → SBQ | Gilli Danda | Row 65
+✅ Saved → SBQ | Gilli Danda | Row 66
+✅ Saved → SBQ | Gilli Danda | Row 67
+✅ Saved → SBQ | Gilli Danda | Row 68
+✅ Saved → SBQ | Gilli Danda | Row 69
+✅ Saved → SBQ | Gilli Danda | Row 70
+✅ Saved → SBQ | Gilli Danda | Row 71
+✅ Saved → SBQ | Gilli Danda | Row 72
+✅ Saved → SBQ | Gilli Danda | Row 73
+✅ Saved → SBQ | Gilli Danda | Row 74
+✅ Saved → SBQ | Gilli Danda | Row 75
+✅ Saved → SBQ | Gilli Danda | Row 76
+✅ Saved → SBQ | Gilli Danda | Row 77
+✅ Saved → SBQ | Gilli Danda | Row 78
+✅ Saved → SBQ | Gilli Danda | Row 79
+✅ Saved → SBQ | Gilli Danda | Row 80
+✅ Saved → SBQ | Gilli Danda | Row 81
+✅ Saved → SBQ | Gilli Danda | Row 82
+✅ Saved → SBQ | Gilli Danda | Row 83
+✅ Saved → SBQ | Gilli Danda | Row 84
+✅ Saved → SBQ | Gilli Danda | Row 85
+✅ Saved → SBQ | Gilli Danda | Row 87
+✅ Saved → SBQ | Gilli Danda | Row 88
+✅ Saved → SBQ | Gilli Danda | Row 89
+✅ Saved → SBQ | Gilli Danda | Row 90
+✅ Saved → SBQ | Gilli Danda | Row 91
+✅ Saved → SBQ | Gilli Danda | Row 92
+✅ Saved → SBQ | Gilli Danda | Row 93
+✅ Saved → SBQ | Gilli Danda | Row 94
+✅ Saved → SBQ | Gilli Danda | Row 95
+✅ Saved → SBQ | Gilli Danda | Row 96
+✅ Saved → SBQ | Gilli Danda | Row 97
+✅ Saved → SBQ | Gilli Danda | Row 99
+✅ Saved → SBQ | Gilli Danda | Row 100
+✅ Saved → SBQ | Gilli Danda | Row 101
+✅ Saved → SBQ | Gilli Danda | Row 102
+✅ Saved → SBQ | Gilli Danda | Row 103
+✅ Saved → SBQ | Gilli Danda | Row 104
+✅ Saved → SBQ | Gilli Danda | Row 105
+✅ Saved → SBQ | Gilli Danda | Row 107
+✅ Saved → SBQ | Gilli Danda | Row 108
+✅ Saved → SBQ | Gilli Danda | Row 109
+✅ Saved → SBQ | Gilli Danda | Row 110
+✅ Saved → SBQ | Gilli Danda | Row 111
+✅ Saved → SBQ | Gilli Danda | Row 114
+✅ Saved → SBQ | Gilli Danda | Row 119
+✅ Saved → SBQ | Gilli Danda | Row 120
+✅ Saved → SBQ | Gilli Danda | Row 121
+✅ Saved → SBQ | Gilli Danda | Row 124
+✅ Saved → SBQ | Gilli Danda | Row 125
+✅ Saved → SBQ | Gilli Danda | Row 126
+✅ Saved → SBQ | Gilli Danda | Row 127
+✅ Saved → SBQ | Gilli Danda | Row 128
+✅ Saved → SBQ | Gilli Danda | Row 129
+✅ Saved → SBQ | Gilli Danda | Row 132
+✅ Saved → SBQ | Gilli Danda | Row 141
+✅ Saved → SBQ | Gilli Danda | Row 148
+✅ Saved → SBQ | Gilli Danda | Row 149
+✅ Saved → SBQ | Tent Pegging | Row 0
+✅ Saved → SBQ | Tent Pegging | Row 1
+✅ Saved → SBQ | Tent Pegging | Row 2
+✅ Saved → SBQ | Tent Pegging | Row 3
+✅ Saved → SBQ | Tent Pegging | Row 4
+✅ Saved → SBQ | Tent Pegging | Row 5
+✅ Saved → SBQ | Tent Pegging | Row 6
+✅ Saved → SBQ | Tent Pegging | Row 7
+✅ Saved → SBQ | Tent Pegging | Row 8
+✅ Saved → SBQ | Tent Pegging | Row 9
+✅ Saved → SBQ | Tent Pegging | Row 10
+✅ Saved → SBQ | Tent Pegging | Row 11
+✅ Saved → SBQ | Tent Pegging | Row 12
+✅ Saved → SBQ | Tent Pegging | Row 13
+✅ Saved → SBQ | Tent Pegging | Row 14
+Failed to decode JSON from model: {
+  "score": 0,
+  "mistake": "The question contains a factual error: 'انڈین فائل' (Indian File) is not a recognized term in sports. It appears to be a mistranslation or misinterpretation of 'Indian file' as a military or equestrian formation, but in the context of sports, especially horse-related disciplines like polo or cavalry drills, the term is incorrect. The correct term should be 'Indian file' as a marching or riding formation, but the question wrongly frames it as a team name. Additionally, option B uses 'پیگ' (peg), which is not a standard term in equestrian sports — likely meant to be 'کھنچ' (stroke) or 'گول' (goal), but in context of file formation, it's irrelevant. The entire question misrepresents the concept.",
+  "improved_question": ""انڈین فائل" کی ایک اہم خصوصیت کیا ہے؟",
+  "improved_options": [
+    "A) چار سوار ایک لائن میں برابر چارج کرتے ہیں",
+    "B) سوار ایک ہی لائن میں ��یک کے بعد ایک سوار ہوتے ہیں، ہر سوار الگ الگ وقت پر حرکت کرتا ہے",
+    "C) یہ ریلے ریس ہے",
+    "D) بھارت اور پاکستان کی ٹیمیں مقابلہ کرتی ہیں"
+  ],
+  "correct_answer": "B) سوار ایک ہی لائن میں ایک کے بعد ایک سوار ہوتے ہیں، ہر سوار الگ الگ وقت پر حرکت کرتا ہے"
+}
+✅ Saved → SBQ | Tent Pegging | Row 15
+✅ Saved → SBQ | Tent Pegging | Row 16
+✅ Saved → SBQ | Tent Pegging | Row 17
+✅ Saved → SBQ | Tent Pegging | Row 18
+✅ Saved → SBQ | Tent Pegging | Row 19
+✅ Saved → SBQ | Tent Pegging | Row 20
+✅ Saved → SBQ | Tent Pegging | Row 21
+✅ Saved → SBQ | Tent Pegging | Row 22
+✅ Saved → SBQ | Tent Pegging | Row 23
+✅ Saved → SBQ | Tent Pegging | Row 24
+✅ Saved → SBQ | Tent Pegging | Row 25
+✅ Saved → SBQ | Tent Pegging | Row 26
+✅ Saved → SBQ | Tent Pegging | Row 27
+✅ Saved → SBQ | Tent Pegging | Row 28
+✅ Saved → SBQ | Tent Pegging | Row 29
+✅ Saved → SBQ | Tent Pegging | Row 30
+✅ Saved → SBQ | Tent Pegging | Row 31
+✅ Saved → SBQ | Tent Pegging | Row 32
+✅ Saved → SBQ | Tent Pegging | Row 33
+✅ Saved → SBQ | Tent Pegging | Row 34
+✅ Saved → SBQ | Tent Pegging | Row 35
+✅ Saved → SBQ | Tent Pegging | Row 36
+✅ Saved → SBQ | Tent Pegging | Row 37
+✅ Saved → SBQ | Tent Pegging | Row 38
+Failed to decode JSON from model: {
+  "score": 0,
+  "mistake": "The question incorrectly refers to 'ٹینٹ پیگنگ' (tent pegging) as something practiced in Pakistan and calls it 'وراثت کا کھیل' (heritage game), but the term 'ٹینٹ پیگنگ' is not commonly used in Urdu/Punjabi contexts for this equestrian sport — the correct local term is 'ٹینٹ پیگنگ' is an English transliteration, but the cultural context is accurately described in option B. However, the main error is that 'ٹینٹ پیگنگ' is not a term typically used in Pakistan to describe the traditional equestrian sport; the correct and widely recognized term in Urdu is 'کھیل گھڑ سواری' or more specifically 'ٹینٹ پیگنگ' is understood but the question misrepresents it as a uniquely inherited practice without clarifying the actual traditional name. Also, option B is correct in content but the question’s phrasing is misleading because tent pegging is not uniquely called 'وراثت کا کھیل' in Pakistan — it is a recognized traditional sport. The bigger issue: tent pegging is not a Pakistani-specific heritage activity in the way implied; it is practiced across South Asia and the Middle East. However, the most critical factual error is that the correct answer (option B) is accurate, but the question's wording 'ٹینٹ پیگنگ کو "وراثت کا کھیل" سمجھا جانے کی بنیادی وجہ' is not how it is commonly referred to in Pakistan. The term 'وراثت کا کھیل' is not a standard label — it’s a description. The question should refer to the traditional name and context properly.",
+  "improved_question": "پاکستان میں گھڑ سواری کے اس روایتی کھیل کو 'وراثت کا کھیل' سمجھا جانے کی بنیادی وجہ کیا ہے جو فوجی مہارتوں اور قدیم گھڑ سواری کو برقرار رکھتا ہے؟",
+  "improved_options": [
+    "A) یہ ایک پرانا اور فرسودہ کھیل ہے جو اب مقبول نہیں ہے",
+    "B) یہ ایک زندہ روایت ہے جو قدیم گھڑ سواری اور فوجی مہارتوں کو محفوظ رکھتی ہے",
+    "C) یہ صرف 60 سال سے زیادہ عمر کے لوگ کرتے ہیں",
+    "D) یہ یونیسکو کی عالمی ثقافتی ورثہ کی سرگرمی ہے"
+  ],
+  "correct_answer": "ب) یہ ا��ک زندہ روایت ہے جو قدیم گھڑ سواری اور فوجی مہارتوں کو محفوظ رکھتی ہے۔"
+}
+✅ Saved → SBQ | Tent Pegging | Row 39
+✅ Saved → SBQ | Tent Pegging | Row 40
+✅ Saved → SBQ | Tent Pegging | Row 41
+✅ Saved → SBQ | Tent Pegging | Row 42
+✅ Saved → SBQ | Tent Pegging | Row 43
+✅ Saved → SBQ | Tent Pegging | Row 44
+✅ Saved → SBQ | Tent Pegging | Row 45
+✅ Saved → SBQ | Tent Pegging | Row 46
+✅ Saved → SBQ | Tent Pegging | Row 47
+✅ Saved → SBQ | Tent Pegging | Row 48
+✅ Saved → SBQ | Tent Pegging | Row 49
+✅ Saved → SBQ | Tent Pegging | Row 50
+✅ Saved → SBQ | Tent Pegging | Row 51
+✅ Saved → SBQ | Tent Pegging | Row 52
+✅ Saved → SBQ | Tent Pegging | Row 53
+✅ Saved → SBQ | Tent Pegging | Row 54
+✅ Saved → SBQ | Tent Pegging | Row 55
+✅ Saved → SBQ | Tent Pegging | Row 56
+✅ Saved → SBQ | Tent Pegging | Row 57
+✅ Saved → SBQ | Tent Pegging | Row 58
+✅ Saved → SBQ | Tent Pegging | Row 59
+✅ Saved → SBQ | Tent Pegging | Row 60
+✅ Saved → SBQ | Tent Pegging | Row 61
+✅ Saved → SBQ | Tent Pegging | Row 62
+✅ Saved → SBQ | Tent Pegging | Row 63
+✅ Saved → SBQ | Tent Pegging | Row 64
+✅ Saved → SBQ | Tent Pegging | Row 65
+✅ Saved → SBQ | Tent Pegging | Row 66
+✅ Saved → SBQ | Tent Pegging | Row 67
+✅ Saved → SBQ | Tent Pegging | Row 68
+✅ Saved → SBQ | Tent Pegging | Row 69
+✅ Saved → SBQ | Tent Pegging | Row 70
+✅ Saved → SBQ | Tent Pegging | Row 71
+✅ Saved → SBQ | Tent Pegging | Row 72
+✅ Saved → SBQ | Tent Pegging | Row 73
+✅ Saved → SBQ | Tent Pegging | Row 74
+✅ Saved → SBQ | Tent Pegging | Row 75
+✅ Saved → SBQ | Tent Pegging | Row 76
+✅ Saved → SBQ | Tent Pegging | Row 77
+✅ Saved → SBQ | Tent Pegging | Row 78
+✅ Saved → SBQ | Tent Pegging | Row 79
+✅ Saved → SBQ | Tent Pegging | Row 80
+✅ Saved → SBQ | Tent Pegging | Row 118
+✅ Saved → SBQ | Tent Pegging | Row 119
 
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/DATA/rohan_kirti/niladri/country/pakistan/SBQ/run.py", line 174, in <module>
-    score, mistake, improved_question, improved_options = f"ERROR: {e}"
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ValueError: too many values to unpack (expected 4)
+✅ COMPLETE!
+📄 Live-updating CSV: /DATA/rohan_kirti/country/pakistan/SBQ/Results_SBQ.csv
+Ended at: 11:29:41
+Total Duration: 0:58:33.459345
+✅ Successfully created '/DATA/rohan_kirti/country/pakistan/SBQ/Results_SBQ.xlsx'

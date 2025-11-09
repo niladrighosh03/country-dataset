@@ -82,38 +82,6 @@ Respond ONLY in JSON format (strictly):
         return None, None, None, None, None
 
 
-    model="Qwen3-Next-80B-A3B-Instruct"
-    headers = {
-        'Content-Type': 'application/json',
-        'Authorization': f'Bearer {API_KEY}'
-    }
-
-    payload = {
-        "model": model,
-        "messages": [{"role": "user", "content": prompt}],
-        "stream": False
-    }
-
-    response = requests.post(url, json=payload, headers=headers)
-    response.raise_for_status()
-
-    result = response.json()
-    content = result["choices"][0]["message"]["content"]
-
-    # Parse JSON returned by model
-    try:
-        data = json.loads(content)
-        return (
-            data.get("score"),
-            data.get("mistake"),
-            data.get("improved_question"),
-            data.get("improved_options")
-        )
-    except json.JSONDecodeError:
-        print("Failed to decode JSON from model:", content)
-        return None, None, None, None
-
-
 # %%
 # score, mistake, improved_question, improved_options  = ask_llm(
 #     "In chess, how many files?", "A) Four, B) Eight, C) Ten", "C"
@@ -123,16 +91,16 @@ Respond ONLY in JSON format (strictly):
 
 
 # %%
-base_path = "/DATA/rohan_kirti/niladri/country/china/RBQ/"  # main folder containing all countries
-output_file = "/DATA/rohan_kirti/niladri/country/china/RBQ/Results_RBQ.csv"
-# /DATA/rohan_kirti/niladri/country/china/RBQ/China_RBQ.xlsx
+base_path = "/DATA/rohan_kirti/country/china/RBQ/"  # main folder containing all countries
+output_file = "/DATA/rohan_kirti/country/china/RBQ/Results_RBQ.csv"
+# /DATA/rohan_kirti/country/china/RBQ/China_RBQ.xlsx
 
 
 # Input CSV file path
-input_csv = "/DATA/rohan_kirti/niladri/country/china/RBQ/Results_RBQ.csv"
+input_csv = "/DATA/rohan_kirti/country/china/RBQ/Results_RBQ.csv"
 
 # Output Excel file path
-output_excel = "/DATA/rohan_kirti/niladri/country/china/RBQ/Results_RBQ.xlsx"
+output_excel = "/DATA/rohan_kirti/country/china/RBQ/Results_RBQ.xlsx"
 # =============================
 # CONFIGURATION
 # =============================

@@ -1,6 +1,6 @@
-Started at: 02:13:37
+Started at: 10:07:28
 
-📌 Processing: /DATA/rohan_kirti/niladri/country/indonesia/HBQ/Indonesia_HBQ.xlsx
+📌 Processing: /DATA/rohan_kirti/country/indonesia/HBQ/Indonesia_HBQ.xlsx
 ✅ Saved → HBQ | badminton | Row 0
 ✅ Saved → HBQ | badminton | Row 1
 ✅ Saved → HBQ | badminton | Row 2
@@ -183,20 +183,631 @@ Started at: 02:13:37
 ✅ Saved → HBQ | karapan sapi | Row 121
 ✅ Saved → HBQ | karapan sapi | Row 122
 ✅ Saved → HBQ | karapan sapi | Row 123
-Traceback (most recent call last):
-  File "/DATA/rohan_kirti/niladri/country/indonesia/HBQ/run.py", line 210, in <module>
-    score, mistake, improved_question,improved_options, correct_answer = ask_llm(q, option, ans)
-                                                                         ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/DATA/rohan_kirti/niladri/country/indonesia/HBQ/run.py", line 65, in ask_llm
-    response.raise_for_status()
-  File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/requests/models.py", line 1026, in raise_for_status
-    raise HTTPError(http_error_msg, response=self)
-requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://cloud.olakrutrim.com/v1/chat/completions
+✅ Saved → HBQ | karapan sapi | Row 124
+✅ Saved → HBQ | karapan sapi | Row 125
+✅ Saved → HBQ | karapan sapi | Row 126
+✅ Saved → HBQ | karapan sapi | Row 127
+✅ Saved → HBQ | karapan sapi | Row 128
+✅ Saved → HBQ | karapan sapi | Row 129
+✅ Saved → HBQ | karapan sapi | Row 130
+✅ Saved → HBQ | karapan sapi | Row 131
+✅ Saved → HBQ | karapan sapi | Row 132
+✅ Saved → HBQ | karapan sapi | Row 133
+✅ Saved → HBQ | karapan sapi | Row 134
+✅ Saved → HBQ | karapan sapi | Row 135
+✅ Saved → HBQ | karapan sapi | Row 136
+✅ Saved → HBQ | karapan sapi | Row 137
+✅ Saved → HBQ | karapan sapi | Row 138
+✅ Saved → HBQ | karapan sapi | Row 139
+✅ Saved → HBQ | karapan sapi | Row 140
+✅ Saved → HBQ | karapan sapi | Row 141
+✅ Saved → HBQ | karapan sapi | Row 142
+✅ Saved → HBQ | karapan sapi | Row 143
+✅ Saved → HBQ | karapan sapi | Row 144
+✅ Saved → HBQ | karapan sapi | Row 145
+✅ Saved → HBQ | karapan sapi | Row 146
+✅ Saved → HBQ | karapan sapi | Row 147
+✅ Saved → HBQ | karapan sapi | Row 148
+✅ Saved → HBQ | karapan sapi | Row 149
+✅ Saved → HBQ | peresean | Row 0
+✅ Saved → HBQ | peresean | Row 1
+✅ Saved → HBQ | peresean | Row 2
+✅ Saved → HBQ | peresean | Row 3
+✅ Saved → HBQ | peresean | Row 4
+✅ Saved → HBQ | peresean | Row 5
+✅ Saved → HBQ | peresean | Row 6
+✅ Saved → HBQ | peresean | Row 7
+✅ Saved → HBQ | peresean | Row 8
+✅ Saved → HBQ | peresean | Row 9
+✅ Saved → HBQ | peresean | Row 10
+✅ Saved → HBQ | peresean | Row 11
+✅ Saved → HBQ | peresean | Row 12
+✅ Saved → HBQ | peresean | Row 13
+✅ Saved → HBQ | peresean | Row 14
+✅ Saved → HBQ | peresean | Row 15
+✅ Saved → HBQ | peresean | Row 16
+✅ Saved → HBQ | peresean | Row 17
+✅ Saved → HBQ | peresean | Row 18
+✅ Saved → HBQ | peresean | Row 19
+✅ Saved → HBQ | peresean | Row 20
+✅ Saved → HBQ | peresean | Row 21
+✅ Saved → HBQ | peresean | Row 22
+✅ Saved → HBQ | peresean | Row 23
+✅ Saved → HBQ | peresean | Row 24
+✅ Saved → HBQ | peresean | Row 25
+✅ Saved → HBQ | peresean | Row 26
+✅ Saved → HBQ | peresean | Row 27
+✅ Saved → HBQ | peresean | Row 28
+✅ Saved → HBQ | peresean | Row 29
+✅ Saved → HBQ | peresean | Row 30
+✅ Saved → HBQ | peresean | Row 31
+✅ Saved → HBQ | peresean | Row 32
+✅ Saved → HBQ | peresean | Row 33
+✅ Saved → HBQ | peresean | Row 34
+✅ Saved → HBQ | peresean | Row 35
+✅ Saved → HBQ | peresean | Row 36
+✅ Saved → HBQ | peresean | Row 37
+✅ Saved → HBQ | peresean | Row 38
+✅ Saved → HBQ | peresean | Row 39
+✅ Saved → HBQ | peresean | Row 40
+✅ Saved → HBQ | peresean | Row 41
+✅ Saved → HBQ | peresean | Row 42
+✅ Saved → HBQ | peresean | Row 43
+✅ Saved → HBQ | peresean | Row 44
+✅ Saved → HBQ | peresean | Row 45
+✅ Saved → HBQ | peresean | Row 46
+✅ Saved → HBQ | peresean | Row 48
+✅ Saved → HBQ | peresean | Row 49
+✅ Saved → HBQ | peresean | Row 50
+✅ Saved → HBQ | peresean | Row 51
+✅ Saved → HBQ | peresean | Row 52
+✅ Saved → HBQ | peresean | Row 53
+✅ Saved → HBQ | peresean | Row 54
+✅ Saved → HBQ | peresean | Row 55
+✅ Saved → HBQ | peresean | Row 56
+✅ Saved → HBQ | peresean | Row 57
+✅ Saved → HBQ | peresean | Row 58
+✅ Saved → HBQ | peresean | Row 59
+✅ Saved → HBQ | peresean | Row 60
+✅ Saved → HBQ | peresean | Row 61
+✅ Saved → HBQ | peresean | Row 62
+✅ Saved → HBQ | peresean | Row 63
+✅ Saved → HBQ | peresean | Row 64
+✅ Saved → HBQ | peresean | Row 65
+✅ Saved → HBQ | peresean | Row 66
+✅ Saved → HBQ | peresean | Row 67
+✅ Saved → HBQ | peresean | Row 68
+✅ Saved → HBQ | peresean | Row 69
+✅ Saved → HBQ | peresean | Row 70
+✅ Saved → HBQ | peresean | Row 71
+✅ Saved → HBQ | peresean | Row 72
+✅ Saved → HBQ | peresean | Row 73
+✅ Saved → HBQ | peresean | Row 74
+✅ Saved → HBQ | peresean | Row 75
+✅ Saved → HBQ | peresean | Row 76
+✅ Saved → HBQ | peresean | Row 77
+✅ Saved → HBQ | peresean | Row 78
+✅ Saved → HBQ | peresean | Row 79
+✅ Saved → HBQ | peresean | Row 80
+✅ Saved → HBQ | peresean | Row 81
+✅ Saved → HBQ | peresean | Row 82
+✅ Saved → HBQ | peresean | Row 83
+✅ Saved → HBQ | peresean | Row 84
+✅ Saved → HBQ | peresean | Row 85
+✅ Saved → HBQ | peresean | Row 86
+✅ Saved → HBQ | peresean | Row 87
+✅ Saved → HBQ | peresean | Row 88
+✅ Saved → HBQ | peresean | Row 89
+✅ Saved → HBQ | peresean | Row 90
+✅ Saved → HBQ | peresean | Row 91
+✅ Saved → HBQ | peresean | Row 92
+✅ Saved → HBQ | peresean | Row 93
+✅ Saved → HBQ | peresean | Row 94
+✅ Saved → HBQ | peresean | Row 95
+✅ Saved → HBQ | peresean | Row 96
+✅ Saved → HBQ | peresean | Row 97
+✅ Saved → HBQ | peresean | Row 98
+✅ Saved → HBQ | peresean | Row 99
+✅ Saved → HBQ | peresean | Row 100
+✅ Saved → HBQ | peresean | Row 101
+✅ Saved → HBQ | peresean | Row 102
+✅ Saved → HBQ | peresean | Row 103
+✅ Saved → HBQ | peresean | Row 104
+✅ Saved → HBQ | peresean | Row 105
+✅ Saved → HBQ | peresean | Row 106
+✅ Saved → HBQ | peresean | Row 107
+✅ Saved → HBQ | peresean | Row 108
+✅ Saved → HBQ | peresean | Row 109
+✅ Saved → HBQ | peresean | Row 110
+✅ Saved → HBQ | peresean | Row 111
+✅ Saved → HBQ | peresean | Row 112
+✅ Saved → HBQ | peresean | Row 113
+✅ Saved → HBQ | peresean | Row 114
+✅ Saved → HBQ | peresean | Row 115
+✅ Saved → HBQ | peresean | Row 116
+✅ Saved → HBQ | peresean | Row 117
+✅ Saved → HBQ | peresean | Row 118
+✅ Saved → HBQ | peresean | Row 119
+✅ Saved → HBQ | peresean | Row 120
+✅ Saved → HBQ | peresean | Row 121
+✅ Saved → HBQ | peresean | Row 122
+✅ Saved → HBQ | peresean | Row 123
+✅ Saved → HBQ | peresean | Row 124
+✅ Saved → HBQ | peresean | Row 125
+✅ Saved → HBQ | peresean | Row 126
+✅ Saved → HBQ | peresean | Row 127
+✅ Saved → HBQ | peresean | Row 128
+✅ Saved → HBQ | peresean | Row 129
+✅ Saved → HBQ | peresean | Row 130
+✅ Saved → HBQ | peresean | Row 131
+✅ Saved → HBQ | peresean | Row 132
+✅ Saved → HBQ | peresean | Row 133
+✅ Saved → HBQ | peresean | Row 134
+✅ Saved → HBQ | peresean | Row 135
+✅ Saved → HBQ | peresean | Row 136
+✅ Saved → HBQ | peresean | Row 137
+✅ Saved → HBQ | peresean | Row 138
+✅ Saved → HBQ | peresean | Row 139
+✅ Saved → HBQ | peresean | Row 140
+✅ Saved → HBQ | peresean | Row 141
+✅ Saved → HBQ | peresean | Row 142
+✅ Saved → HBQ | peresean | Row 143
+✅ Saved → HBQ | peresean | Row 144
+✅ Saved → HBQ | peresean | Row 145
+✅ Saved → HBQ | peresean | Row 146
+✅ Saved → HBQ | peresean | Row 147
+✅ Saved → HBQ | peresean | Row 148
+✅ Saved → HBQ | peresean | Row 149
+✅ Saved → HBQ | sepak takraw | Row 0
+✅ Saved → HBQ | sepak takraw | Row 1
+✅ Saved → HBQ | sepak takraw | Row 2
+✅ Saved → HBQ | sepak takraw | Row 3
+✅ Saved → HBQ | sepak takraw | Row 4
+✅ Saved → HBQ | sepak takraw | Row 5
+✅ Saved → HBQ | sepak takraw | Row 6
+✅ Saved → HBQ | sepak takraw | Row 7
+✅ Saved → HBQ | sepak takraw | Row 8
+✅ Saved → HBQ | sepak takraw | Row 9
+✅ Saved → HBQ | sepak takraw | Row 10
+✅ Saved → HBQ | sepak takraw | Row 11
+✅ Saved → HBQ | sepak takraw | Row 12
+✅ Saved → HBQ | sepak takraw | Row 13
+✅ Saved → HBQ | sepak takraw | Row 14
+✅ Saved → HBQ | sepak takraw | Row 15
+✅ Saved → HBQ | sepak takraw | Row 16
+✅ Saved → HBQ | sepak takraw | Row 17
+✅ Saved → HBQ | sepak takraw | Row 18
+✅ Saved → HBQ | sepak takraw | Row 19
+✅ Saved → HBQ | sepak takraw | Row 20
+✅ Saved → HBQ | sepak takraw | Row 21
+✅ Saved → HBQ | sepak takraw | Row 22
+✅ Saved → HBQ | sepak takraw | Row 23
+✅ Saved → HBQ | sepak takraw | Row 24
+✅ Saved → HBQ | sepak takraw | Row 25
+✅ Saved → HBQ | sepak takraw | Row 26
+✅ Saved → HBQ | sepak takraw | Row 27
+✅ Saved → HBQ | sepak takraw | Row 28
+✅ Saved → HBQ | sepak takraw | Row 29
+✅ Saved → HBQ | sepak takraw | Row 30
+✅ Saved → HBQ | sepak takraw | Row 31
+✅ Saved → HBQ | sepak takraw | Row 32
+✅ Saved → HBQ | sepak takraw | Row 33
+✅ Saved → HBQ | sepak takraw | Row 34
+✅ Saved → HBQ | sepak takraw | Row 35
+✅ Saved → HBQ | sepak takraw | Row 36
+✅ Saved → HBQ | sepak takraw | Row 37
+✅ Saved → HBQ | sepak takraw | Row 38
+✅ Saved → HBQ | sepak takraw | Row 39
+✅ Saved → HBQ | sepak takraw | Row 40
+✅ Saved → HBQ | sepak takraw | Row 41
+✅ Saved → HBQ | sepak takraw | Row 42
+✅ Saved → HBQ | sepak takraw | Row 43
+✅ Saved → HBQ | sepak takraw | Row 44
+✅ Saved → HBQ | sepak takraw | Row 45
+✅ Saved → HBQ | sepak takraw | Row 46
+✅ Saved → HBQ | sepak takraw | Row 47
+✅ Saved → HBQ | sepak takraw | Row 48
+✅ Saved → HBQ | sepak takraw | Row 49
+✅ Saved → HBQ | sepak takraw | Row 50
+✅ Saved → HBQ | sepak takraw | Row 51
+✅ Saved → HBQ | sepak takraw | Row 52
+✅ Saved → HBQ | sepak takraw | Row 53
+✅ Saved → HBQ | sepak takraw | Row 54
+✅ Saved → HBQ | sepak takraw | Row 55
+✅ Saved → HBQ | sepak takraw | Row 56
+✅ Saved → HBQ | sepak takraw | Row 57
+✅ Saved → HBQ | sepak takraw | Row 58
+✅ Saved → HBQ | sepak takraw | Row 59
+✅ Saved → HBQ | sepak takraw | Row 60
+✅ Saved → HBQ | sepak takraw | Row 61
+✅ Saved → HBQ | sepak takraw | Row 62
+✅ Saved → HBQ | sepak takraw | Row 63
+✅ Saved → HBQ | sepak takraw | Row 64
+✅ Saved → HBQ | sepak takraw | Row 65
+✅ Saved → HBQ | sepak takraw | Row 66
+✅ Saved → HBQ | sepak takraw | Row 67
+✅ Saved → HBQ | sepak takraw | Row 68
+✅ Saved → HBQ | sepak takraw | Row 69
+✅ Saved → HBQ | sepak takraw | Row 70
+✅ Saved → HBQ | sepak takraw | Row 71
+✅ Saved → HBQ | sepak takraw | Row 72
+✅ Saved → HBQ | sepak takraw | Row 73
+✅ Saved → HBQ | sepak takraw | Row 74
+✅ Saved → HBQ | sepak takraw | Row 75
+✅ Saved → HBQ | sepak takraw | Row 76
+✅ Saved → HBQ | sepak takraw | Row 77
+✅ Saved → HBQ | sepak takraw | Row 78
+✅ Saved → HBQ | sepak takraw | Row 79
+✅ Saved → HBQ | sepak takraw | Row 80
+✅ Saved → HBQ | sepak takraw | Row 81
+✅ Saved → HBQ | sepak takraw | Row 82
+✅ Saved → HBQ | sepak takraw | Row 83
+✅ Saved → HBQ | sepak takraw | Row 84
+✅ Saved → HBQ | sepak takraw | Row 85
+✅ Saved → HBQ | sepak takraw | Row 86
+✅ Saved → HBQ | sepak takraw | Row 87
+✅ Saved → HBQ | sepak takraw | Row 88
+✅ Saved → HBQ | sepak takraw | Row 89
+✅ Saved → HBQ | sepak takraw | Row 90
+✅ Saved → HBQ | sepak takraw | Row 91
+✅ Saved → HBQ | sepak takraw | Row 92
+✅ Saved → HBQ | sepak takraw | Row 93
+✅ Saved → HBQ | sepak takraw | Row 94
+✅ Saved → HBQ | sepak takraw | Row 95
+✅ Saved → HBQ | sepak takraw | Row 96
+✅ Saved → HBQ | sepak takraw | Row 97
+✅ Saved → HBQ | sepak takraw | Row 98
+✅ Saved → HBQ | sepak takraw | Row 99
+✅ Saved → HBQ | sepak takraw | Row 100
+✅ Saved → HBQ | sepak takraw | Row 101
+✅ Saved → HBQ | sepak takraw | Row 102
+✅ Saved → HBQ | sepak takraw | Row 103
+✅ Saved → HBQ | sepak takraw | Row 104
+✅ Saved → HBQ | sepak takraw | Row 105
+✅ Saved → HBQ | sepak takraw | Row 106
+✅ Saved → HBQ | sepak takraw | Row 107
+✅ Saved → HBQ | sepak takraw | Row 108
+✅ Saved → HBQ | sepak takraw | Row 109
+✅ Saved → HBQ | sepak takraw | Row 110
+✅ Saved → HBQ | sepak takraw | Row 111
+✅ Saved → HBQ | sepak takraw | Row 112
+✅ Saved → HBQ | sepak takraw | Row 113
+✅ Saved → HBQ | sepak takraw | Row 114
+✅ Saved → HBQ | sepak takraw | Row 115
+✅ Saved → HBQ | sepak takraw | Row 116
+✅ Saved → HBQ | sepak takraw | Row 117
+✅ Saved → HBQ | sepak takraw | Row 118
+✅ Saved → HBQ | sepak takraw | Row 119
+✅ Saved → HBQ | sepak takraw | Row 120
+✅ Saved → HBQ | sepak takraw | Row 121
+✅ Saved → HBQ | sepak takraw | Row 122
+✅ Saved → HBQ | sepak takraw | Row 123
+✅ Saved → HBQ | sepak takraw | Row 124
+✅ Saved → HBQ | sepak takraw | Row 125
+✅ Saved → HBQ | sepak takraw | Row 126
+✅ Saved → HBQ | sepak takraw | Row 127
+✅ Saved → HBQ | sepak takraw | Row 128
+✅ Saved → HBQ | sepak takraw | Row 129
+✅ Saved → HBQ | sepak takraw | Row 130
+✅ Saved → HBQ | sepak takraw | Row 131
+✅ Saved → HBQ | sepak takraw | Row 132
+✅ Saved → HBQ | sepak takraw | Row 133
+✅ Saved → HBQ | sepak takraw | Row 134
+✅ Saved → HBQ | sepak takraw | Row 135
+✅ Saved → HBQ | sepak takraw | Row 136
+✅ Saved → HBQ | sepak takraw | Row 137
+✅ Saved → HBQ | sepak takraw | Row 138
+✅ Saved → HBQ | sepak takraw | Row 139
+✅ Saved → HBQ | sepak takraw | Row 140
+✅ Saved → HBQ | sepak takraw | Row 141
+✅ Saved → HBQ | sepak takraw | Row 142
+✅ Saved → HBQ | sepak takraw | Row 143
+✅ Saved → HBQ | sepak takraw | Row 144
+✅ Saved → HBQ | sepak takraw | Row 145
+✅ Saved → HBQ | sepak takraw | Row 146
+✅ Saved → HBQ | sepak takraw | Row 147
+✅ Saved → HBQ | sepak takraw | Row 148
+✅ Saved → HBQ | sepak takraw | Row 149
+Failed to decode JSON from model: {
+  "score": 0,
+  "mistake": "The question asks 'Siapakah yang mendirikan olahraga beladiri Indonesia Tarung Derajat?' and lists 'Achmad Dradjat' as the correct answer, but the founder's name is actually 'Achmad Dradjat' — however, the sport is named 'Tarung Derajat', which is derived from his name. The issue is that the correct spelling of the founder's name is 'Achmad Dradjat' (with 'j' not 'g'), but option B incorrectly spells it as 'Achmad Dradjat' — wait, actually the option says 'Achmad Dradjat' which is correct. However, upon verification, the founder's name is 'Achmad Dradjat' (with 'j'), and the option is correctly spelled. But the problem is: the sport 'Tarung Derajat' was founded by 'Achmad Dradjat', and option B is correctly written. Yet, the question is factually correct, but there is a known historical inaccuracy: the founder's name is often misspelled. However, in this case, option B is correctly spelled as 'Achmad Dradjat' — which is accurate. But wait — the correct spelling of the founder's name is 'Achmad Dradjat' (with 'j'), and the option says 'Achmad Dradjat' — that is a typo! It says 'Dradjat' with 'j', but in the option it is written as 'Dradjat' — which is correct. The option says 'Achmad Dradjat' — that is correct. So why score 0? Let me recheck: The actual founder is 'Achmad Dradjat' — yes, and option B is 'Achmad Dradjat' — that is correct. But the question is: the option is written as 'Achmad Dradjat' — which is correct. However, upon double-checking reliable sources, the founder's name is 'Achmad Dradjat' — spelled with 'j'. So the option is correct. But wait — the option says 'Achmad Dradjat' — that is spelled with 'j' — yes. So why is the score 0? The issue is not in spelling. The real issue is: the sport 'Tarung Derajat' was founded by 'Achmad Dradjat', but the name 'Dradjat' is the root of the sport's name. However, there is a common confusion: some sources spell it 'Drajat' with 'j', and some with 'g'. But the official and correct spelling is 'Dradjat' with 'j'. So option B is correct. But then why is the score 0? Because the question is factually correct, the answer is correct, and it's a valid MCQ. So the score should be 1. But the instruction says: evaluate. Let me verify one last time: According to official Tarung Derajat history, the founder is Achmad Dradjat (with 'j'). Option B is 'Achmad Dradjat' — correct. So everything is fine. But wait — the option says 'Achmad Dradjat' — that is correct. So why did I think it was wrong? I think I misread. The option is written as 'Achmad Dradjat' — yes, 'j'. So the answer is correct. But then why score 0? Because I made a mistake in analysis. Actually, the question and answer are correct. So score should be 1. But the user says: "Correct Answer: B) Achmad Dradjat" — and that is factually correct. So I must correct my initial judgment. The mistake is: I thought there was a spelling error, but there isn't. So: 1. Question is factually correct. 2. Answer is correct. 3. It's a valid MCQ. 4. No correction needed. So score = 1. But wait — I recall that the founder's name is often misspelled as 'Drajat' (with 'j') — but here it is correctly spelled as 'Dradjat' — which is the correct spelling. So everything is correct. Therefore, I retract my earlier error. Final judgment: all correct. Score = 1.",
+  "improved_question": "no correction needed",
+  "improved_options": "no correction needed",
+  "correct_answer": "no answer needed"
+}
+✅ Saved → HBQ | tarung derajat | Row 0
+✅ Saved → HBQ | tarung derajat | Row 1
+✅ Saved → HBQ | tarung derajat | Row 2
+✅ Saved → HBQ | tarung derajat | Row 3
+✅ Saved → HBQ | tarung derajat | Row 4
+✅ Saved → HBQ | tarung derajat | Row 5
+✅ Saved → HBQ | tarung derajat | Row 6
+✅ Saved → HBQ | tarung derajat | Row 7
+✅ Saved → HBQ | tarung derajat | Row 8
+✅ Saved → HBQ | tarung derajat | Row 9
+✅ Saved → HBQ | tarung derajat | Row 20
+✅ Saved → HBQ | tarung derajat | Row 21
+✅ Saved → HBQ | tarung derajat | Row 22
+✅ Saved → HBQ | tarung derajat | Row 23
+✅ Saved → HBQ | tarung derajat | Row 24
+✅ Saved → HBQ | tarung derajat | Row 25
+✅ Saved → HBQ | tarung derajat | Row 26
+✅ Saved → HBQ | tarung derajat | Row 27
+✅ Saved → HBQ | tarung derajat | Row 28
+✅ Saved → HBQ | tarung derajat | Row 29
+✅ Saved → HBQ | tarung derajat | Row 30
+✅ Saved → HBQ | tarung derajat | Row 31
+✅ Saved → HBQ | tarung derajat | Row 32
+✅ Saved → HBQ | tarung derajat | Row 33
+✅ Saved → HBQ | tarung derajat | Row 34
+✅ Saved → HBQ | tarung derajat | Row 35
+✅ Saved → HBQ | tarung derajat | Row 36
+✅ Saved → HBQ | tarung derajat | Row 37
+✅ Saved → HBQ | tarung derajat | Row 38
+✅ Saved → HBQ | tarung derajat | Row 39
+✅ Saved → HBQ | tarung derajat | Row 40
+✅ Saved → HBQ | tarung derajat | Row 41
+✅ Saved → HBQ | tarung derajat | Row 42
+✅ Saved → HBQ | tarung derajat | Row 43
+✅ Saved → HBQ | tarung derajat | Row 44
+✅ Saved → HBQ | tarung derajat | Row 45
+✅ Saved → HBQ | tarung derajat | Row 46
+✅ Saved → HBQ | tarung derajat | Row 47
+✅ Saved → HBQ | tarung derajat | Row 48
+✅ Saved → HBQ | tarung derajat | Row 49
+✅ Saved → HBQ | tarung derajat | Row 50
+✅ Saved → HBQ | tarung derajat | Row 51
+✅ Saved → HBQ | tarung derajat | Row 52
+✅ Saved → HBQ | tarung derajat | Row 53
+✅ Saved → HBQ | tarung derajat | Row 54
+✅ Saved → HBQ | tarung derajat | Row 55
+✅ Saved → HBQ | tarung derajat | Row 56
+✅ Saved → HBQ | tarung derajat | Row 57
+✅ Saved → HBQ | tarung derajat | Row 58
+✅ Saved → HBQ | tarung derajat | Row 59
+✅ Saved → HBQ | tarung derajat | Row 60
+✅ Saved → HBQ | tarung derajat | Row 61
+✅ Saved → HBQ | tarung derajat | Row 62
+✅ Saved → HBQ | tarung derajat | Row 63
+✅ Saved → HBQ | tarung derajat | Row 64
+✅ Saved → HBQ | tarung derajat | Row 65
+✅ Saved → HBQ | tarung derajat | Row 66
+✅ Saved → HBQ | tarung derajat | Row 67
+✅ Saved → HBQ | tarung derajat | Row 68
+✅ Saved → HBQ | tarung derajat | Row 69
+✅ Saved → HBQ | tarung derajat | Row 70
+✅ Saved → HBQ | tarung derajat | Row 71
+✅ Saved → HBQ | tarung derajat | Row 72
+✅ Saved → HBQ | tarung derajat | Row 73
+✅ Saved → HBQ | tarung derajat | Row 74
+✅ Saved → HBQ | tarung derajat | Row 75
+✅ Saved → HBQ | tarung derajat | Row 76
+✅ Saved → HBQ | tarung derajat | Row 77
+✅ Saved → HBQ | tarung derajat | Row 78
+✅ Saved → HBQ | tarung derajat | Row 79
+✅ Saved → HBQ | tarung derajat | Row 80
+✅ Saved → HBQ | tarung derajat | Row 81
+✅ Saved → HBQ | tarung derajat | Row 82
+✅ Saved → HBQ | tarung derajat | Row 83
+✅ Saved → HBQ | tarung derajat | Row 84
+✅ Saved → HBQ | tarung derajat | Row 85
+✅ Saved → HBQ | tarung derajat | Row 86
+✅ Saved → HBQ | tarung derajat | Row 87
+✅ Saved → HBQ | tarung derajat | Row 88
+✅ Saved → HBQ | tarung derajat | Row 89
+✅ Saved → HBQ | tarung derajat | Row 90
+✅ Saved → HBQ | tarung derajat | Row 91
+✅ Saved → HBQ | tarung derajat | Row 92
+✅ Saved → HBQ | tarung derajat | Row 93
+✅ Saved → HBQ | tarung derajat | Row 94
+✅ Saved → HBQ | tarung derajat | Row 95
+✅ Saved → HBQ | tarung derajat | Row 96
+✅ Saved → HBQ | tarung derajat | Row 97
+✅ Saved → HBQ | tarung derajat | Row 98
+✅ Saved → HBQ | tarung derajat | Row 99
+✅ Saved → HBQ | tarung derajat | Row 100
+✅ Saved → HBQ | tarung derajat | Row 101
+✅ Saved → HBQ | tarung derajat | Row 102
+✅ Saved → HBQ | tarung derajat | Row 103
+✅ Saved → HBQ | tarung derajat | Row 104
+✅ Saved → HBQ | tarung derajat | Row 105
+✅ Saved → HBQ | tarung derajat | Row 106
+✅ Saved → HBQ | tarung derajat | Row 107
+✅ Saved → HBQ | tarung derajat | Row 108
+✅ Saved → HBQ | tarung derajat | Row 109
+✅ Saved → HBQ | tarung derajat | Row 110
+✅ Saved → HBQ | tarung derajat | Row 111
+✅ Saved → HBQ | tarung derajat | Row 112
+✅ Saved → HBQ | tarung derajat | Row 113
+✅ Saved → HBQ | tarung derajat | Row 114
+✅ Saved → HBQ | tarung derajat | Row 115
+✅ Saved → HBQ | tarung derajat | Row 116
+✅ Saved → HBQ | tarung derajat | Row 117
+✅ Saved → HBQ | tarung derajat | Row 118
+✅ Saved → HBQ | tarung derajat | Row 119
+✅ Saved → HBQ | tarung derajat | Row 120
+✅ Saved → HBQ | tarung derajat | Row 121
+✅ Saved → HBQ | tarung derajat | Row 122
+✅ Saved → HBQ | tarung derajat | Row 123
+✅ Saved → HBQ | tarung derajat | Row 124
+✅ Saved → HBQ | tarung derajat | Row 125
+✅ Saved → HBQ | tarung derajat | Row 126
+✅ Saved → HBQ | tarung derajat | Row 127
+✅ Saved → HBQ | tarung derajat | Row 128
+✅ Saved → HBQ | tarung derajat | Row 129
+✅ Saved → HBQ | tarung derajat | Row 130
+✅ Saved → HBQ | tarung derajat | Row 131
+✅ Saved → HBQ | tarung derajat | Row 132
+✅ Saved → HBQ | tarung derajat | Row 133
+✅ Saved → HBQ | tarung derajat | Row 134
+✅ Saved → HBQ | tarung derajat | Row 135
+✅ Saved → HBQ | tarung derajat | Row 136
+✅ Saved → HBQ | tarung derajat | Row 137
+✅ Saved → HBQ | tarung derajat | Row 138
+✅ Saved → HBQ | tarung derajat | Row 139
+✅ Saved → HBQ | tarung derajat | Row 140
+✅ Saved → HBQ | tarung derajat | Row 141
+✅ Saved → HBQ | tarung derajat | Row 142
+✅ Saved → HBQ | tarung derajat | Row 143
+✅ Saved → HBQ | tarung derajat | Row 144
+✅ Saved → HBQ | tarung derajat | Row 145
+✅ Saved → HBQ | tarung derajat | Row 146
+✅ Saved → HBQ | tarung derajat | Row 147
+✅ Saved → HBQ | tarung derajat | Row 148
+✅ Saved → HBQ | tarung derajat | Row 149
+✅ Saved → HBQ | pencak silat | Row 0
+✅ Saved → HBQ | pencak silat | Row 1
+✅ Saved → HBQ | pencak silat | Row 2
+✅ Saved → HBQ | pencak silat | Row 3
+✅ Saved → HBQ | pencak silat | Row 4
+✅ Saved → HBQ | pencak silat | Row 5
+✅ Saved → HBQ | pencak silat | Row 6
+✅ Saved → HBQ | pencak silat | Row 7
+✅ Saved → HBQ | pencak silat | Row 8
+✅ Saved → HBQ | pencak silat | Row 9
+✅ Saved → HBQ | pencak silat | Row 10
+✅ Saved → HBQ | pencak silat | Row 11
+✅ Saved → HBQ | pencak silat | Row 12
+✅ Saved → HBQ | pencak silat | Row 13
+✅ Saved → HBQ | pencak silat | Row 14
+✅ Saved → HBQ | pencak silat | Row 15
+✅ Saved → HBQ | pencak silat | Row 16
+✅ Saved → HBQ | pencak silat | Row 17
+✅ Saved → HBQ | pencak silat | Row 18
+✅ Saved → HBQ | pencak silat | Row 19
+✅ Saved → HBQ | pencak silat | Row 20
+✅ Saved → HBQ | pencak silat | Row 21
+✅ Saved → HBQ | pencak silat | Row 22
+✅ Saved → HBQ | pencak silat | Row 23
+✅ Saved → HBQ | pencak silat | Row 24
+✅ Saved → HBQ | pencak silat | Row 25
+✅ Saved → HBQ | pencak silat | Row 26
+✅ Saved → HBQ | pencak silat | Row 27
+✅ Saved → HBQ | pencak silat | Row 28
+✅ Saved → HBQ | pencak silat | Row 29
+✅ Saved → HBQ | pencak silat | Row 30
+✅ Saved → HBQ | pencak silat | Row 31
+✅ Saved → HBQ | pencak silat | Row 32
+✅ Saved → HBQ | pencak silat | Row 33
+✅ Saved → HBQ | pencak silat | Row 34
+✅ Saved → HBQ | pencak silat | Row 35
+✅ Saved → HBQ | pencak silat | Row 36
+✅ Saved → HBQ | pencak silat | Row 37
+✅ Saved → HBQ | pencak silat | Row 38
+✅ Saved → HBQ | pencak silat | Row 39
+✅ Saved → HBQ | pencak silat | Row 40
+✅ Saved → HBQ | pencak silat | Row 41
+✅ Saved → HBQ | pencak silat | Row 42
+✅ Saved → HBQ | pencak silat | Row 43
+✅ Saved → HBQ | pencak silat | Row 44
+✅ Saved → HBQ | pencak silat | Row 45
+✅ Saved → HBQ | pencak silat | Row 46
+✅ Saved → HBQ | pencak silat | Row 47
+✅ Saved → HBQ | pencak silat | Row 48
+✅ Saved → HBQ | pencak silat | Row 49
+✅ Saved → HBQ | pencak silat | Row 50
+✅ Saved → HBQ | pencak silat | Row 51
+✅ Saved → HBQ | pencak silat | Row 52
+✅ Saved → HBQ | pencak silat | Row 53
+✅ Saved → HBQ | pencak silat | Row 54
+✅ Saved → HBQ | pencak silat | Row 55
+✅ Saved → HBQ | pencak silat | Row 56
+✅ Saved → HBQ | pencak silat | Row 57
+✅ Saved → HBQ | pencak silat | Row 58
+✅ Saved → HBQ | pencak silat | Row 59
+✅ Saved → HBQ | pencak silat | Row 60
+✅ Saved → HBQ | pencak silat | Row 61
+✅ Saved → HBQ | pencak silat | Row 62
+✅ Saved → HBQ | pencak silat | Row 63
+✅ Saved → HBQ | pencak silat | Row 64
+✅ Saved → HBQ | pencak silat | Row 65
+✅ Saved → HBQ | pencak silat | Row 66
+✅ Saved → HBQ | pencak silat | Row 67
+✅ Saved → HBQ | pencak silat | Row 68
+✅ Saved → HBQ | pencak silat | Row 69
+✅ Saved → HBQ | pencak silat | Row 70
+✅ Saved → HBQ | pencak silat | Row 71
+✅ Saved → HBQ | pencak silat | Row 72
+✅ Saved → HBQ | pencak silat | Row 73
+✅ Saved → HBQ | pencak silat | Row 74
+✅ Saved → HBQ | pencak silat | Row 75
+✅ Saved → HBQ | pencak silat | Row 76
+✅ Saved → HBQ | pencak silat | Row 77
+✅ Saved → HBQ | pencak silat | Row 78
+✅ Saved → HBQ | pencak silat | Row 79
+✅ Saved → HBQ | pencak silat | Row 80
+✅ Saved → HBQ | pencak silat | Row 81
+✅ Saved → HBQ | pencak silat | Row 82
+✅ Saved → HBQ | pencak silat | Row 83
+✅ Saved → HBQ | pencak silat | Row 84
+✅ Saved → HBQ | pencak silat | Row 85
+✅ Saved → HBQ | pencak silat | Row 86
+✅ Saved → HBQ | pencak silat | Row 87
+✅ Saved → HBQ | pencak silat | Row 88
+✅ Saved → HBQ | pencak silat | Row 89
+✅ Saved → HBQ | pencak silat | Row 90
+✅ Saved → HBQ | pencak silat | Row 91
+✅ Saved → HBQ | pencak silat | Row 92
+✅ Saved → HBQ | pencak silat | Row 93
+✅ Saved → HBQ | pencak silat | Row 94
+✅ Saved → HBQ | pencak silat | Row 95
+✅ Saved → HBQ | pencak silat | Row 96
+✅ Saved → HBQ | pencak silat | Row 97
+✅ Saved → HBQ | pencak silat | Row 98
+✅ Saved → HBQ | pencak silat | Row 99
+✅ Saved → HBQ | pencak silat | Row 100
+✅ Saved → HBQ | pencak silat | Row 101
+✅ Saved → HBQ | pencak silat | Row 102
+✅ Saved → HBQ | pencak silat | Row 103
+✅ Saved → HBQ | pencak silat | Row 104
+✅ Saved → HBQ | pencak silat | Row 105
+✅ Saved → HBQ | pencak silat | Row 106
+✅ Saved → HBQ | pencak silat | Row 107
+✅ Saved → HBQ | pencak silat | Row 108
+✅ Saved → HBQ | pencak silat | Row 109
+✅ Saved → HBQ | pencak silat | Row 110
+✅ Saved → HBQ | pencak silat | Row 111
+✅ Saved → HBQ | pencak silat | Row 112
+✅ Saved → HBQ | pencak silat | Row 113
+✅ Saved → HBQ | pencak silat | Row 114
+✅ Saved → HBQ | pencak silat | Row 115
+✅ Saved → HBQ | pencak silat | Row 116
+✅ Saved → HBQ | pencak silat | Row 117
+✅ Saved → HBQ | pencak silat | Row 118
+✅ Saved → HBQ | pencak silat | Row 119
+✅ Saved → HBQ | pencak silat | Row 120
+✅ Saved → HBQ | pencak silat | Row 121
+✅ Saved → HBQ | pencak silat | Row 122
+✅ Saved → HBQ | pencak silat | Row 123
+✅ Saved → HBQ | pencak silat | Row 124
+✅ Saved → HBQ | pencak silat | Row 125
+✅ Saved → HBQ | pencak silat | Row 126
+✅ Saved → HBQ | pencak silat | Row 127
+✅ Saved → HBQ | pencak silat | Row 128
+✅ Saved → HBQ | pencak silat | Row 129
+✅ Saved → HBQ | pencak silat | Row 130
+✅ Saved → HBQ | pencak silat | Row 131
+✅ Saved → HBQ | pencak silat | Row 132
+✅ Saved → HBQ | pencak silat | Row 133
+✅ Saved → HBQ | pencak silat | Row 134
+✅ Saved → HBQ | pencak silat | Row 135
+✅ Saved → HBQ | pencak silat | Row 136
+✅ Saved → HBQ | pencak silat | Row 137
+✅ Saved → HBQ | pencak silat | Row 138
+✅ Saved → HBQ | pencak silat | Row 139
+✅ Saved → HBQ | pencak silat | Row 140
+✅ Saved → HBQ | pencak silat | Row 141
+✅ Saved → HBQ | pencak silat | Row 142
+✅ Saved → HBQ | pencak silat | Row 143
+✅ Saved → HBQ | pencak silat | Row 144
+✅ Saved → HBQ | pencak silat | Row 145
+✅ Saved → HBQ | pencak silat | Row 146
+✅ Saved → HBQ | pencak silat | Row 147
+✅ Saved → HBQ | pencak silat | Row 148
+✅ Saved → HBQ | pencak silat | Row 149
 
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/DATA/rohan_kirti/niladri/country/indonesia/HBQ/run.py", line 212, in <module>
-    score, mistake, improved_question, improved_options = f"ERROR: {e}"
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ValueError: too many values to unpack (expected 4)
+✅ COMPLETE!
+📄 Live-updating CSV: /DATA/rohan_kirti/country/indonesia/HBQ/Results_HBQ.csv
+Ended at: 10:43:55
+Total Duration: 0:36:26.635306
+✅ Successfully created '/DATA/rohan_kirti/country/indonesia/HBQ/Results_HBQ.xlsx'

@@ -1,7 +1,7 @@
-Started at: 02:02:47
-['/DATA/rohan_kirti/niladri/country/china/RBQ/China_RBQ.xlsx']
+Started at: 09:41:34
+['/DATA/rohan_kirti/country/china/RBQ/China_RBQ.xlsx']
 
-📌 Processing: /DATA/rohan_kirti/niladri/country/china/RBQ/China_RBQ.xlsx
+📌 Processing: /DATA/rohan_kirti/country/china/RBQ/China_RBQ.xlsx
 ✅ Saved → RBQ | cuju | Row 0
 ✅ Saved → RBQ | cuju | Row 1
 ✅ Saved → RBQ | cuju | Row 2
@@ -311,20 +311,541 @@ Started at: 02:02:47
 ✅ Saved → RBQ | go | Row 27
 ✅ Saved → RBQ | go | Row 28
 ✅ Saved → RBQ | go | Row 29
-Traceback (most recent call last):
-  File "/DATA/rohan_kirti/niladri/country/china/RBQ/run.py", line 201, in <module>
-    score, mistake, improved_question,improved_options, correct_answer = ask_llm(q, option, ans)
-                                                                         ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/DATA/rohan_kirti/niladri/country/china/RBQ/run.py", line 65, in ask_llm
-    response.raise_for_status()
-  File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/requests/models.py", line 1026, in raise_for_status
-    raise HTTPError(http_error_msg, response=self)
-requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://cloud.olakrutrim.com/v1/chat/completions
+✅ Saved → RBQ | go | Row 30
+✅ Saved → RBQ | go | Row 31
+✅ Saved → RBQ | go | Row 32
+✅ Saved → RBQ | go | Row 33
+✅ Saved → RBQ | go | Row 34
+✅ Saved → RBQ | go | Row 35
+✅ Saved → RBQ | go | Row 36
+✅ Saved → RBQ | go | Row 37
+✅ Saved → RBQ | go | Row 38
+✅ Saved → RBQ | go | Row 39
+✅ Saved → RBQ | go | Row 40
+✅ Saved → RBQ | go | Row 41
+✅ Saved → RBQ | go | Row 42
+✅ Saved → RBQ | go | Row 43
+✅ Saved → RBQ | go | Row 44
+✅ Saved → RBQ | go | Row 45
+✅ Saved → RBQ | go | Row 46
+✅ Saved → RBQ | go | Row 47
+✅ Saved → RBQ | go | Row 49
+✅ Saved → RBQ | go | Row 50
+✅ Saved → RBQ | go | Row 51
+✅ Saved → RBQ | go | Row 52
+✅ Saved → RBQ | go | Row 53
+✅ Saved → RBQ | go | Row 54
+✅ Saved → RBQ | go | Row 55
+✅ Saved → RBQ | go | Row 56
+✅ Saved → RBQ | go | Row 57
+✅ Saved → RBQ | go | Row 58
+✅ Saved → RBQ | go | Row 59
+✅ Saved → RBQ | go | Row 60
+✅ Saved → RBQ | go | Row 61
+✅ Saved → RBQ | go | Row 62
+✅ Saved → RBQ | go | Row 63
+✅ Saved → RBQ | go | Row 64
+✅ Saved → RBQ | go | Row 65
+✅ Saved → RBQ | go | Row 66
+✅ Saved → RBQ | go | Row 67
+✅ Saved → RBQ | go | Row 68
+✅ Saved → RBQ | go | Row 69
+✅ Saved → RBQ | go | Row 70
+✅ Saved → RBQ | go | Row 71
+✅ Saved → RBQ | go | Row 72
+✅ Saved → RBQ | go | Row 73
+✅ Saved → RBQ | go | Row 74
+✅ Saved → RBQ | go | Row 75
+✅ Saved → RBQ | go | Row 76
+✅ Saved → RBQ | go | Row 77
+✅ Saved → RBQ | go | Row 78
+✅ Saved → RBQ | go | Row 79
+✅ Saved → RBQ | go | Row 80
+✅ Saved → RBQ | go | Row 81
+✅ Saved → RBQ | go | Row 82
+✅ Saved → RBQ | go | Row 83
+✅ Saved → RBQ | go | Row 84
+✅ Saved → RBQ | go | Row 85
+✅ Saved → RBQ | go | Row 86
+✅ Saved → RBQ | go | Row 87
+✅ Saved → RBQ | go | Row 88
+✅ Saved → RBQ | go | Row 89
+✅ Saved → RBQ | go | Row 90
+✅ Saved → RBQ | go | Row 91
+✅ Saved → RBQ | go | Row 92
+✅ Saved → RBQ | go | Row 93
+✅ Saved → RBQ | go | Row 94
+✅ Saved → RBQ | go | Row 95
+✅ Saved → RBQ | go | Row 96
+✅ Saved → RBQ | go | Row 97
+✅ Saved → RBQ | go | Row 98
+✅ Saved → RBQ | go | Row 99
+✅ Saved → RBQ | go | Row 100
+✅ Saved → RBQ | go | Row 101
+✅ Saved → RBQ | go | Row 102
+✅ Saved → RBQ | go | Row 103
+✅ Saved → RBQ | go | Row 104
+✅ Saved → RBQ | go | Row 105
+✅ Saved → RBQ | go | Row 106
+✅ Saved → RBQ | go | Row 107
+✅ Saved → RBQ | go | Row 108
+✅ Saved → RBQ | go | Row 109
+✅ Saved → RBQ | go | Row 110
+✅ Saved → RBQ | go | Row 111
+✅ Saved → RBQ | go | Row 112
+✅ Saved → RBQ | go | Row 113
+✅ Saved → RBQ | go | Row 114
+✅ Saved → RBQ | go | Row 115
+✅ Saved → RBQ | go | Row 116
+✅ Saved → RBQ | go | Row 117
+✅ Saved → RBQ | go | Row 118
+✅ Saved → RBQ | go | Row 119
+✅ Saved → RBQ | go | Row 120
+✅ Saved → RBQ | go | Row 121
+✅ Saved → RBQ | go | Row 122
+✅ Saved → RBQ | go | Row 123
+✅ Saved → RBQ | go | Row 124
+✅ Saved → RBQ | go | Row 125
+✅ Saved → RBQ | go | Row 126
+✅ Saved → RBQ | go | Row 127
+✅ Saved → RBQ | go | Row 128
+✅ Saved → RBQ | go | Row 129
+✅ Saved → RBQ | go | Row 130
+✅ Saved → RBQ | go | Row 131
+✅ Saved → RBQ | go | Row 132
+✅ Saved → RBQ | go | Row 133
+✅ Saved → RBQ | go | Row 134
+✅ Saved → RBQ | go | Row 135
+✅ Saved → RBQ | go | Row 136
+✅ Saved → RBQ | go | Row 137
+✅ Saved → RBQ | go | Row 138
+✅ Saved → RBQ | go | Row 139
+✅ Saved → RBQ | go | Row 140
+✅ Saved → RBQ | jianzi | Row 0
+✅ Saved → RBQ | jianzi | Row 1
+✅ Saved → RBQ | jianzi | Row 2
+✅ Saved → RBQ | jianzi | Row 3
+✅ Saved → RBQ | jianzi | Row 4
+✅ Saved → RBQ | jianzi | Row 5
+✅ Saved → RBQ | jianzi | Row 6
+✅ Saved → RBQ | jianzi | Row 7
+✅ Saved → RBQ | jianzi | Row 8
+✅ Saved → RBQ | jianzi | Row 9
+✅ Saved → RBQ | jianzi | Row 10
+✅ Saved → RBQ | jianzi | Row 11
+✅ Saved → RBQ | jianzi | Row 12
+✅ Saved → RBQ | jianzi | Row 13
+✅ Saved → RBQ | jianzi | Row 14
+✅ Saved → RBQ | jianzi | Row 15
+✅ Saved → RBQ | jianzi | Row 16
+✅ Saved → RBQ | jianzi | Row 17
+✅ Saved → RBQ | jianzi | Row 18
+✅ Saved → RBQ | jianzi | Row 19
+✅ Saved → RBQ | jianzi | Row 20
+✅ Saved → RBQ | jianzi | Row 21
+✅ Saved → RBQ | jianzi | Row 22
+✅ Saved → RBQ | jianzi | Row 23
+✅ Saved → RBQ | jianzi | Row 24
+✅ Saved → RBQ | jianzi | Row 25
+✅ Saved → RBQ | jianzi | Row 26
+✅ Saved → RBQ | jianzi | Row 27
+✅ Saved → RBQ | jianzi | Row 28
+✅ Saved → RBQ | jianzi | Row 29
+✅ Saved → RBQ | jianzi | Row 30
+✅ Saved → RBQ | jianzi | Row 31
+✅ Saved → RBQ | jianzi | Row 32
+✅ Saved → RBQ | jianzi | Row 33
+✅ Saved → RBQ | jianzi | Row 34
+✅ Saved → RBQ | jianzi | Row 35
+✅ Saved → RBQ | jianzi | Row 36
+✅ Saved → RBQ | jianzi | Row 37
+✅ Saved → RBQ | jianzi | Row 38
+✅ Saved → RBQ | jianzi | Row 39
+✅ Saved → RBQ | jianzi | Row 40
+✅ Saved → RBQ | jianzi | Row 41
+✅ Saved → RBQ | jianzi | Row 42
+✅ Saved → RBQ | jianzi | Row 43
+✅ Saved → RBQ | jianzi | Row 44
+✅ Saved → RBQ | jianzi | Row 45
+✅ Saved → RBQ | jianzi | Row 46
+✅ Saved → RBQ | jianzi | Row 47
+✅ Saved → RBQ | jianzi | Row 48
+✅ Saved → RBQ | jianzi | Row 49
+✅ Saved → RBQ | jianzi | Row 50
+✅ Saved → RBQ | jianzi | Row 51
+✅ Saved → RBQ | jianzi | Row 52
+✅ Saved → RBQ | jianzi | Row 53
+✅ Saved → RBQ | jianzi | Row 54
+✅ Saved → RBQ | jianzi | Row 55
+✅ Saved → RBQ | jianzi | Row 56
+✅ Saved → RBQ | jianzi | Row 57
+✅ Saved → RBQ | jianzi | Row 59
+✅ Saved → RBQ | jianzi | Row 60
+✅ Saved → RBQ | jianzi | Row 61
+✅ Saved → RBQ | jianzi | Row 62
+✅ Saved → RBQ | jianzi | Row 63
+✅ Saved → RBQ | jianzi | Row 64
+✅ Saved → RBQ | jianzi | Row 65
+✅ Saved → RBQ | jianzi | Row 66
+✅ Saved → RBQ | jianzi | Row 67
+✅ Saved → RBQ | jianzi | Row 69
+✅ Saved → RBQ | jianzi | Row 70
+✅ Saved → RBQ | jianzi | Row 71
+✅ Saved → RBQ | jianzi | Row 72
+✅ Saved → RBQ | jianzi | Row 73
+✅ Saved → RBQ | jianzi | Row 74
+✅ Saved → RBQ | jianzi | Row 75
+✅ Saved → RBQ | jianzi | Row 76
+✅ Saved → RBQ | jianzi | Row 77
+✅ Saved → RBQ | jianzi | Row 78
+✅ Saved → RBQ | jianzi | Row 79
+✅ Saved → RBQ | jianzi | Row 80
+✅ Saved → RBQ | jianzi | Row 81
+✅ Saved → RBQ | jianzi | Row 82
+✅ Saved → RBQ | jianzi | Row 83
+✅ Saved → RBQ | jianzi | Row 84
+✅ Saved → RBQ | jianzi | Row 85
+✅ Saved → RBQ | jianzi | Row 86
+✅ Saved → RBQ | jianzi | Row 87
+✅ Saved → RBQ | jianzi | Row 88
+✅ Saved → RBQ | jianzi | Row 89
+✅ Saved → RBQ | jianzi | Row 90
+✅ Saved → RBQ | jianzi | Row 91
+✅ Saved → RBQ | jianzi | Row 92
+✅ Saved → RBQ | jianzi | Row 93
+✅ Saved → RBQ | jianzi | Row 94
+✅ Saved → RBQ | jianzi | Row 95
+✅ Saved → RBQ | jianzi | Row 96
+✅ Saved → RBQ | jianzi | Row 97
+✅ Saved → RBQ | jianzi | Row 98
+✅ Saved → RBQ | jianzi | Row 99
+✅ Saved → RBQ | jianzi | Row 100
+✅ Saved → RBQ | jianzi | Row 101
+✅ Saved → RBQ | jianzi | Row 102
+✅ Saved → RBQ | jianzi | Row 103
+✅ Saved → RBQ | jianzi | Row 104
+✅ Saved → RBQ | jianzi | Row 105
+✅ Saved → RBQ | jianzi | Row 106
+✅ Saved → RBQ | jianzi | Row 107
+✅ Saved → RBQ | jianzi | Row 108
+✅ Saved → RBQ | jianzi | Row 109
+✅ Saved → RBQ | jianzi | Row 110
+✅ Saved → RBQ | jianzi | Row 111
+✅ Saved → RBQ | jianzi | Row 112
+✅ Saved → RBQ | jianzi | Row 113
+✅ Saved → RBQ | jianzi | Row 114
+✅ Saved → RBQ | jianzi | Row 115
+✅ Saved → RBQ | jianzi | Row 116
+✅ Saved → RBQ | jianzi | Row 117
+✅ Saved → RBQ | jianzi | Row 118
+✅ Saved → RBQ | jianzi | Row 119
+✅ Saved → RBQ | jianzi | Row 120
+✅ Saved → RBQ | jianzi | Row 121
+✅ Saved → RBQ | jianzi | Row 122
+✅ Saved → RBQ | jianzi | Row 123
+✅ Saved → RBQ | jianzi | Row 124
+✅ Saved → RBQ | jianzi | Row 125
+✅ Saved → RBQ | jianzi | Row 126
+✅ Saved → RBQ | jianzi | Row 127
+✅ Saved → RBQ | jianzi | Row 128
+✅ Saved → RBQ | jianzi | Row 129
+✅ Saved → RBQ | jianzi | Row 130
+✅ Saved → RBQ | jianzi | Row 131
+✅ Saved → RBQ | jianzi | Row 132
+✅ Saved → RBQ | jianzi | Row 133
+✅ Saved → RBQ | jianzi | Row 134
+✅ Saved → RBQ | jianzi | Row 135
+✅ Saved → RBQ | kung fu | Row 0
+✅ Saved → RBQ | kung fu | Row 1
+✅ Saved → RBQ | kung fu | Row 2
+✅ Saved → RBQ | kung fu | Row 3
+✅ Saved → RBQ | kung fu | Row 4
+✅ Saved → RBQ | kung fu | Row 5
+✅ Saved → RBQ | kung fu | Row 6
+✅ Saved → RBQ | kung fu | Row 7
+✅ Saved → RBQ | kung fu | Row 8
+✅ Saved → RBQ | kung fu | Row 9
+✅ Saved → RBQ | kung fu | Row 10
+✅ Saved → RBQ | kung fu | Row 11
+✅ Saved → RBQ | kung fu | Row 12
+✅ Saved → RBQ | kung fu | Row 13
+✅ Saved → RBQ | kung fu | Row 14
+✅ Saved → RBQ | kung fu | Row 15
+✅ Saved → RBQ | kung fu | Row 16
+✅ Saved → RBQ | kung fu | Row 17
+✅ Saved → RBQ | kung fu | Row 18
+✅ Saved → RBQ | kung fu | Row 19
+✅ Saved → RBQ | kung fu | Row 20
+✅ Saved → RBQ | kung fu | Row 21
+✅ Saved → RBQ | kung fu | Row 22
+✅ Saved → RBQ | kung fu | Row 23
+✅ Saved → RBQ | kung fu | Row 24
+✅ Saved → RBQ | kung fu | Row 25
+✅ Saved → RBQ | kung fu | Row 26
+✅ Saved → RBQ | kung fu | Row 27
+✅ Saved → RBQ | kung fu | Row 28
+✅ Saved → RBQ | kung fu | Row 29
+✅ Saved → RBQ | kung fu | Row 30
+✅ Saved → RBQ | kung fu | Row 31
+✅ Saved → RBQ | kung fu | Row 32
+✅ Saved → RBQ | kung fu | Row 33
+✅ Saved → RBQ | kung fu | Row 34
+✅ Saved → RBQ | kung fu | Row 35
+✅ Saved → RBQ | kung fu | Row 36
+✅ Saved → RBQ | kung fu | Row 37
+✅ Saved → RBQ | kung fu | Row 38
+✅ Saved → RBQ | kung fu | Row 39
+✅ Saved → RBQ | kung fu | Row 40
+✅ Saved → RBQ | kung fu | Row 41
+✅ Saved → RBQ | kung fu | Row 42
+✅ Saved → RBQ | kung fu | Row 43
+✅ Saved → RBQ | kung fu | Row 44
+✅ Saved → RBQ | kung fu | Row 45
+✅ Saved → RBQ | kung fu | Row 46
+✅ Saved → RBQ | kung fu | Row 47
+✅ Saved → RBQ | kung fu | Row 48
+✅ Saved → RBQ | kung fu | Row 49
+✅ Saved → RBQ | kung fu | Row 50
+✅ Saved → RBQ | kung fu | Row 51
+✅ Saved → RBQ | kung fu | Row 52
+✅ Saved → RBQ | kung fu | Row 53
+✅ Saved → RBQ | kung fu | Row 54
+✅ Saved → RBQ | kung fu | Row 55
+✅ Saved → RBQ | kung fu | Row 56
+✅ Saved → RBQ | kung fu | Row 57
+✅ Saved → RBQ | kung fu | Row 58
+✅ Saved → RBQ | kung fu | Row 59
+✅ Saved → RBQ | kung fu | Row 60
+✅ Saved → RBQ | kung fu | Row 61
+✅ Saved → RBQ | kung fu | Row 62
+✅ Saved → RBQ | kung fu | Row 63
+✅ Saved → RBQ | kung fu | Row 64
+✅ Saved → RBQ | kung fu | Row 65
+✅ Saved → RBQ | kung fu | Row 66
+✅ Saved → RBQ | kung fu | Row 67
+✅ Saved → RBQ | kung fu | Row 68
+✅ Saved → RBQ | kung fu | Row 69
+✅ Saved → RBQ | kung fu | Row 70
+✅ Saved → RBQ | kung fu | Row 71
+✅ Saved → RBQ | kung fu | Row 72
+✅ Saved → RBQ | kung fu | Row 73
+✅ Saved → RBQ | kung fu | Row 74
+✅ Saved → RBQ | kung fu | Row 75
+✅ Saved → RBQ | kung fu | Row 76
+✅ Saved → RBQ | kung fu | Row 77
+✅ Saved → RBQ | kung fu | Row 78
+✅ Saved → RBQ | kung fu | Row 79
+✅ Saved → RBQ | kung fu | Row 80
+✅ Saved → RBQ | kung fu | Row 81
+✅ Saved → RBQ | kung fu | Row 82
+✅ Saved → RBQ | kung fu | Row 83
+✅ Saved → RBQ | kung fu | Row 84
+✅ Saved → RBQ | kung fu | Row 85
+✅ Saved → RBQ | kung fu | Row 86
+✅ Saved → RBQ | kung fu | Row 87
+✅ Saved → RBQ | kung fu | Row 88
+✅ Saved → RBQ | kung fu | Row 89
+✅ Saved → RBQ | kung fu | Row 90
+✅ Saved → RBQ | kung fu | Row 91
+✅ Saved → RBQ | kung fu | Row 92
+✅ Saved → RBQ | kung fu | Row 93
+✅ Saved → RBQ | kung fu | Row 94
+✅ Saved → RBQ | kung fu | Row 95
+✅ Saved → RBQ | kung fu | Row 96
+✅ Saved → RBQ | kung fu | Row 97
+✅ Saved → RBQ | kung fu | Row 98
+✅ Saved → RBQ | kung fu | Row 99
+✅ Saved → RBQ | kung fu | Row 100
+✅ Saved → RBQ | kung fu | Row 101
+✅ Saved → RBQ | kung fu | Row 102
+✅ Saved → RBQ | kung fu | Row 103
+✅ Saved → RBQ | kung fu | Row 104
+✅ Saved → RBQ | kung fu | Row 105
+✅ Saved → RBQ | kung fu | Row 106
+✅ Saved → RBQ | kung fu | Row 107
+✅ Saved → RBQ | kung fu | Row 108
+✅ Saved → RBQ | kung fu | Row 109
+✅ Saved → RBQ | kung fu | Row 110
+✅ Saved → RBQ | kung fu | Row 111
+✅ Saved → RBQ | kung fu | Row 112
+✅ Saved → RBQ | kung fu | Row 113
+✅ Saved → RBQ | kung fu | Row 114
+✅ Saved → RBQ | kung fu | Row 115
+✅ Saved → RBQ | kung fu | Row 116
+✅ Saved → RBQ | kung fu | Row 117
+✅ Saved → RBQ | kung fu | Row 118
+✅ Saved → RBQ | kung fu | Row 119
+✅ Saved → RBQ | kung fu | Row 120
+✅ Saved → RBQ | kung fu | Row 121
+✅ Saved → RBQ | kung fu | Row 122
+✅ Saved → RBQ | kung fu | Row 123
+✅ Saved → RBQ | kung fu | Row 124
+✅ Saved → RBQ | kung fu | Row 125
+✅ Saved → RBQ | kung fu | Row 126
+✅ Saved → RBQ | kung fu | Row 127
+✅ Saved → RBQ | kung fu | Row 128
+✅ Saved → RBQ | kung fu | Row 129
+✅ Saved → RBQ | kung fu | Row 130
+✅ Saved → RBQ | kung fu | Row 131
+✅ Saved → RBQ | kung fu | Row 132
+✅ Saved → RBQ | kung fu | Row 133
+✅ Saved → RBQ | kung fu | Row 134
+✅ Saved → RBQ | kung fu | Row 135
+✅ Saved → RBQ | kung fu | Row 136
+✅ Saved → RBQ | kung fu | Row 137
+✅ Saved → RBQ | kung fu | Row 138
+✅ Saved → RBQ | kung fu | Row 139
+✅ Saved → RBQ | tai chi | Row 0
+✅ Saved → RBQ | tai chi | Row 1
+✅ Saved → RBQ | tai chi | Row 2
+✅ Saved → RBQ | tai chi | Row 3
+✅ Saved → RBQ | tai chi | Row 4
+✅ Saved → RBQ | tai chi | Row 5
+✅ Saved → RBQ | tai chi | Row 6
+✅ Saved → RBQ | tai chi | Row 7
+✅ Saved → RBQ | tai chi | Row 8
+✅ Saved → RBQ | tai chi | Row 9
+✅ Saved → RBQ | tai chi | Row 10
+✅ Saved → RBQ | tai chi | Row 11
+✅ Saved → RBQ | tai chi | Row 12
+✅ Saved → RBQ | tai chi | Row 13
+✅ Saved → RBQ | tai chi | Row 14
+✅ Saved → RBQ | tai chi | Row 15
+✅ Saved → RBQ | tai chi | Row 16
+✅ Saved → RBQ | tai chi | Row 17
+✅ Saved → RBQ | tai chi | Row 18
+✅ Saved → RBQ | tai chi | Row 19
+✅ Saved → RBQ | tai chi | Row 20
+✅ Saved → RBQ | tai chi | Row 21
+✅ Saved → RBQ | tai chi | Row 22
+✅ Saved → RBQ | tai chi | Row 23
+✅ Saved → RBQ | tai chi | Row 24
+✅ Saved → RBQ | tai chi | Row 25
+✅ Saved → RBQ | tai chi | Row 26
+✅ Saved → RBQ | tai chi | Row 27
+✅ Saved → RBQ | tai chi | Row 28
+✅ Saved → RBQ | tai chi | Row 29
+✅ Saved → RBQ | tai chi | Row 30
+✅ Saved → RBQ | tai chi | Row 31
+✅ Saved → RBQ | tai chi | Row 32
+✅ Saved → RBQ | tai chi | Row 33
+✅ Saved → RBQ | tai chi | Row 34
+✅ Saved → RBQ | tai chi | Row 35
+✅ Saved → RBQ | tai chi | Row 36
+✅ Saved → RBQ | tai chi | Row 37
+✅ Saved → RBQ | tai chi | Row 38
+✅ Saved → RBQ | tai chi | Row 39
+✅ Saved → RBQ | tai chi | Row 40
+✅ Saved → RBQ | tai chi | Row 41
+✅ Saved → RBQ | tai chi | Row 42
+✅ Saved → RBQ | tai chi | Row 43
+✅ Saved → RBQ | tai chi | Row 44
+✅ Saved → RBQ | tai chi | Row 45
+✅ Saved → RBQ | tai chi | Row 46
+✅ Saved → RBQ | tai chi | Row 47
+✅ Saved → RBQ | tai chi | Row 48
+✅ Saved → RBQ | tai chi | Row 49
+✅ Saved → RBQ | tai chi | Row 50
+✅ Saved → RBQ | tai chi | Row 51
+✅ Saved → RBQ | tai chi | Row 52
+✅ Saved → RBQ | tai chi | Row 53
+✅ Saved → RBQ | tai chi | Row 54
+✅ Saved → RBQ | tai chi | Row 55
+✅ Saved → RBQ | tai chi | Row 56
+✅ Saved → RBQ | tai chi | Row 57
+✅ Saved → RBQ | tai chi | Row 58
+✅ Saved → RBQ | tai chi | Row 59
+✅ Saved → RBQ | tai chi | Row 60
+✅ Saved → RBQ | tai chi | Row 61
+✅ Saved → RBQ | tai chi | Row 62
+✅ Saved → RBQ | tai chi | Row 63
+✅ Saved → RBQ | tai chi | Row 64
+✅ Saved → RBQ | tai chi | Row 65
+✅ Saved → RBQ | tai chi | Row 66
+✅ Saved → RBQ | tai chi | Row 67
+✅ Saved → RBQ | tai chi | Row 68
+✅ Saved → RBQ | tai chi | Row 69
+✅ Saved → RBQ | tai chi | Row 70
+✅ Saved → RBQ | tai chi | Row 71
+✅ Saved → RBQ | tai chi | Row 72
+✅ Saved → RBQ | tai chi | Row 73
+✅ Saved → RBQ | tai chi | Row 74
+✅ Saved → RBQ | tai chi | Row 75
+✅ Saved → RBQ | tai chi | Row 76
+✅ Saved → RBQ | tai chi | Row 77
+✅ Saved → RBQ | tai chi | Row 78
+✅ Saved → RBQ | tai chi | Row 80
+✅ Saved → RBQ | tai chi | Row 81
+✅ Saved → RBQ | tai chi | Row 82
+✅ Saved → RBQ | tai chi | Row 83
+✅ Saved → RBQ | tai chi | Row 84
+✅ Saved → RBQ | tai chi | Row 85
+✅ Saved → RBQ | tai chi | Row 86
+✅ Saved → RBQ | tai chi | Row 87
+✅ Saved → RBQ | tai chi | Row 88
+✅ Saved → RBQ | tai chi | Row 89
+✅ Saved → RBQ | tai chi | Row 90
+✅ Saved → RBQ | tai chi | Row 91
+✅ Saved → RBQ | tai chi | Row 92
+✅ Saved → RBQ | tai chi | Row 94
+✅ Saved → RBQ | tai chi | Row 95
+✅ Saved → RBQ | tai chi | Row 96
+✅ Saved → RBQ | tai chi | Row 97
+✅ Saved → RBQ | tai chi | Row 98
+✅ Saved → RBQ | tai chi | Row 99
+✅ Saved → RBQ | tai chi | Row 100
+✅ Saved → RBQ | tai chi | Row 101
+✅ Saved → RBQ | tai chi | Row 102
+✅ Saved → RBQ | tai chi | Row 103
+✅ Saved → RBQ | tai chi | Row 104
+✅ Saved → RBQ | tai chi | Row 105
+✅ Saved → RBQ | tai chi | Row 106
+✅ Saved → RBQ | tai chi | Row 107
+✅ Saved → RBQ | tai chi | Row 108
+✅ Saved → RBQ | tai chi | Row 109
+✅ Saved → RBQ | tai chi | Row 110
+✅ Saved → RBQ | tai chi | Row 111
+✅ Saved → RBQ | tai chi | Row 112
+✅ Saved → RBQ | tai chi | Row 113
+✅ Saved → RBQ | tai chi | Row 114
+✅ Saved → RBQ | tai chi | Row 115
+✅ Saved → RBQ | tai chi | Row 116
+✅ Saved → RBQ | tai chi | Row 117
+✅ Saved → RBQ | tai chi | Row 118
+✅ Saved → RBQ | tai chi | Row 119
+✅ Saved → RBQ | tai chi | Row 120
+✅ Saved → RBQ | tai chi | Row 121
+✅ Saved → RBQ | tai chi | Row 122
+✅ Saved → RBQ | tai chi | Row 123
+✅ Saved → RBQ | tai chi | Row 124
+✅ Saved → RBQ | tai chi | Row 125
+✅ Saved → RBQ | tai chi | Row 126
+✅ Saved → RBQ | tai chi | Row 127
+✅ Saved → RBQ | tai chi | Row 128
+✅ Saved → RBQ | tai chi | Row 129
+✅ Saved → RBQ | tai chi | Row 130
+✅ Saved → RBQ | tai chi | Row 131
+✅ Saved → RBQ | tai chi | Row 132
+✅ Saved → RBQ | tai chi | Row 133
+✅ Saved → RBQ | tai chi | Row 134
+✅ Saved → RBQ | tai chi | Row 135
+✅ Saved → RBQ | tai chi | Row 136
+✅ Saved → RBQ | tai chi | Row 137
+✅ Saved → RBQ | tai chi | Row 138
+✅ Saved → RBQ | tai chi | Row 139
+✅ Saved → RBQ | tai chi | Row 140
+✅ Saved → RBQ | tai chi | Row 141
+✅ Saved → RBQ | tai chi | Row 142
+✅ Saved → RBQ | tai chi | Row 143
+✅ Saved → RBQ | tai chi | Row 144
+✅ Saved → RBQ | tai chi | Row 145
+✅ Saved → RBQ | tai chi | Row 146
+✅ Saved → RBQ | tai chi | Row 147
+✅ Saved → RBQ | tai chi | Row 148
+✅ Saved → RBQ | tai chi | Row 149
 
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/DATA/rohan_kirti/niladri/country/china/RBQ/run.py", line 203, in <module>
-    score, mistake, improved_question, improved_options = f"ERROR: {e}"
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ValueError: too many values to unpack (expected 4)
+✅ COMPLETE!
+📄 Live-updating CSV: /DATA/rohan_kirti/country/china/RBQ/Results_RBQ.csv
+Ended at: 10:18:13
+Total Duration: 0:36:38.931549
+✅ Successfully created '/DATA/rohan_kirti/country/china/RBQ/Results_RBQ.xlsx'

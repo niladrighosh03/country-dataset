@@ -123,16 +123,16 @@ Respond ONLY in JSON format (strictly):
 
 
 # %%
-base_path = "/DATA/rohan_kirti/niladri/country/indonesia/SBQ/"  # main folder containing all countries
-output_file = "/DATA/rohan_kirti/niladri/country/indonesia/SBQ/Results_SBQ.csv"
+base_path = "/DATA/rohan_kirti/country/indonesia/SBQ/"  # main folder containing all countries
+output_file = "/DATA/rohan_kirti/country/indonesia/SBQ/Results_SBQ.csv"
 
 
 
 # Input CSV file path
-input_csv = "/DATA/rohan_kirti/niladri/country/indonesia/SBQ/Results_SBQ.csv"
+input_csv = "/DATA/rohan_kirti/country/indonesia/SBQ/Results_SBQ.csv"
 
 # Output Excel file path
-output_excel = "/DATA/rohan_kirti/niladri/country/indonesia/SBQ/Results_SBQ.xlsx"
+output_excel = "/DATA/rohan_kirti/country/indonesia/SBQ/Results_SBQ.xlsx"
 # =============================
 # CONFIGURATION
 # =============================

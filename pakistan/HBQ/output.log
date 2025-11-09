@@ -1,6 +1,6 @@
-Started at: 01:55:28
+Started at: 10:32:46
 
-📌 Processing: /DATA/rohan_kirti/niladri/country/pakistan/HBQ/Pakistan_HBQ.xlsx
+📌 Processing: /DATA/rohan_kirti/country/pakistan/HBQ/Pakistan_HBQ.xlsx
 ✅ Saved → HBQ | Malakhra | Row 0
 ✅ Saved → HBQ | Malakhra | Row 1
 ✅ Saved → HBQ | Malakhra | Row 2
@@ -69,8 +69,8 @@ Started at: 01:55:28
 ✅ Saved → HBQ | Malakhra | Row 65
 Failed to decode JSON from model: {
   "score": 0,
-  "mistake": "The question asks for a Sindhi idiom related to sports that expresses 'unshakable determination', but the provided correct answer option is labeled as 'ب) "ایک پہلوان کی گرفت کی طرح مضبوط"' which is not among the given options (A, B, C, D). The options list uses English letters (A, B, C, D), but the answer key uses Urdu/Persian letter 'ب)' — this is inconsistent. Additionally, option B in the list is written as 'پہلوان کی گرفت کی طرح مضبوط' without the initial 'ایک', which is grammatically incomplete in context. The correct idiom should match exactly as presented in options.",
-  "improved_question": "کھیل سے متاثر کون سا سندھی محاورہ غیر متزلزل عزم کو بیان کرنے کے لیے استعمال ہوتا ہے؟",
+  "mistake": "The question asks for a Sindhi idiom related to sports that expresses 'unshakable determination', but the provided correct answer option is labeled 'ب)' which does not match the option text given in the list (the text is in Urdu, not Sindhi, and option B is written as 'پہلوان کی گرفت کی طرح مضبوط' — which is Urdu, not Sindhi). Additionally, the correct answer option in the response is written as 'ب) "ایک پہلوان کی گرفت کی طرح مضبوط"' — which is inconsistent with the option list provided (missing 'ایک'). The options are not in Sindhi language as implied by the question, and the correct idiom is mislabeled. The question is misleading because it claims to be about Sindhi idioms but uses Urdu expressions.",
+  "improved_question": "کھیل سے متاثر کون سا اردو محاورہ غیر متزلزل عزم کو بیان کرنے کے لیے استعمال ہوتا ہے؟",
   "improved_options": [
     "A) \"سات بار گریں، آٹھ اٹھیں\"",
     "B) \"پہلوان کی گرفت کی طرح مضبوط\"",
@@ -196,6 +196,18 @@ Failed to decode JSON from model: {
 ✅ Saved → HBQ | Chaturanga | Row 30
 ✅ Saved → HBQ | Chaturanga | Row 31
 ✅ Saved → HBQ | Chaturanga | Row 32
+Failed to decode JSON from model: {
+  "score": 0,
+  "mistake": "The question contains a factual error: 'اشوا' (Bishop) is not more valuable than 'گجا' (Elephant/Queen) in chess. In standard chess, the Queen (گجا) is the most valuable piece, not the Bishop (اشوا). The provided answer describes a correct property of the Bishop (not color-bound in some variants, but actually it is color-bound in standard chess). The question and answer are fundamentally misaligned with chess rules. Additionally, the correct answer option is labeled 'ب)' but written as 'یہ "رنگ سے منسلک" نہیں تھا' — which is incorrect because in standard chess, the Bishop IS color-bound. The answer seems to confuse chess variants or contains a typo. The question implies a false premise.",
+  "improved_question": "اشوا (بishops) کو رخ (rook) یا گجا (queen) سے کم قیمتی کیوں سمجھا جاتا ہے؟",
+  "improved_options": [
+    "A) یہ صرف ایک رنگ کے مربعوں پر ہی چل سکتا ہ��",
+    "B) یہ "رنگ کا پابند" نہیں تھا اور بورڈ کے کسی بھی مربع تک رسائی حاصل کر سکتا تھا",
+    "C) اسے فروغ دیا جا سکتا تھا",
+    "D) یہ دفاع کرنے میں بہتر تھا"
+  ],
+  "correct_answer": "A) یہ صرف ایک رنگ کے مربعوں پر ہی چل سکتا ہے"
+}
 ✅ Saved → HBQ | Chaturanga | Row 33
 ✅ Saved → HBQ | Chaturanga | Row 34
 ✅ Saved → HBQ | Chaturanga | Row 35
@@ -330,20 +342,594 @@ Failed to decode JSON from model: {
 ✅ Saved → HBQ | Buzkashi | Row 14
 ✅ Saved → HBQ | Buzkashi | Row 15
 ✅ Saved → HBQ | Buzkashi | Row 16
-Traceback (most recent call last):
-  File "/DATA/rohan_kirti/niladri/country/pakistan/HBQ/run.py", line 212, in <module>
-    sheet_data.to_excel(writer, sheet_name=sheet_name, index=False)
-                                                                    
-  File "/DATA/rohan_kirti/niladri/country/pakistan/HBQ/run.py", line 66, in ask_llm
-    response.raise_for_status()
-  File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/requests/models.py", line 1026, in raise_for_status
-    raise HTTPError(http_error_msg, response=self)
-requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://cloud.olakrutrim.com/v1/chat/completions
+✅ Saved → HBQ | Buzkashi | Row 17
+✅ Saved → HBQ | Buzkashi | Row 18
+✅ Saved → HBQ | Buzkashi | Row 19
+✅ Saved → HBQ | Buzkashi | Row 20
+✅ Saved → HBQ | Buzkashi | Row 21
+✅ Saved → HBQ | Buzkashi | Row 22
+✅ Saved → HBQ | Buzkashi | Row 23
+✅ Saved → HBQ | Buzkashi | Row 24
+✅ Saved → HBQ | Buzkashi | Row 25
+✅ Saved → HBQ | Buzkashi | Row 26
+✅ Saved → HBQ | Buzkashi | Row 27
+✅ Saved → HBQ | Buzkashi | Row 28
+✅ Saved → HBQ | Buzkashi | Row 29
+✅ Saved → HBQ | Buzkashi | Row 30
+✅ Saved → HBQ | Buzkashi | Row 31
+✅ Saved → HBQ | Buzkashi | Row 32
+✅ Saved → HBQ | Buzkashi | Row 33
+✅ Saved → HBQ | Buzkashi | Row 34
+✅ Saved → HBQ | Buzkashi | Row 35
+✅ Saved → HBQ | Buzkashi | Row 36
+✅ Saved → HBQ | Buzkashi | Row 37
+✅ Saved → HBQ | Buzkashi | Row 38
+✅ Saved → HBQ | Buzkashi | Row 39
+✅ Saved → HBQ | Buzkashi | Row 40
+✅ Saved → HBQ | Buzkashi | Row 41
+✅ Saved → HBQ | Buzkashi | Row 42
+✅ Saved → HBQ | Buzkashi | Row 43
+✅ Saved → HBQ | Buzkashi | Row 44
+✅ Saved → HBQ | Buzkashi | Row 45
+✅ Saved → HBQ | Buzkashi | Row 46
+✅ Saved → HBQ | Buzkashi | Row 47
+✅ Saved → HBQ | Buzkashi | Row 48
+✅ Saved → HBQ | Buzkashi | Row 49
+✅ Saved → HBQ | Buzkashi | Row 50
+✅ Saved → HBQ | Buzkashi | Row 51
+✅ Saved → HBQ | Buzkashi | Row 52
+✅ Saved → HBQ | Buzkashi | Row 53
+✅ Saved → HBQ | Buzkashi | Row 54
+✅ Saved → HBQ | Buzkashi | Row 55
+✅ Saved → HBQ | Buzkashi | Row 56
+✅ Saved → HBQ | Buzkashi | Row 57
+✅ Saved → HBQ | Buzkashi | Row 58
+✅ Saved → HBQ | Buzkashi | Row 59
+✅ Saved → HBQ | Buzkashi | Row 60
+✅ Saved → HBQ | Buzkashi | Row 61
+✅ Saved → HBQ | Buzkashi | Row 62
+✅ Saved → HBQ | Buzkashi | Row 63
+✅ Saved → HBQ | Buzkashi | Row 64
+✅ Saved → HBQ | Buzkashi | Row 65
+✅ Saved → HBQ | Buzkashi | Row 67
+✅ Saved → HBQ | Buzkashi | Row 68
+✅ Saved → HBQ | Buzkashi | Row 69
+✅ Saved → HBQ | Buzkashi | Row 70
+✅ Saved → HBQ | Buzkashi | Row 71
+✅ Saved → HBQ | Buzkashi | Row 72
+✅ Saved → HBQ | Buzkashi | Row 73
+✅ Saved → HBQ | Buzkashi | Row 74
+✅ Saved → HBQ | Buzkashi | Row 75
+✅ Saved → HBQ | Buzkashi | Row 76
+✅ Saved → HBQ | Buzkashi | Row 77
+✅ Saved → HBQ | Buzkashi | Row 78
+✅ Saved → HBQ | Buzkashi | Row 79
+✅ Saved → HBQ | Buzkashi | Row 80
+✅ Saved → HBQ | Buzkashi | Row 81
+✅ Saved → HBQ | Buzkashi | Row 82
+✅ Saved → HBQ | Buzkashi | Row 84
+✅ Saved → HBQ | Buzkashi | Row 86
+✅ Saved → HBQ | Buzkashi | Row 88
+✅ Saved → HBQ | Buzkashi | Row 90
+✅ Saved → HBQ | Buzkashi | Row 91
+✅ Saved → HBQ | Buzkashi | Row 92
+Failed to decode JSON from model: {
+  "score": 0,
+  "mistake": "The term 'آگ کی کمی' (lack of fire) is factually incorrect and illogical in the context of horse temperament. 'آگ' (fire) is not a recognized physiological or behavioral trait in horse classification. The phrase incorrectly anthropomorphizes or misuses terminology; the intended meaning is likely 'lack of speed, energy, or drive'. Additionally, 'ٹھنڈے خون والے' (cold-blooded) refers to horse breeds known for calm, steady temperaments and lower energy output, not literal temperature. The answer option uses non-standard and misleading terminology.",
+  "improved_question": "ٹھنڈے خون والے" گھوڑے کی بنیادی خصوصیت کیا ہے، اور یہ بزکشی کے لیے کیوں نا مناسب ہے؟",
+  "improved_options": [
+    "ا) وہ جارحانہ ہیں؛ وہ بہت خطرناک ہیں",
+    "ب) وہ پرسکون اور سست ہیں؛ ان میں ضروری تیزی اور توانائی کی کمی ہے",
+    "ج) وہ چھوٹے ہیں؛ وہ کافی مضبوط نہیں ہیں",
+    "د) وہ نایاب ہیں؛ وہ بہت مہنگے ہیں"
+  ],
+  "correct_answer": "ب) وہ پرسکون اور سست ہیں؛ ان میں ضروری تیزی اور توانائی کی کمی ہے"
+}
+✅ Saved → HBQ | Buzkashi | Row 93
+✅ Saved → HBQ | Buzkashi | Row 94
+✅ Saved → HBQ | Buzkashi | Row 95
+✅ Saved → HBQ | Buzkashi | Row 96
+✅ Saved → HBQ | Buzkashi | Row 98
+✅ Saved → HBQ | Buzkashi | Row 100
+✅ Saved → HBQ | Buzkashi | Row 101
+✅ Saved → HBQ | Buzkashi | Row 102
+✅ Saved → HBQ | Buzkashi | Row 103
+✅ Saved → HBQ | Buzkashi | Row 104
+✅ Saved → HBQ | Buzkashi | Row 105
+✅ Saved → HBQ | Buzkashi | Row 106
+✅ Saved → HBQ | Buzkashi | Row 107
+✅ Saved → HBQ | Buzkashi | Row 108
+✅ Saved → HBQ | Buzkashi | Row 109
+✅ Saved → HBQ | Buzkashi | Row 110
+✅ Saved → HBQ | Buzkashi | Row 111
+✅ Saved → HBQ | Buzkashi | Row 112
+✅ Saved → HBQ | Buzkashi | Row 114
+✅ Saved → HBQ | Buzkashi | Row 115
+✅ Saved → HBQ | Buzkashi | Row 116
+✅ Saved → HBQ | Buzkashi | Row 117
+✅ Saved → HBQ | Buzkashi | Row 118
+✅ Saved → HBQ | Buzkashi | Row 119
+✅ Saved → HBQ | Buzkashi | Row 120
+✅ Saved → HBQ | Buzkashi | Row 121
+✅ Saved → HBQ | Buzkashi | Row 122
+✅ Saved → HBQ | Buzkashi | Row 123
+✅ Saved → HBQ | Buzkashi | Row 124
+✅ Saved → HBQ | Buzkashi | Row 125
+✅ Saved → HBQ | Buzkashi | Row 126
+✅ Saved → HBQ | Buzkashi | Row 127
+✅ Saved → HBQ | Buzkashi | Row 128
+✅ Saved → HBQ | Buzkashi | Row 133
+✅ Saved → HBQ | Buzkashi | Row 134
+✅ Saved → HBQ | Buzkashi | Row 138
+✅ Saved → HBQ | Buzkashi | Row 139
+✅ Saved → HBQ | Buzkashi | Row 141
+✅ Saved → HBQ | Buzkashi | Row 142
+✅ Saved → HBQ | Buzkashi | Row 143
+✅ Saved → HBQ | Buzkashi | Row 144
+✅ Saved → HBQ | Buzkashi | Row 145
+✅ Saved → HBQ | Buzkashi | Row 149
+✅ Saved → HBQ | Gatka | Row 0
+✅ Saved → HBQ | Gatka | Row 1
+✅ Saved → HBQ | Gatka | Row 2
+✅ Saved → HBQ | Gatka | Row 3
+✅ Saved → HBQ | Gatka | Row 4
+✅ Saved → HBQ | Gatka | Row 5
+✅ Saved → HBQ | Gatka | Row 6
+✅ Saved → HBQ | Gatka | Row 7
+✅ Saved → HBQ | Gatka | Row 8
+✅ Saved → HBQ | Gatka | Row 9
+✅ Saved → HBQ | Gatka | Row 10
+✅ Saved → HBQ | Gatka | Row 11
+✅ Saved → HBQ | Gatka | Row 12
+✅ Saved → HBQ | Gatka | Row 13
+✅ Saved → HBQ | Gatka | Row 14
+✅ Saved → HBQ | Gatka | Row 15
+✅ Saved → HBQ | Gatka | Row 16
+✅ Saved → HBQ | Gatka | Row 17
+✅ Saved → HBQ | Gatka | Row 18
+✅ Saved → HBQ | Gatka | Row 19
+✅ Saved → HBQ | Gatka | Row 20
+✅ Saved → HBQ | Gatka | Row 21
+✅ Saved → HBQ | Gatka | Row 22
+✅ Saved → HBQ | Gatka | Row 23
+✅ Saved → HBQ | Gatka | Row 24
+✅ Saved → HBQ | Gatka | Row 25
+✅ Saved → HBQ | Gatka | Row 26
+✅ Saved → HBQ | Gatka | Row 27
+✅ Saved → HBQ | Gatka | Row 28
+✅ Saved → HBQ | Gatka | Row 29
+✅ Saved → HBQ | Gatka | Row 30
+✅ Saved → HBQ | Gatka | Row 31
+✅ Saved → HBQ | Gatka | Row 32
+✅ Saved → HBQ | Gatka | Row 33
+✅ Saved → HBQ | Gatka | Row 34
+✅ Saved → HBQ | Gatka | Row 35
+✅ Saved → HBQ | Gatka | Row 36
+✅ Saved → HBQ | Gatka | Row 37
+✅ Saved → HBQ | Gatka | Row 38
+✅ Saved → HBQ | Gatka | Row 39
+✅ Saved → HBQ | Gatka | Row 40
+✅ Saved → HBQ | Gatka | Row 41
+✅ Saved → HBQ | Gatka | Row 42
+✅ Saved → HBQ | Gatka | Row 43
+✅ Saved → HBQ | Gatka | Row 44
+✅ Saved → HBQ | Gatka | Row 45
+✅ Saved → HBQ | Gatka | Row 46
+✅ Saved → HBQ | Gatka | Row 47
+✅ Saved → HBQ | Gatka | Row 48
+✅ Saved → HBQ | Gatka | Row 49
+✅ Saved → HBQ | Gatka | Row 50
+✅ Saved → HBQ | Gatka | Row 51
+✅ Saved → HBQ | Gatka | Row 52
+✅ Saved → HBQ | Gatka | Row 53
+✅ Saved → HBQ | Gatka | Row 54
+✅ Saved → HBQ | Gatka | Row 55
+✅ Saved → HBQ | Gatka | Row 56
+✅ Saved → HBQ | Gatka | Row 57
+✅ Saved → HBQ | Gatka | Row 58
+✅ Saved → HBQ | Gatka | Row 59
+✅ Saved → HBQ | Gatka | Row 60
+✅ Saved → HBQ | Gatka | Row 61
+✅ Saved → HBQ | Gatka | Row 62
+✅ Saved → HBQ | Gatka | Row 63
+✅ Saved → HBQ | Gatka | Row 64
+✅ Saved → HBQ | Gatka | Row 65
+✅ Saved → HBQ | Gatka | Row 66
+✅ Saved → HBQ | Gatka | Row 67
+✅ Saved → HBQ | Gatka | Row 68
+✅ Saved → HBQ | Gatka | Row 69
+✅ Saved → HBQ | Gatka | Row 70
+✅ Saved → HBQ | Gatka | Row 71
+✅ Saved → HBQ | Gatka | Row 72
+✅ Saved → HBQ | Gatka | Row 73
+✅ Saved → HBQ | Gatka | Row 74
+✅ Saved → HBQ | Gatka | Row 75
+✅ Saved → HBQ | Gatka | Row 76
+✅ Saved → HBQ | Gatka | Row 77
+✅ Saved → HBQ | Gatka | Row 78
+✅ Saved → HBQ | Gatka | Row 79
+✅ Saved → HBQ | Gatka | Row 80
+✅ Saved → HBQ | Gatka | Row 81
+✅ Saved → HBQ | Gatka | Row 82
+✅ Saved → HBQ | Gatka | Row 83
+✅ Saved → HBQ | Gatka | Row 84
+✅ Saved → HBQ | Gatka | Row 85
+✅ Saved → HBQ | Gatka | Row 86
+✅ Saved → HBQ | Gatka | Row 87
+✅ Saved → HBQ | Gatka | Row 88
+✅ Saved → HBQ | Gatka | Row 89
+✅ Saved → HBQ | Gatka | Row 90
+✅ Saved → HBQ | Gatka | Row 91
+✅ Saved → HBQ | Gatka | Row 92
+✅ Saved → HBQ | Gatka | Row 93
+✅ Saved → HBQ | Gatka | Row 94
+✅ Saved → HBQ | Gatka | Row 95
+✅ Saved → HBQ | Gatka | Row 96
+✅ Saved → HBQ | Gatka | Row 97
+✅ Saved → HBQ | Gatka | Row 98
+✅ Saved → HBQ | Gatka | Row 99
+✅ Saved → HBQ | Gatka | Row 100
+✅ Saved → HBQ | Gatka | Row 101
+✅ Saved → HBQ | Gatka | Row 102
+✅ Saved → HBQ | Gatka | Row 103
+✅ Saved → HBQ | Gatka | Row 104
+✅ Saved → HBQ | Gatka | Row 105
+✅ Saved → HBQ | Gatka | Row 106
+✅ Saved → HBQ | Gatka | Row 107
+✅ Saved → HBQ | Gatka | Row 108
+✅ Saved → HBQ | Gatka | Row 109
+✅ Saved → HBQ | Gatka | Row 110
+✅ Saved → HBQ | Gatka | Row 111
+✅ Saved → HBQ | Gatka | Row 112
+✅ Saved → HBQ | Gatka | Row 113
+✅ Saved → HBQ | Gatka | Row 114
+✅ Saved → HBQ | Gatka | Row 115
+✅ Saved → HBQ | Gatka | Row 116
+✅ Saved → HBQ | Gatka | Row 117
+✅ Saved → HBQ | Gatka | Row 118
+✅ Saved → HBQ | Gatka | Row 119
+Failed to decode JSON from model: {
+  "score": 0,
+  "mistake": "The question contains a non-standard term 'گٹکا' which is not a recognized sport or context in Urdu/Punjabi sports terminology. It appears to be a mistranslation or misspelling of 'کرکٹ' (cricket). Additionally, the answer option is labeled 'ب)' but the correct choice text is written in English transliteration ('ایک طرف قدم یا "اینگولیشن" (ڈیپچ)") which is inconsistent with the Urdu script used elsewhere. The term 'ڈیپچ' is not a standard Urdu term for 'dip' or 'angulation' in cricket defense. The options also include non-cricket terms like 'فارورڈ چارج' and 'ساکت کھڑا ہونا', which are not relevant to cricket defensive footwork.",
+  "improved_question": "کرکٹ میں ان میں سے کون سا اہم دفاعی فٹ ورک پیٹرن ہے؟",
+  "improved_options": [
+    "A) فارورڈ چارج",
+    "B) ایک طرف قدم یا \"اینگولیشن\" (ڈپ)",
+    "C) ساکت کھڑا ��ونا",
+    "D) ایک کم کراؤچ"
+  ],
+  "correct_answer": "B) ایک طرف قدم یا \"اینگولیشن\" (ڈپ)"
+}
+✅ Saved → HBQ | Gatka | Row 120
+✅ Saved → HBQ | Gatka | Row 121
+✅ Saved → HBQ | Gatka | Row 122
+✅ Saved → HBQ | Gatka | Row 124
+✅ Saved → HBQ | Gatka | Row 125
+✅ Saved → HBQ | Gatka | Row 126
+✅ Saved → HBQ | Gatka | Row 127
+✅ Saved → HBQ | Gatka | Row 128
+✅ Saved → HBQ | Gatka | Row 129
+✅ Saved → HBQ | Gatka | Row 130
+✅ Saved → HBQ | Gatka | Row 131
+✅ Saved → HBQ | Gatka | Row 132
+✅ Saved → HBQ | Gatka | Row 133
+✅ Saved → HBQ | Gatka | Row 134
+✅ Saved → HBQ | Gatka | Row 135
+✅ Saved → HBQ | Gatka | Row 136
+✅ Saved → HBQ | Gatka | Row 137
+✅ Saved → HBQ | Gatka | Row 138
+✅ Saved → HBQ | Gatka | Row 139
+✅ Saved → HBQ | Gatka | Row 140
+✅ Saved → HBQ | Gatka | Row 141
+✅ Saved → HBQ | Gatka | Row 142
+✅ Saved → HBQ | Gatka | Row 143
+✅ Saved → HBQ | Gatka | Row 144
+✅ Saved → HBQ | Gatka | Row 145
+✅ Saved → HBQ | Gatka | Row 146
+✅ Saved → HBQ | Gatka | Row 147
+✅ Saved → HBQ | Gatka | Row 148
+✅ Saved → HBQ | Gatka | Row 149
+✅ Saved → HBQ | Gilli Danda | Row 0
+✅ Saved → HBQ | Gilli Danda | Row 1
+✅ Saved → HBQ | Gilli Danda | Row 2
+✅ Saved → HBQ | Gilli Danda | Row 3
+✅ Saved → HBQ | Gilli Danda | Row 4
+✅ Saved → HBQ | Gilli Danda | Row 5
+✅ Saved → HBQ | Gilli Danda | Row 6
+✅ Saved → HBQ | Gilli Danda | Row 7
+✅ Saved → HBQ | Gilli Danda | Row 8
+✅ Saved → HBQ | Gilli Danda | Row 9
+✅ Saved → HBQ | Gilli Danda | Row 10
+✅ Saved → HBQ | Gilli Danda | Row 11
+✅ Saved → HBQ | Gilli Danda | Row 12
+✅ Saved → HBQ | Gilli Danda | Row 13
+✅ Saved → HBQ | Gilli Danda | Row 14
+✅ Saved → HBQ | Gilli Danda | Row 15
+✅ Saved → HBQ | Gilli Danda | Row 16
+✅ Saved → HBQ | Gilli Danda | Row 17
+✅ Saved → HBQ | Gilli Danda | Row 18
+✅ Saved → HBQ | Gilli Danda | Row 19
+✅ Saved → HBQ | Gilli Danda | Row 20
+✅ Saved → HBQ | Gilli Danda | Row 21
+✅ Saved → HBQ | Gilli Danda | Row 22
+✅ Saved → HBQ | Gilli Danda | Row 23
+✅ Saved → HBQ | Gilli Danda | Row 24
+✅ Saved → HBQ | Gilli Danda | Row 25
+✅ Saved → HBQ | Gilli Danda | Row 26
+✅ Saved → HBQ | Gilli Danda | Row 27
+✅ Saved → HBQ | Gilli Danda | Row 28
+✅ Saved → HBQ | Gilli Danda | Row 29
+✅ Saved → HBQ | Gilli Danda | Row 30
+✅ Saved → HBQ | Gilli Danda | Row 31
+✅ Saved → HBQ | Gilli Danda | Row 32
+✅ Saved → HBQ | Gilli Danda | Row 33
+✅ Saved → HBQ | Gilli Danda | Row 34
+✅ Saved → HBQ | Gilli Danda | Row 35
+✅ Saved → HBQ | Gilli Danda | Row 36
+✅ Saved → HBQ | Gilli Danda | Row 37
+✅ Saved → HBQ | Gilli Danda | Row 38
+✅ Saved → HBQ | Gilli Danda | Row 39
+✅ Saved → HBQ | Gilli Danda | Row 40
+✅ Saved → HBQ | Gilli Danda | Row 41
+✅ Saved → HBQ | Gilli Danda | Row 42
+✅ Saved → HBQ | Gilli Danda | Row 43
+✅ Saved → HBQ | Gilli Danda | Row 44
+✅ Saved → HBQ | Gilli Danda | Row 45
+✅ Saved → HBQ | Gilli Danda | Row 46
+✅ Saved → HBQ | Gilli Danda | Row 47
+✅ Saved → HBQ | Gilli Danda | Row 48
+✅ Saved → HBQ | Gilli Danda | Row 49
+✅ Saved → HBQ | Gilli Danda | Row 50
+✅ Saved → HBQ | Gilli Danda | Row 51
+✅ Saved → HBQ | Gilli Danda | Row 52
+✅ Saved → HBQ | Gilli Danda | Row 53
+✅ Saved → HBQ | Gilli Danda | Row 54
+✅ Saved → HBQ | Gilli Danda | Row 55
+✅ Saved → HBQ | Gilli Danda | Row 56
+✅ Saved → HBQ | Gilli Danda | Row 57
+✅ Saved → HBQ | Gilli Danda | Row 58
+✅ Saved → HBQ | Gilli Danda | Row 59
+✅ Saved → HBQ | Gilli Danda | Row 60
+✅ Saved → HBQ | Gilli Danda | Row 61
+✅ Saved → HBQ | Gilli Danda | Row 62
+✅ Saved → HBQ | Gilli Danda | Row 63
+✅ Saved → HBQ | Gilli Danda | Row 64
+✅ Saved → HBQ | Gilli Danda | Row 65
+✅ Saved → HBQ | Gilli Danda | Row 66
+✅ Saved → HBQ | Gilli Danda | Row 67
+✅ Saved → HBQ | Gilli Danda | Row 68
+✅ Saved → HBQ | Gilli Danda | Row 69
+✅ Saved → HBQ | Gilli Danda | Row 70
+✅ Saved → HBQ | Gilli Danda | Row 71
+✅ Saved → HBQ | Gilli Danda | Row 72
+✅ Saved → HBQ | Gilli Danda | Row 73
+✅ Saved → HBQ | Gilli Danda | Row 74
+✅ Saved → HBQ | Gilli Danda | Row 75
+✅ Saved → HBQ | Gilli Danda | Row 76
+✅ Saved → HBQ | Gilli Danda | Row 77
+✅ Saved → HBQ | Gilli Danda | Row 78
+✅ Saved → HBQ | Gilli Danda | Row 79
+✅ Saved → HBQ | Gilli Danda | Row 80
+✅ Saved → HBQ | Gilli Danda | Row 81
+✅ Saved → HBQ | Gilli Danda | Row 82
+✅ Saved → HBQ | Gilli Danda | Row 83
+✅ Saved → HBQ | Gilli Danda | Row 84
+✅ Saved → HBQ | Gilli Danda | Row 85
+✅ Saved → HBQ | Gilli Danda | Row 86
+✅ Saved → HBQ | Gilli Danda | Row 87
+✅ Saved → HBQ | Gilli Danda | Row 88
+✅ Saved → HBQ | Gilli Danda | Row 89
+✅ Saved → HBQ | Gilli Danda | Row 90
+✅ Saved → HBQ | Gilli Danda | Row 91
+✅ Saved → HBQ | Gilli Danda | Row 92
+✅ Saved → HBQ | Gilli Danda | Row 93
+✅ Saved → HBQ | Gilli Danda | Row 94
+✅ Saved → HBQ | Gilli Danda | Row 95
+✅ Saved → HBQ | Gilli Danda | Row 96
+✅ Saved → HBQ | Gilli Danda | Row 97
+✅ Saved → HBQ | Gilli Danda | Row 98
+✅ Saved → HBQ | Gilli Danda | Row 99
+✅ Saved → HBQ | Gilli Danda | Row 101
+✅ Saved → HBQ | Gilli Danda | Row 102
+✅ Saved → HBQ | Gilli Danda | Row 103
+✅ Saved → HBQ | Gilli Danda | Row 106
+✅ Saved → HBQ | Gilli Danda | Row 108
+✅ Saved → HBQ | Gilli Danda | Row 109
+✅ Saved → HBQ | Gilli Danda | Row 110
+✅ Saved → HBQ | Gilli Danda | Row 112
+✅ Saved → HBQ | Gilli Danda | Row 113
+✅ Saved → HBQ | Gilli Danda | Row 114
+✅ Saved → HBQ | Gilli Danda | Row 115
+✅ Saved → HBQ | Gilli Danda | Row 116
+✅ Saved → HBQ | Gilli Danda | Row 117
+✅ Saved → HBQ | Gilli Danda | Row 118
+✅ Saved → HBQ | Gilli Danda | Row 120
+✅ Saved → HBQ | Gilli Danda | Row 121
+✅ Saved → HBQ | Gilli Danda | Row 123
+✅ Saved → HBQ | Gilli Danda | Row 124
+✅ Saved → HBQ | Gilli Danda | Row 125
+✅ Saved → HBQ | Gilli Danda | Row 126
+✅ Saved → HBQ | Gilli Danda | Row 128
+✅ Saved → HBQ | Gilli Danda | Row 130
+✅ Saved → HBQ | Gilli Danda | Row 131
+✅ Saved → HBQ | Gilli Danda | Row 133
+✅ Saved → HBQ | Gilli Danda | Row 134
+✅ Saved → HBQ | Gilli Danda | Row 135
+✅ Saved → HBQ | Gilli Danda | Row 137
+✅ Saved → HBQ | Gilli Danda | Row 139
+✅ Saved → HBQ | Gilli Danda | Row 140
+✅ Saved → HBQ | Gilli Danda | Row 143
+✅ Saved → HBQ | Gilli Danda | Row 148
+✅ Saved → HBQ | Gilli Danda | Row 149
+✅ Saved → HBQ | Tent Pegging | Row 0
+✅ Saved → HBQ | Tent Pegging | Row 1
+✅ Saved → HBQ | Tent Pegging | Row 2
+✅ Saved → HBQ | Tent Pegging | Row 3
+✅ Saved → HBQ | Tent Pegging | Row 4
+✅ Saved → HBQ | Tent Pegging | Row 5
+✅ Saved → HBQ | Tent Pegging | Row 6
+✅ Saved → HBQ | Tent Pegging | Row 7
+✅ Saved → HBQ | Tent Pegging | Row 8
+✅ Saved → HBQ | Tent Pegging | Row 9
+✅ Saved → HBQ | Tent Pegging | Row 10
+✅ Saved → HBQ | Tent Pegging | Row 11
+✅ Saved → HBQ | Tent Pegging | Row 12
+✅ Saved → HBQ | Tent Pegging | Row 13
+✅ Saved → HBQ | Tent Pegging | Row 14
+✅ Saved → HBQ | Tent Pegging | Row 15
+✅ Saved → HBQ | Tent Pegging | Row 16
+✅ Saved → HBQ | Tent Pegging | Row 17
+✅ Saved → HBQ | Tent Pegging | Row 18
+✅ Saved → HBQ | Tent Pegging | Row 19
+✅ Saved → HBQ | Tent Pegging | Row 20
+✅ Saved → HBQ | Tent Pegging | Row 21
+✅ Saved → HBQ | Tent Pegging | Row 22
+✅ Saved → HBQ | Tent Pegging | Row 23
+✅ Saved → HBQ | Tent Pegging | Row 24
+✅ Saved → HBQ | Tent Pegging | Row 25
+✅ Saved → HBQ | Tent Pegging | Row 26
+✅ Saved → HBQ | Tent Pegging | Row 27
+✅ Saved → HBQ | Tent Pegging | Row 28
+✅ Saved → HBQ | Tent Pegging | Row 29
+✅ Saved → HBQ | Tent Pegging | Row 30
+✅ Saved → HBQ | Tent Pegging | Row 31
+Failed to decode JSON from model: {
+  "score": 0,
+  "mistake": "The term 'انڈین فائل' (Indian File) is incorrectly used in the context of a team event involving horse riders and pegs. 'Indian File' typically refers to a single-file line formation in marching or movement, not a equestrian sport. The intended event is likely 'Polo', where riders in a line take turns hitting the ball (peg). The question confuses terminology and misrepresents the sport.",
+  "improved_question": "پولو" ایک ٹیم ایونٹ ہے۔ اس میں سواروں کو کیا کرنے کی ضرورت ہے؟",
+  "improved_options": [
+    "ایک ہی فائل لائن میں سواری کریں، ہر ایک لگاتار ایک پیگ مارتا ہے",
+    "وی فارمیشن میں سواری کریں",
+    "سب ایک ہی پیگ مارتے ہیں",
+    "رسمی سلامی پیش کرتے ہیں"
+  ],
+  "correct_answer": "ایک ہی فائل لائن میں سواری کریں، ہر ایک لگاتار ایک پیگ مارتا ہے"
+}
+✅ Saved → HBQ | Tent Pegging | Row 32
+✅ Saved → HBQ | Tent Pegging | Row 33
+✅ Saved → HBQ | Tent Pegging | Row 34
+✅ Saved → HBQ | Tent Pegging | Row 35
+✅ Saved → HBQ | Tent Pegging | Row 36
+✅ Saved → HBQ | Tent Pegging | Row 37
+✅ Saved → HBQ | Tent Pegging | Row 38
+✅ Saved → HBQ | Tent Pegging | Row 39
+✅ Saved → HBQ | Tent Pegging | Row 40
+✅ Saved → HBQ | Tent Pegging | Row 41
+✅ Saved → HBQ | Tent Pegging | Row 42
+✅ Saved → HBQ | Tent Pegging | Row 43
+✅ Saved → HBQ | Tent Pegging | Row 44
+✅ Saved → HBQ | Tent Pegging | Row 45
+✅ Saved → HBQ | Tent Pegging | Row 46
+✅ Saved → HBQ | Tent Pegging | Row 47
+✅ Saved → HBQ | Tent Pegging | Row 48
+✅ Saved → HBQ | Tent Pegging | Row 49
+✅ Saved → HBQ | Tent Pegging | Row 50
+✅ Saved → HBQ | Tent Pegging | Row 51
+✅ Saved → HBQ | Tent Pegging | Row 52
+✅ Saved → HBQ | Tent Pegging | Row 53
+✅ Saved → HBQ | Tent Pegging | Row 54
+✅ Saved → HBQ | Tent Pegging | Row 55
+✅ Saved → HBQ | Tent Pegging | Row 56
+✅ Saved → HBQ | Tent Pegging | Row 57
+✅ Saved → HBQ | Tent Pegging | Row 58
+✅ Saved → HBQ | Tent Pegging | Row 59
+✅ Saved → HBQ | Tent Pegging | Row 60
+✅ Saved → HBQ | Tent Pegging | Row 62
+✅ Saved → HBQ | Tent Pegging | Row 63
+✅ Saved → HBQ | Tent Pegging | Row 64
+✅ Saved → HBQ | Tent Pegging | Row 65
+✅ Saved → HBQ | Tent Pegging | Row 66
+✅ Saved → HBQ | Tent Pegging | Row 67
+✅ Saved → HBQ | Tent Pegging | Row 68
+Failed to decode JSON from model: {
+  "score": 0,
+  "mistake": "The term 'نیزا بازی' does not mean 'ٹینٹ پیگنگ کا پاکستانی نام'. 'نیزا بازی' is a Persian/Urdu term that refers to 'spear throwing' or 'javelin throw' in sports, not tent pegging. The correct answer provided is factually wrong. The question is misleading and contains a factual error.",
+  "improved_question": "نیزا بازی" کی اصطلاح سے کیا مراد ہے؟",
+  "improved_options": [
+    "A) جیولن تھرو کا پاکستانی نام",
+    "B) گھوڑے کی ایک قسم",
+    "C) رسمی یونیفارم",
+    "D) چیمپئن شپ ٹرافی"
+  ],
+  "correct_answer": "A) جیولن تھرو کا پاکستانی نام"
+}
+✅ Saved → HBQ | Tent Pegging | Row 69
+✅ Saved → HBQ | Tent Pegging | Row 70
+✅ Saved → HBQ | Tent Pegging | Row 71
+✅ Saved → HBQ | Tent Pegging | Row 72
+✅ Saved → HBQ | Tent Pegging | Row 73
+✅ Saved → HBQ | Tent Pegging | Row 74
+✅ Saved → HBQ | Tent Pegging | Row 75
+✅ Saved → HBQ | Tent Pegging | Row 76
+✅ Saved → HBQ | Tent Pegging | Row 77
+✅ Saved → HBQ | Tent Pegging | Row 78
+✅ Saved → HBQ | Tent Pegging | Row 79
+✅ Saved → HBQ | Tent Pegging | Row 80
+✅ Saved → HBQ | Tent Pegging | Row 81
+✅ Saved → HBQ | Tent Pegging | Row 82
+✅ Saved → HBQ | Tent Pegging | Row 83
+✅ Saved → HBQ | Tent Pegging | Row 84
+✅ Saved → HBQ | Tent Pegging | Row 85
+✅ Saved → HBQ | Tent Pegging | Row 86
+✅ Saved → HBQ | Tent Pegging | Row 87
+✅ Saved → HBQ | Tent Pegging | Row 88
+✅ Saved → HBQ | Tent Pegging | Row 89
+✅ Saved → HBQ | Tent Pegging | Row 91
+✅ Saved → HBQ | Tent Pegging | Row 92
+✅ Saved → HBQ | Tent Pegging | Row 93
+✅ Saved → HBQ | Tent Pegging | Row 95
+✅ Saved → HBQ | Tent Pegging | Row 96
+✅ Saved → HBQ | Tent Pegging | Row 98
+✅ Saved → HBQ | Tent Pegging | Row 99
+✅ Saved → HBQ | Tent Pegging | Row 100
+✅ Saved → HBQ | Tent Pegging | Row 101
+✅ Saved → HBQ | Tent Pegging | Row 102
+✅ Saved → HBQ | Tent Pegging | Row 103
+✅ Saved → HBQ | Tent Pegging | Row 104
+✅ Saved → HBQ | Tent Pegging | Row 105
+✅ Saved → HBQ | Tent Pegging | Row 106
+✅ Saved → HBQ | Tent Pegging | Row 107
+✅ Saved → HBQ | Tent Pegging | Row 108
+✅ Saved → HBQ | Tent Pegging | Row 109
+✅ Saved → HBQ | Tent Pegging | Row 111
+✅ Saved → HBQ | Tent Pegging | Row 115
+✅ Saved → HBQ | Tent Pegging | Row 116
+✅ Saved → HBQ | Tent Pegging | Row 117
+✅ Saved → HBQ | Tent Pegging | Row 118
+✅ Saved → HBQ | Tent Pegging | Row 119
+✅ Saved → HBQ | Tent Pegging | Row 120
+✅ Saved → HBQ | Tent Pegging | Row 121
+✅ Saved → HBQ | Tent Pegging | Row 122
+✅ Saved → HBQ | Tent Pegging | Row 123
+✅ Saved → HBQ | Tent Pegging | Row 124
+✅ Saved → HBQ | Tent Pegging | Row 125
+✅ Saved → HBQ | Tent Pegging | Row 126
+✅ Saved → HBQ | Tent Pegging | Row 127
+✅ Saved → HBQ | Tent Pegging | Row 128
+✅ Saved → HBQ | Tent Pegging | Row 129
+✅ Saved → HBQ | Tent Pegging | Row 130
+✅ Saved → HBQ | Tent Pegging | Row 131
+✅ Saved → HBQ | Tent Pegging | Row 132
+✅ Saved → HBQ | Tent Pegging | Row 133
+✅ Saved → HBQ | Tent Pegging | Row 134
+✅ Saved → HBQ | Tent Pegging | Row 135
+✅ Saved → HBQ | Tent Pegging | Row 136
+✅ Saved → HBQ | Tent Pegging | Row 137
+✅ Saved → HBQ | Tent Pegging | Row 138
+✅ Saved → HBQ | Tent Pegging | Row 139
+✅ Saved → HBQ | Tent Pegging | Row 140
+✅ Saved → HBQ | Tent Pegging | Row 141
+✅ Saved → HBQ | Tent Pegging | Row 142
+✅ Saved → HBQ | Tent Pegging | Row 143
+✅ Saved → HBQ | Tent Pegging | Row 144
+✅ Saved → HBQ | Tent Pegging | Row 145
+✅ Saved → HBQ | Tent Pegging | Row 146
+✅ Saved → HBQ | Tent Pegging | Row 147
+✅ Saved → HBQ | Tent Pegging | Row 148
+✅ Saved → HBQ | Tent Pegging | Row 149
 
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/DATA/rohan_kirti/niladri/country/pakistan/HBQ/run.py", line 214, in <module>
-    print(f"✅ Successfully created '{output_excel}'")
-                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ValueError: too many values to unpack (expected 4)
+✅ COMPLETE!
+📄 Live-updating CSV: /DATA/rohan_kirti/country/pakistan/HBQ/Results_HBQ.csv
+Ended at: 11:33:08
+Total Duration: 1:00:21.402620
+✅ Successfully created '/DATA/rohan_kirti/country/pakistan/HBQ/Results_HBQ.xlsx'

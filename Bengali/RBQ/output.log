@@ -1,6 +1,6 @@
-Started at: 01:48:22
+Started at: 10:35:33
 
-📌 Processing: /DATA/rohan_kirti/niladri/country/Bengali/RBQ/Bangladesh_RBQ.xlsx
+📌 Processing: /DATA/rohan_kirti/country/Bengali/RBQ/Bangladesh_RBQ.xlsx
 ✅ Saved → RBQ | boli khela | Row 0
 ✅ Saved → RBQ | boli khela | Row 1
 ✅ Saved → RBQ | boli khela | Row 2
@@ -458,20 +458,299 @@ Started at: 01:48:22
 ✅ Saved → RBQ | ha du du | Row 80
 ✅ Saved → RBQ | ha du du | Row 81
 ✅ Saved → RBQ | ha du du | Row 82
-Traceback (most recent call last):
-  File "/DATA/rohan_kirti/niladri/country/Bengali/RBQ/run.py", line 171, in <module>
-    score, mistake, improved_question,improved_options, correct_answer = ask_llm(q, option, ans)
-                                                                         ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/DATA/rohan_kirti/niladri/country/Bengali/RBQ/run.py", line 65, in ask_llm
-    response.raise_for_status()
-  File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/requests/models.py", line 1026, in raise_for_status
-    raise HTTPError(http_error_msg, response=self)
-requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://cloud.olakrutrim.com/v1/chat/completions
+✅ Saved → RBQ | ha du du | Row 83
+✅ Saved → RBQ | ha du du | Row 84
+✅ Saved → RBQ | ha du du | Row 85
+✅ Saved → RBQ | ha du du | Row 86
+✅ Saved → RBQ | ha du du | Row 87
+✅ Saved → RBQ | ha du du | Row 88
+✅ Saved → RBQ | ha du du | Row 89
+✅ Saved → RBQ | ha du du | Row 90
+✅ Saved → RBQ | ha du du | Row 91
+✅ Saved → RBQ | ha du du | Row 92
+✅ Saved → RBQ | ha du du | Row 93
+✅ Saved → RBQ | ha du du | Row 94
+✅ Saved → RBQ | ha du du | Row 95
+✅ Saved → RBQ | ha du du | Row 96
+✅ Saved → RBQ | ha du du | Row 97
+✅ Saved → RBQ | ha du du | Row 98
+✅ Saved → RBQ | ha du du | Row 99
+✅ Saved → RBQ | ha du du | Row 100
+✅ Saved → RBQ | ha du du | Row 101
+✅ Saved → RBQ | ha du du | Row 102
+✅ Saved → RBQ | ha du du | Row 103
+✅ Saved → RBQ | ha du du | Row 104
+✅ Saved → RBQ | ha du du | Row 105
+✅ Saved → RBQ | ha du du | Row 106
+✅ Saved → RBQ | ha du du | Row 107
+✅ Saved → RBQ | ha du du | Row 108
+✅ Saved → RBQ | ha du du | Row 109
+✅ Saved → RBQ | ha du du | Row 110
+✅ Saved → RBQ | ha du du | Row 111
+✅ Saved → RBQ | ha du du | Row 112
+✅ Saved → RBQ | ha du du | Row 113
+✅ Saved → RBQ | ha du du | Row 114
+✅ Saved → RBQ | ha du du | Row 115
+✅ Saved → RBQ | ha du du | Row 116
+✅ Saved → RBQ | ha du du | Row 117
+✅ Saved → RBQ | ha du du | Row 118
+✅ Saved → RBQ | ha du du | Row 119
+✅ Saved → RBQ | ha du du | Row 120
+✅ Saved → RBQ | ha du du | Row 121
+✅ Saved → RBQ | ha du du | Row 122
+✅ Saved → RBQ | ha du du | Row 123
+✅ Saved → RBQ | ha du du | Row 124
+✅ Saved → RBQ | lathi khela | Row 0
+✅ Saved → RBQ | lathi khela | Row 1
+✅ Saved → RBQ | lathi khela | Row 2
+✅ Saved → RBQ | lathi khela | Row 3
+✅ Saved → RBQ | lathi khela | Row 4
+✅ Saved → RBQ | lathi khela | Row 5
+✅ Saved → RBQ | lathi khela | Row 6
+✅ Saved → RBQ | lathi khela | Row 7
+✅ Saved → RBQ | lathi khela | Row 8
+✅ Saved → RBQ | lathi khela | Row 9
+✅ Saved → RBQ | lathi khela | Row 10
+✅ Saved → RBQ | lathi khela | Row 11
+✅ Saved → RBQ | lathi khela | Row 12
+✅ Saved → RBQ | lathi khela | Row 13
+✅ Saved → RBQ | lathi khela | Row 14
+✅ Saved → RBQ | lathi khela | Row 15
+✅ Saved → RBQ | lathi khela | Row 16
+✅ Saved → RBQ | lathi khela | Row 17
+✅ Saved → RBQ | lathi khela | Row 18
+✅ Saved → RBQ | lathi khela | Row 19
+✅ Saved → RBQ | lathi khela | Row 20
+✅ Saved → RBQ | lathi khela | Row 21
+✅ Saved → RBQ | lathi khela | Row 22
+✅ Saved → RBQ | lathi khela | Row 23
+✅ Saved → RBQ | lathi khela | Row 24
+✅ Saved → RBQ | lathi khela | Row 25
+✅ Saved → RBQ | lathi khela | Row 26
+✅ Saved → RBQ | lathi khela | Row 27
+✅ Saved → RBQ | lathi khela | Row 28
+✅ Saved → RBQ | lathi khela | Row 29
+✅ Saved → RBQ | lathi khela | Row 30
+✅ Saved → RBQ | lathi khela | Row 31
+✅ Saved → RBQ | lathi khela | Row 32
+✅ Saved → RBQ | lathi khela | Row 33
+✅ Saved → RBQ | lathi khela | Row 34
+✅ Saved → RBQ | lathi khela | Row 36
+✅ Saved → RBQ | lathi khela | Row 37
+✅ Saved → RBQ | lathi khela | Row 38
+✅ Saved → RBQ | lathi khela | Row 39
+✅ Saved → RBQ | lathi khela | Row 41
+✅ Saved → RBQ | lathi khela | Row 42
+✅ Saved → RBQ | lathi khela | Row 43
+✅ Saved → RBQ | lathi khela | Row 44
+✅ Saved → RBQ | lathi khela | Row 45
+✅ Saved → RBQ | lathi khela | Row 46
+✅ Saved → RBQ | lathi khela | Row 47
+✅ Saved → RBQ | lathi khela | Row 48
+✅ Saved → RBQ | lathi khela | Row 49
+✅ Saved → RBQ | lathi khela | Row 50
+✅ Saved → RBQ | lathi khela | Row 51
+✅ Saved → RBQ | lathi khela | Row 52
+✅ Saved → RBQ | lathi khela | Row 53
+✅ Saved → RBQ | lathi khela | Row 54
+✅ Saved → RBQ | lathi khela | Row 55
+✅ Saved → RBQ | lathi khela | Row 56
+✅ Saved → RBQ | lathi khela | Row 57
+✅ Saved → RBQ | lathi khela | Row 58
+✅ Saved → RBQ | lathi khela | Row 59
+✅ Saved → RBQ | lathi khela | Row 60
+✅ Saved → RBQ | lathi khela | Row 61
+✅ Saved → RBQ | lathi khela | Row 62
+✅ Saved → RBQ | lathi khela | Row 63
+✅ Saved → RBQ | lathi khela | Row 64
+✅ Saved → RBQ | lathi khela | Row 65
+✅ Saved → RBQ | lathi khela | Row 66
+✅ Saved → RBQ | lathi khela | Row 67
+✅ Saved → RBQ | lathi khela | Row 68
+✅ Saved → RBQ | lathi khela | Row 69
+✅ Saved → RBQ | lathi khela | Row 70
+✅ Saved → RBQ | lathi khela | Row 71
+✅ Saved → RBQ | lathi khela | Row 72
+✅ Saved → RBQ | lathi khela | Row 73
+✅ Saved → RBQ | lathi khela | Row 74
+✅ Saved → RBQ | lathi khela | Row 75
+✅ Saved → RBQ | lathi khela | Row 76
+✅ Saved → RBQ | lathi khela | Row 77
+✅ Saved → RBQ | lathi khela | Row 78
+✅ Saved → RBQ | lathi khela | Row 79
+✅ Saved → RBQ | lathi khela | Row 80
+✅ Saved → RBQ | lathi khela | Row 81
+✅ Saved → RBQ | lathi khela | Row 82
+✅ Saved → RBQ | lathi khela | Row 83
+✅ Saved → RBQ | lathi khela | Row 84
+✅ Saved → RBQ | lathi khela | Row 85
+✅ Saved → RBQ | lathi khela | Row 86
+✅ Saved → RBQ | lathi khela | Row 87
+✅ Saved → RBQ | lathi khela | Row 88
+✅ Saved → RBQ | lathi khela | Row 89
+✅ Saved → RBQ | lathi khela | Row 90
+✅ Saved → RBQ | lathi khela | Row 91
+✅ Saved → RBQ | lathi khela | Row 92
+✅ Saved → RBQ | lathi khela | Row 93
+✅ Saved → RBQ | lathi khela | Row 94
+✅ Saved → RBQ | lathi khela | Row 95
+✅ Saved → RBQ | lathi khela | Row 96
+✅ Saved → RBQ | lathi khela | Row 97
+✅ Saved → RBQ | lathi khela | Row 98
+✅ Saved → RBQ | lathi khela | Row 99
+✅ Saved → RBQ | lathi khela | Row 100
+✅ Saved → RBQ | lathi khela | Row 101
+✅ Saved → RBQ | lathi khela | Row 102
+✅ Saved → RBQ | lathi khela | Row 103
+✅ Saved → RBQ | lathi khela | Row 104
+✅ Saved → RBQ | lathi khela | Row 105
+✅ Saved → RBQ | lathi khela | Row 106
+✅ Saved → RBQ | lathi khela | Row 107
+✅ Saved → RBQ | lathi khela | Row 108
+✅ Saved → RBQ | lathi khela | Row 109
+✅ Saved → RBQ | lathi khela | Row 110
+✅ Saved → RBQ | lathi khela | Row 111
+✅ Saved → RBQ | lathi khela | Row 112
+✅ Saved → RBQ | lathi khela | Row 113
+✅ Saved → RBQ | lathi khela | Row 114
+✅ Saved → RBQ | lathi khela | Row 115
+✅ Saved → RBQ | lathi khela | Row 116
+✅ Saved → RBQ | lathi khela | Row 117
+✅ Saved → RBQ | lathi khela | Row 118
+✅ Saved → RBQ | lathi khela | Row 119
+✅ Saved → RBQ | lathi khela | Row 120
+✅ Saved → RBQ | lathi khela | Row 121
+✅ Saved → RBQ | lathi khela | Row 122
+✅ Saved → RBQ | lathi khela | Row 123
+✅ Saved → RBQ | lathi khela | Row 124
+✅ Saved → RBQ | nouka baich | Row 0
+✅ Saved → RBQ | nouka baich | Row 1
+✅ Saved → RBQ | nouka baich | Row 2
+✅ Saved → RBQ | nouka baich | Row 3
+✅ Saved → RBQ | nouka baich | Row 4
+✅ Saved → RBQ | nouka baich | Row 5
+✅ Saved → RBQ | nouka baich | Row 6
+✅ Saved → RBQ | nouka baich | Row 7
+✅ Saved → RBQ | nouka baich | Row 8
+✅ Saved → RBQ | nouka baich | Row 9
+✅ Saved → RBQ | nouka baich | Row 10
+✅ Saved → RBQ | nouka baich | Row 11
+✅ Saved → RBQ | nouka baich | Row 12
+✅ Saved → RBQ | nouka baich | Row 13
+✅ Saved → RBQ | nouka baich | Row 14
+✅ Saved → RBQ | nouka baich | Row 15
+✅ Saved → RBQ | nouka baich | Row 16
+✅ Saved → RBQ | nouka baich | Row 17
+✅ Saved → RBQ | nouka baich | Row 18
+✅ Saved → RBQ | nouka baich | Row 19
+✅ Saved → RBQ | nouka baich | Row 20
+✅ Saved → RBQ | nouka baich | Row 21
+✅ Saved → RBQ | nouka baich | Row 22
+✅ Saved → RBQ | nouka baich | Row 23
+✅ Saved → RBQ | nouka baich | Row 24
+✅ Saved → RBQ | nouka baich | Row 25
+✅ Saved → RBQ | nouka baich | Row 26
+✅ Saved → RBQ | nouka baich | Row 27
+✅ Saved → RBQ | nouka baich | Row 28
+✅ Saved → RBQ | nouka baich | Row 29
+✅ Saved → RBQ | nouka baich | Row 30
+✅ Saved → RBQ | nouka baich | Row 31
+✅ Saved → RBQ | nouka baich | Row 32
+✅ Saved → RBQ | nouka baich | Row 33
+✅ Saved → RBQ | nouka baich | Row 34
+✅ Saved → RBQ | nouka baich | Row 35
+✅ Saved → RBQ | nouka baich | Row 36
+✅ Saved → RBQ | nouka baich | Row 37
+✅ Saved → RBQ | nouka baich | Row 38
+✅ Saved → RBQ | nouka baich | Row 39
+✅ Saved → RBQ | nouka baich | Row 40
+✅ Saved → RBQ | nouka baich | Row 41
+✅ Saved → RBQ | nouka baich | Row 42
+✅ Saved → RBQ | nouka baich | Row 43
+✅ Saved → RBQ | nouka baich | Row 44
+✅ Saved → RBQ | nouka baich | Row 45
+✅ Saved → RBQ | nouka baich | Row 46
+✅ Saved → RBQ | nouka baich | Row 47
+✅ Saved → RBQ | nouka baich | Row 48
+✅ Saved → RBQ | nouka baich | Row 49
+✅ Saved → RBQ | nouka baich | Row 50
+✅ Saved → RBQ | nouka baich | Row 51
+✅ Saved → RBQ | nouka baich | Row 52
+✅ Saved → RBQ | nouka baich | Row 53
+✅ Saved → RBQ | nouka baich | Row 54
+✅ Saved → RBQ | nouka baich | Row 55
+✅ Saved → RBQ | nouka baich | Row 56
+✅ Saved → RBQ | nouka baich | Row 57
+✅ Saved → RBQ | nouka baich | Row 58
+✅ Saved → RBQ | nouka baich | Row 59
+✅ Saved → RBQ | nouka baich | Row 60
+✅ Saved → RBQ | nouka baich | Row 61
+✅ Saved → RBQ | nouka baich | Row 62
+✅ Saved → RBQ | nouka baich | Row 63
+✅ Saved → RBQ | nouka baich | Row 64
+✅ Saved → RBQ | nouka baich | Row 65
+✅ Saved → RBQ | nouka baich | Row 66
+✅ Saved → RBQ | nouka baich | Row 67
+✅ Saved → RBQ | nouka baich | Row 68
+✅ Saved → RBQ | nouka baich | Row 69
+✅ Saved → RBQ | nouka baich | Row 70
+✅ Saved → RBQ | nouka baich | Row 71
+✅ Saved → RBQ | nouka baich | Row 72
+✅ Saved → RBQ | nouka baich | Row 73
+✅ Saved → RBQ | nouka baich | Row 74
+✅ Saved → RBQ | nouka baich | Row 75
+✅ Saved → RBQ | nouka baich | Row 76
+✅ Saved → RBQ | nouka baich | Row 77
+✅ Saved → RBQ | nouka baich | Row 78
+✅ Saved → RBQ | nouka baich | Row 79
+✅ Saved → RBQ | nouka baich | Row 80
+✅ Saved → RBQ | nouka baich | Row 81
+✅ Saved → RBQ | nouka baich | Row 82
+✅ Saved → RBQ | nouka baich | Row 83
+✅ Saved → RBQ | nouka baich | Row 84
+✅ Saved → RBQ | nouka baich | Row 85
+✅ Saved → RBQ | nouka baich | Row 86
+✅ Saved → RBQ | nouka baich | Row 87
+✅ Saved → RBQ | nouka baich | Row 88
+✅ Saved → RBQ | nouka baich | Row 89
+✅ Saved → RBQ | nouka baich | Row 90
+✅ Saved → RBQ | nouka baich | Row 91
+✅ Saved → RBQ | nouka baich | Row 92
+✅ Saved → RBQ | nouka baich | Row 93
+✅ Saved → RBQ | nouka baich | Row 94
+✅ Saved → RBQ | nouka baich | Row 95
+✅ Saved → RBQ | nouka baich | Row 96
+✅ Saved → RBQ | nouka baich | Row 97
+✅ Saved → RBQ | nouka baich | Row 98
+✅ Saved → RBQ | nouka baich | Row 99
+✅ Saved → RBQ | nouka baich | Row 100
+✅ Saved → RBQ | nouka baich | Row 101
+✅ Saved → RBQ | nouka baich | Row 102
+✅ Saved → RBQ | nouka baich | Row 103
+✅ Saved → RBQ | nouka baich | Row 104
+✅ Saved → RBQ | nouka baich | Row 105
+✅ Saved → RBQ | nouka baich | Row 106
+✅ Saved → RBQ | nouka baich | Row 107
+✅ Saved → RBQ | nouka baich | Row 108
+✅ Saved → RBQ | nouka baich | Row 109
+✅ Saved → RBQ | nouka baich | Row 110
+✅ Saved → RBQ | nouka baich | Row 111
+✅ Saved → RBQ | nouka baich | Row 112
+✅ Saved → RBQ | nouka baich | Row 113
+✅ Saved → RBQ | nouka baich | Row 114
+✅ Saved → RBQ | nouka baich | Row 115
+✅ Saved → RBQ | nouka baich | Row 116
+✅ Saved → RBQ | nouka baich | Row 117
+✅ Saved → RBQ | nouka baich | Row 118
+✅ Saved → RBQ | nouka baich | Row 119
+✅ Saved → RBQ | nouka baich | Row 120
+✅ Saved → RBQ | nouka baich | Row 121
+✅ Saved → RBQ | nouka baich | Row 122
+✅ Saved → RBQ | nouka baich | Row 123
+✅ Saved → RBQ | nouka baich | Row 124
 
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/DATA/rohan_kirti/niladri/country/Bengali/RBQ/run.py", line 173, in <module>
-    score, mistake, improved_question, improved_options = f"ERROR: {e}"
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ValueError: too many values to unpack (expected 4)
+✅ COMPLETE!
+📄 Live-updating CSV: /DATA/rohan_kirti/country/Bengali/RBQ/Results_RBQ.csv
+Ended at: 11:26:31
+Total Duration: 0:50:57.594797
+✅ Successfully created '/DATA/rohan_kirti/country/Bengali/RBQ/Results_RBQ.xlsx'

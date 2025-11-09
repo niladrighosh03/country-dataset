@@ -1,7 +1,7 @@
-Started at: 01:58:59
-['/DATA/rohan_kirti/niladri/country/pakistan/RBQ/Pakistan_RBQ.xlsx']
+Started at: 10:31:57
+['/DATA/rohan_kirti/country/pakistan/RBQ/Pakistan_RBQ.xlsx']
 
-📌 Processing: /DATA/rohan_kirti/niladri/country/pakistan/RBQ/Pakistan_RBQ.xlsx
+📌 Processing: /DATA/rohan_kirti/country/pakistan/RBQ/Pakistan_RBQ.xlsx
 ✅ Saved → RBQ | Chaturanga | Row 0
 ✅ Saved → RBQ | Chaturanga | Row 1
 ✅ Saved → RBQ | Chaturanga | Row 2
@@ -11,13 +11,6 @@ Started at: 01:58:59
 ✅ Saved → RBQ | Chaturanga | Row 6
 ✅ Saved → RBQ | Chaturanga | Row 7
 ✅ Saved → RBQ | Chaturanga | Row 8
-Failed to decode JSON from model: {
-  "score": 0,
-  "mistake": "The question is factually incorrect because a bishop (گاجا) on a black square (c1) can never move to a light square (d3), which is correct, but the options incorrectly label d3 as a light square while the other options are labeled as black squares. However, in standard chess, c1 is a dark square, not a light square. The checkerboard pattern starts with a dark square at a1, so c1 is dark (سیاہ مربع), not light. Therefore, the premise 'آپ کا گاجا c1 پر ہے (چیکر بورڈ پر ایک سیاہ مربع)' is correct, but the option D is labeled as 'ہلکا مربع' — which is true — and that’s why it's the correct answer. The issue is that the question is logically sound but the phrasing of the options might confuse because it's not explicitly stated that the bishop is confined to one color. However, the real mistake is that the question implies the bishop is on c1 (a dark square) and asks which square it can never reach — and d3 is light, so correct. But in chess, bishops never change color, so the question and answer are correct. However, the problem is that the option labels are inconsistent: if c1 is black, then d3 is white, and the bishop cannot reach it — that’s correct. But the question is phrased as if the board is being described with color labels, and all options are labeled correctly. So actually, the question and answer are factually correct. But wait — c1 is a dark square? Let me verify: a1 is dark, so a1, b1 light, c1 dark — yes. So c1 is dark. d3: d is even column, 3 is odd row — d1 is light, d2 dark, d3 light — yes. So bishop on dark square cannot reach light square. So D is correct. Then why score 0? Because the question is correct. But the instruction says: evaluate. Actually, the question, answer, and options are all factually correct. So score should be 1. But the user says: 'Evaluate the MCQ' — and the answer given is D, which is correct. So why mistake? Let me re-read: The question says 'c1 پر ہے (چیکر بورڈ پر ایک سیاہ مربع)' — that’s correct. Option D is 'd3 (ہلکا مربع)' — correct. Bishop on black can't go to white — correct. So everything is correct. But the system expects a mistake? No — I think the mistake is in the instruction: the user says "Correct Answer: D" — and it is correct. So the MCQ is fine. But wait — the question says: 'کون سے چوکوں میں یہ کبھی نہیں جا سکتا؟' — meaning 'which of these squares can it never go to?' — and D is the only one on the opposite color. So all options are correctly labeled. Therefore, the MCQ is factually correct. So score = 1. But I initially thought there was a mistake — there isn't. So I must correct myself. Final verdict: no mistake.",
-  "improved_question": "no correction needed",
-  "improved_options": "no correction needed",
-  "correct_answer": "no answer needed"
-}
 ✅ Saved → RBQ | Chaturanga | Row 9
 ✅ Saved → RBQ | Chaturanga | Row 10
 ✅ Saved → RBQ | Chaturanga | Row 11
@@ -254,15 +247,15 @@ Failed to decode JSON from model: {
 ✅ Saved → RBQ | Buzkashi | Row 92
 Failed to decode JSON from model: {
   "score": 0,
-  "mistake": "The term 'آگ کی کمی' (lack of fire) is factually incorrect and illogical in the context of horse breeds. 'ٹھنڈے خون والے' (cold-blooded) horses are not described by 'fire' — this is a metaphorical misuse. The correct contrast is between 'cold-blooded' (calm, steady, strong) and 'hot-blooded' (energetic, fast, spirited) horses. 'آگ' (fire) incorrectly implies aggression or energy, but in equine terminology, 'hot-blooded' refers to temperament and athletic drive, not literal fire. The phrase 'ضروری رفتار اور آگ کی کمی' is therefore misleading and unscientific.",
+  "mistake": "The term 'آگ کی کمی' (lack of fire) is factually incorrect and logically inconsistent in the context of horse breeding. 'ٹھنڈے خون والے' (cold-blooded) horses are not evaluated based on 'fire' (which implies aggression or spirit), but rather on temperament, stamina, and build. The phrase 'آگ کی کمی' is a mistranslation or misuse — in equine terminology, 'hot-blooded' refers to spirited, energetic breeds (like Arabians), while 'cold-blooded' refers to calm, heavy breeds (like draft horses). The correct contrast is 'spirit' or 'energy', not 'fire'.",
   "improved_question": "ٹھنڈے خون والے" گھوڑے کی بنیادی خصوصیت کیا ہے، اور یہ بزکشی کے لیے کیوں نا مناسب ہے؟",
   "improved_options": [
     "ا) وہ جارحانہ ہیں؛ وہ بہت خطرناک ہیں",
-    "ب) وہ پرسکون اور سست ہیں؛ ان میں ضروری تیزی اور ج��بے کی کمی ہے",
+    "ب) وہ پرسکون اور سست ہیں؛ ان میں ضروری رفتار اور جانشینی کی کمی ��ے",
     "C) وہ چھوٹے ہیں؛ وہ کافی مضبوط نہیں ہیں",
     "D) وہ نایاب ہیں؛ وہ بہت مہنگے ہیں"
   ],
-  "correct_answer": "ب) وہ پرسکون اور سست ہیں؛ ان میں ضروری تیزی اور جذبے کی کمی ہے"
+  "correct_answer": "ب) وہ پرسکون اور سست ہیں؛ ان میں ضروری رفتار اور جانشینی کی کمی ہے"
 }
 ✅ Saved → RBQ | Buzkashi | Row 93
 ✅ Saved → RBQ | Buzkashi | Row 94
@@ -270,20 +263,684 @@ Failed to decode JSON from model: {
 ✅ Saved → RBQ | Buzkashi | Row 96
 ✅ Saved → RBQ | Buzkashi | Row 97
 ✅ Saved → RBQ | Buzkashi | Row 98
-Traceback (most recent call last):
-  File "/DATA/rohan_kirti/niladri/country/pakistan/RBQ/run.py", line 213, in <module>
-    score, mistake, improved_question,improved_options, correct_answer = ask_llm(q, option, ans)
-                                                                         ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/DATA/rohan_kirti/niladri/country/pakistan/RBQ/run.py", line 66, in ask_llm
-    response.raise_for_status()
-  File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/requests/models.py", line 1026, in raise_for_status
-    raise HTTPError(http_error_msg, response=self)
-requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://cloud.olakrutrim.com/v1/chat/completions
+✅ Saved → RBQ | Buzkashi | Row 99
+✅ Saved → RBQ | Buzkashi | Row 100
+✅ Saved → RBQ | Buzkashi | Row 101
+✅ Saved → RBQ | Buzkashi | Row 102
+✅ Saved → RBQ | Buzkashi | Row 103
+✅ Saved → RBQ | Buzkashi | Row 104
+✅ Saved → RBQ | Buzkashi | Row 105
+✅ Saved → RBQ | Buzkashi | Row 106
+✅ Saved → RBQ | Buzkashi | Row 107
+✅ Saved → RBQ | Buzkashi | Row 108
+✅ Saved → RBQ | Buzkashi | Row 109
+✅ Saved → RBQ | Buzkashi | Row 110
+✅ Saved → RBQ | Buzkashi | Row 111
+✅ Saved → RBQ | Buzkashi | Row 112
+✅ Saved → RBQ | Buzkashi | Row 113
+✅ Saved → RBQ | Buzkashi | Row 114
+✅ Saved → RBQ | Buzkashi | Row 115
+✅ Saved → RBQ | Buzkashi | Row 116
+✅ Saved → RBQ | Buzkashi | Row 117
+✅ Saved → RBQ | Buzkashi | Row 118
+✅ Saved → RBQ | Buzkashi | Row 119
+✅ Saved → RBQ | Buzkashi | Row 120
+✅ Saved → RBQ | Buzkashi | Row 121
+✅ Saved → RBQ | Buzkashi | Row 122
+✅ Saved → RBQ | Buzkashi | Row 123
+✅ Saved → RBQ | Buzkashi | Row 124
+✅ Saved → RBQ | Buzkashi | Row 125
+✅ Saved → RBQ | Buzkashi | Row 126
+✅ Saved → RBQ | Buzkashi | Row 127
+✅ Saved → RBQ | Buzkashi | Row 128
+✅ Saved → RBQ | Buzkashi | Row 129
+✅ Saved → RBQ | Buzkashi | Row 130
+✅ Saved → RBQ | Buzkashi | Row 131
+✅ Saved → RBQ | Buzkashi | Row 132
+✅ Saved → RBQ | Buzkashi | Row 133
+✅ Saved → RBQ | Buzkashi | Row 134
+✅ Saved → RBQ | Buzkashi | Row 135
+✅ Saved → RBQ | Buzkashi | Row 136
+✅ Saved → RBQ | Buzkashi | Row 137
+✅ Saved → RBQ | Buzkashi | Row 138
+✅ Saved → RBQ | Buzkashi | Row 139
+✅ Saved → RBQ | Buzkashi | Row 140
+✅ Saved → RBQ | Buzkashi | Row 141
+✅ Saved → RBQ | Buzkashi | Row 142
+✅ Saved → RBQ | Buzkashi | Row 143
+✅ Saved → RBQ | Buzkashi | Row 144
+✅ Saved → RBQ | Buzkashi | Row 145
+✅ Saved → RBQ | Buzkashi | Row 146
+✅ Saved → RBQ | Buzkashi | Row 147
+✅ Saved → RBQ | Buzkashi | Row 148
+✅ Saved → RBQ | Buzkashi | Row 149
+✅ Saved → RBQ | Gatka | Row 0
+✅ Saved → RBQ | Gatka | Row 1
+✅ Saved → RBQ | Gatka | Row 2
+✅ Saved → RBQ | Gatka | Row 3
+✅ Saved → RBQ | Gatka | Row 4
+✅ Saved → RBQ | Gatka | Row 5
+✅ Saved → RBQ | Gatka | Row 6
+✅ Saved → RBQ | Gatka | Row 7
+✅ Saved → RBQ | Gatka | Row 8
+✅ Saved → RBQ | Gatka | Row 9
+✅ Saved → RBQ | Gatka | Row 10
+✅ Saved → RBQ | Gatka | Row 11
+✅ Saved → RBQ | Gatka | Row 12
+✅ Saved → RBQ | Gatka | Row 13
+✅ Saved → RBQ | Gatka | Row 14
+✅ Saved → RBQ | Gatka | Row 15
+✅ Saved → RBQ | Gatka | Row 16
+✅ Saved → RBQ | Gatka | Row 17
+✅ Saved → RBQ | Gatka | Row 18
+✅ Saved → RBQ | Gatka | Row 19
+✅ Saved → RBQ | Gatka | Row 20
+✅ Saved → RBQ | Gatka | Row 21
+✅ Saved → RBQ | Gatka | Row 22
+✅ Saved → RBQ | Gatka | Row 23
+✅ Saved → RBQ | Gatka | Row 24
+✅ Saved → RBQ | Gatka | Row 25
+✅ Saved → RBQ | Gatka | Row 26
+✅ Saved → RBQ | Gatka | Row 27
+✅ Saved → RBQ | Gatka | Row 28
+✅ Saved → RBQ | Gatka | Row 29
+✅ Saved → RBQ | Gatka | Row 30
+✅ Saved → RBQ | Gatka | Row 31
+✅ Saved → RBQ | Gatka | Row 32
+✅ Saved → RBQ | Gatka | Row 33
+✅ Saved → RBQ | Gatka | Row 34
+✅ Saved → RBQ | Gatka | Row 35
+✅ Saved → RBQ | Gatka | Row 36
+✅ Saved → RBQ | Gatka | Row 37
+✅ Saved → RBQ | Gatka | Row 38
+✅ Saved → RBQ | Gatka | Row 39
+✅ Saved → RBQ | Gatka | Row 40
+✅ Saved → RBQ | Gatka | Row 41
+✅ Saved → RBQ | Gatka | Row 42
+✅ Saved → RBQ | Gatka | Row 43
+✅ Saved → RBQ | Gatka | Row 44
+✅ Saved → RBQ | Gatka | Row 45
+✅ Saved → RBQ | Gatka | Row 46
+✅ Saved → RBQ | Gatka | Row 47
+✅ Saved → RBQ | Gatka | Row 48
+✅ Saved → RBQ | Gatka | Row 49
+✅ Saved → RBQ | Gatka | Row 50
+✅ Saved → RBQ | Gatka | Row 51
+✅ Saved → RBQ | Gatka | Row 52
+✅ Saved → RBQ | Gatka | Row 53
+✅ Saved → RBQ | Gatka | Row 54
+✅ Saved → RBQ | Gatka | Row 55
+✅ Saved → RBQ | Gatka | Row 56
+✅ Saved → RBQ | Gatka | Row 57
+✅ Saved → RBQ | Gatka | Row 58
+✅ Saved → RBQ | Gatka | Row 59
+✅ Saved → RBQ | Gatka | Row 60
+✅ Saved → RBQ | Gatka | Row 61
+✅ Saved → RBQ | Gatka | Row 62
+✅ Saved → RBQ | Gatka | Row 63
+✅ Saved → RBQ | Gatka | Row 64
+✅ Saved → RBQ | Gatka | Row 65
+✅ Saved → RBQ | Gatka | Row 66
+✅ Saved → RBQ | Gatka | Row 67
+✅ Saved → RBQ | Gatka | Row 68
+✅ Saved → RBQ | Gatka | Row 69
+✅ Saved → RBQ | Gatka | Row 70
+✅ Saved → RBQ | Gatka | Row 71
+✅ Saved → RBQ | Gatka | Row 72
+✅ Saved → RBQ | Gatka | Row 73
+✅ Saved → RBQ | Gatka | Row 74
+✅ Saved → RBQ | Gatka | Row 75
+✅ Saved → RBQ | Gatka | Row 76
+✅ Saved → RBQ | Gatka | Row 77
+✅ Saved → RBQ | Gatka | Row 78
+✅ Saved → RBQ | Gatka | Row 79
+✅ Saved → RBQ | Gatka | Row 80
+✅ Saved → RBQ | Gatka | Row 81
+✅ Saved → RBQ | Gatka | Row 82
+✅ Saved → RBQ | Gatka | Row 83
+✅ Saved → RBQ | Gatka | Row 84
+✅ Saved → RBQ | Gatka | Row 85
+✅ Saved → RBQ | Gatka | Row 86
+✅ Saved → RBQ | Gatka | Row 87
+✅ Saved → RBQ | Gatka | Row 88
+✅ Saved → RBQ | Gatka | Row 89
+✅ Saved → RBQ | Gatka | Row 90
+✅ Saved → RBQ | Gatka | Row 91
+✅ Saved → RBQ | Gatka | Row 92
+✅ Saved → RBQ | Gatka | Row 93
+✅ Saved → RBQ | Gatka | Row 94
+✅ Saved → RBQ | Gatka | Row 95
+✅ Saved → RBQ | Gatka | Row 96
+✅ Saved → RBQ | Gatka | Row 97
+✅ Saved → RBQ | Gatka | Row 98
+✅ Saved → RBQ | Gatka | Row 99
+✅ Saved → RBQ | Gatka | Row 100
+✅ Saved → RBQ | Gatka | Row 101
+✅ Saved → RBQ | Gatka | Row 102
+✅ Saved → RBQ | Gatka | Row 103
+✅ Saved → RBQ | Gatka | Row 104
+✅ Saved → RBQ | Gatka | Row 105
+✅ Saved → RBQ | Gatka | Row 106
+✅ Saved → RBQ | Gatka | Row 107
+✅ Saved → RBQ | Gatka | Row 108
+✅ Saved → RBQ | Gatka | Row 109
+✅ Saved → RBQ | Gatka | Row 110
+✅ Saved → RBQ | Gatka | Row 111
+✅ Saved → RBQ | Gatka | Row 112
+✅ Saved → RBQ | Gatka | Row 113
+✅ Saved → RBQ | Gatka | Row 114
+✅ Saved → RBQ | Gatka | Row 115
+✅ Saved → RBQ | Gatka | Row 116
+✅ Saved → RBQ | Gatka | Row 117
+✅ Saved → RBQ | Gatka | Row 118
+✅ Saved → RBQ | Gatka | Row 119
+✅ Saved → RBQ | Gatka | Row 121
+✅ Saved → RBQ | Gatka | Row 122
+✅ Saved → RBQ | Gatka | Row 123
+✅ Saved → RBQ | Gatka | Row 124
+✅ Saved → RBQ | Gatka | Row 127
+✅ Saved → RBQ | Gatka | Row 128
+✅ Saved → RBQ | Gatka | Row 131
+✅ Saved → RBQ | Gatka | Row 132
+✅ Saved → RBQ | Gatka | Row 133
+✅ Saved → RBQ | Gatka | Row 135
+✅ Saved → RBQ | Gatka | Row 136
+✅ Saved → RBQ | Gatka | Row 137
+✅ Saved → RBQ | Gatka | Row 138
+✅ Saved → RBQ | Gatka | Row 139
+✅ Saved → RBQ | Gatka | Row 140
+✅ Saved → RBQ | Gatka | Row 141
+✅ Saved → RBQ | Gatka | Row 142
+✅ Saved → RBQ | Gatka | Row 143
+✅ Saved → RBQ | Gatka | Row 144
+✅ Saved → RBQ | Gatka | Row 145
+✅ Saved → RBQ | Gatka | Row 146
+✅ Saved → RBQ | Gatka | Row 147
+Failed to decode JSON from model: {
+  "score": 0,
+  "mistake": "The question is factually incorrect. 'Gatka' is not named after a wooden stick used for training; it is a traditional Sikh martial art that involves the use of swords and shields. The term 'Gatka' comes from the Punjabi word 'gat' meaning 'weapon' or 'form', and 'ka' as a suffix, referring to the martial art form involving simulated combat with wooden sticks or swords. The correct association is with swords or weapon simulation, not a training stick alone. The provided answer misrepresents the origin of the term.",
+  "improved_question": "وہ "گٹکا" کیا ہے جس سے اس کھیل کا نام پڑا؟",
+  "improved_options": [
+    "A) تلوار کی ایک قسم",
+    "B) لکڑی کی چھڑی جو تربیت کے لیے استعمال ہوتی ہے",
+    "C) ڈھال",
+    "D) لڑائی کا میدان"
+  ],
+  "correct_answer": "A) تلوار کی ایک قسم"
+}
+✅ Saved → RBQ | Gatka | Row 148
+✅ Saved → RBQ | Gatka | Row 149
+✅ Saved → RBQ | Gilli Danda | Row 0
+✅ Saved → RBQ | Gilli Danda | Row 1
+✅ Saved → RBQ | Gilli Danda | Row 2
+✅ Saved → RBQ | Gilli Danda | Row 3
+✅ Saved → RBQ | Gilli Danda | Row 4
+✅ Saved → RBQ | Gilli Danda | Row 5
+✅ Saved → RBQ | Gilli Danda | Row 6
+✅ Saved → RBQ | Gilli Danda | Row 7
+✅ Saved → RBQ | Gilli Danda | Row 8
+✅ Saved → RBQ | Gilli Danda | Row 9
+✅ Saved → RBQ | Gilli Danda | Row 10
+✅ Saved → RBQ | Gilli Danda | Row 11
+✅ Saved → RBQ | Gilli Danda | Row 12
+✅ Saved → RBQ | Gilli Danda | Row 13
+✅ Saved → RBQ | Gilli Danda | Row 14
+✅ Saved → RBQ | Gilli Danda | Row 15
+✅ Saved → RBQ | Gilli Danda | Row 16
+✅ Saved → RBQ | Gilli Danda | Row 17
+✅ Saved → RBQ | Gilli Danda | Row 18
+✅ Saved → RBQ | Gilli Danda | Row 19
+✅ Saved → RBQ | Gilli Danda | Row 20
+✅ Saved → RBQ | Gilli Danda | Row 21
+✅ Saved → RBQ | Gilli Danda | Row 22
+✅ Saved → RBQ | Gilli Danda | Row 23
+✅ Saved → RBQ | Gilli Danda | Row 24
+✅ Saved → RBQ | Gilli Danda | Row 25
+✅ Saved → RBQ | Gilli Danda | Row 26
+✅ Saved → RBQ | Gilli Danda | Row 27
+✅ Saved → RBQ | Gilli Danda | Row 28
+✅ Saved → RBQ | Gilli Danda | Row 29
+✅ Saved → RBQ | Gilli Danda | Row 30
+✅ Saved → RBQ | Gilli Danda | Row 31
+✅ Saved → RBQ | Gilli Danda | Row 32
+✅ Saved → RBQ | Gilli Danda | Row 33
+✅ Saved → RBQ | Gilli Danda | Row 34
+✅ Saved → RBQ | Gilli Danda | Row 35
+✅ Saved → RBQ | Gilli Danda | Row 36
+✅ Saved → RBQ | Gilli Danda | Row 37
+✅ Saved → RBQ | Gilli Danda | Row 38
+✅ Saved → RBQ | Gilli Danda | Row 39
+✅ Saved → RBQ | Gilli Danda | Row 40
+✅ Saved → RBQ | Gilli Danda | Row 41
+✅ Saved → RBQ | Gilli Danda | Row 42
+✅ Saved → RBQ | Gilli Danda | Row 43
+✅ Saved → RBQ | Gilli Danda | Row 44
+✅ Saved → RBQ | Gilli Danda | Row 45
+✅ Saved → RBQ | Gilli Danda | Row 46
+✅ Saved → RBQ | Gilli Danda | Row 47
+✅ Saved → RBQ | Gilli Danda | Row 48
+✅ Saved → RBQ | Gilli Danda | Row 49
+✅ Saved → RBQ | Gilli Danda | Row 50
+✅ Saved → RBQ | Gilli Danda | Row 51
+✅ Saved → RBQ | Gilli Danda | Row 52
+✅ Saved → RBQ | Gilli Danda | Row 53
+✅ Saved → RBQ | Gilli Danda | Row 54
+✅ Saved → RBQ | Gilli Danda | Row 55
+✅ Saved → RBQ | Gilli Danda | Row 56
+✅ Saved → RBQ | Gilli Danda | Row 57
+✅ Saved → RBQ | Gilli Danda | Row 58
+✅ Saved → RBQ | Gilli Danda | Row 59
+✅ Saved → RBQ | Gilli Danda | Row 60
+✅ Saved → RBQ | Gilli Danda | Row 61
+✅ Saved → RBQ | Gilli Danda | Row 62
+✅ Saved → RBQ | Gilli Danda | Row 63
+✅ Saved → RBQ | Gilli Danda | Row 64
+✅ Saved → RBQ | Gilli Danda | Row 65
+✅ Saved → RBQ | Gilli Danda | Row 66
+✅ Saved → RBQ | Gilli Danda | Row 67
+✅ Saved → RBQ | Gilli Danda | Row 68
+✅ Saved → RBQ | Gilli Danda | Row 69
+✅ Saved → RBQ | Gilli Danda | Row 70
+✅ Saved → RBQ | Gilli Danda | Row 71
+✅ Saved → RBQ | Gilli Danda | Row 72
+✅ Saved → RBQ | Gilli Danda | Row 73
+✅ Saved → RBQ | Gilli Danda | Row 74
+✅ Saved → RBQ | Gilli Danda | Row 75
+✅ Saved → RBQ | Gilli Danda | Row 76
+✅ Saved → RBQ | Gilli Danda | Row 77
+✅ Saved → RBQ | Gilli Danda | Row 78
+✅ Saved → RBQ | Gilli Danda | Row 79
+✅ Saved → RBQ | Gilli Danda | Row 80
+✅ Saved → RBQ | Gilli Danda | Row 81
+✅ Saved → RBQ | Gilli Danda | Row 82
+✅ Saved → RBQ | Gilli Danda | Row 83
+✅ Saved → RBQ | Gilli Danda | Row 84
+✅ Saved → RBQ | Gilli Danda | Row 85
+✅ Saved → RBQ | Gilli Danda | Row 86
+✅ Saved → RBQ | Gilli Danda | Row 87
+✅ Saved → RBQ | Gilli Danda | Row 88
+✅ Saved → RBQ | Gilli Danda | Row 89
+✅ Saved → RBQ | Gilli Danda | Row 90
+✅ Saved → RBQ | Gilli Danda | Row 91
+✅ Saved → RBQ | Gilli Danda | Row 92
+✅ Saved → RBQ | Gilli Danda | Row 93
+✅ Saved → RBQ | Gilli Danda | Row 94
+✅ Saved → RBQ | Gilli Danda | Row 95
+✅ Saved → RBQ | Gilli Danda | Row 96
+✅ Saved → RBQ | Gilli Danda | Row 97
+✅ Saved → RBQ | Gilli Danda | Row 98
+✅ Saved → RBQ | Gilli Danda | Row 99
+✅ Saved → RBQ | Gilli Danda | Row 100
+✅ Saved → RBQ | Gilli Danda | Row 101
+✅ Saved → RBQ | Gilli Danda | Row 102
+✅ Saved → RBQ | Gilli Danda | Row 103
+✅ Saved → RBQ | Gilli Danda | Row 104
+✅ Saved → RBQ | Gilli Danda | Row 105
+✅ Saved → RBQ | Gilli Danda | Row 106
+✅ Saved → RBQ | Gilli Danda | Row 107
+✅ Saved → RBQ | Gilli Danda | Row 108
+✅ Saved → RBQ | Gilli Danda | Row 109
+✅ Saved → RBQ | Gilli Danda | Row 110
+✅ Saved → RBQ | Gilli Danda | Row 111
+✅ Saved → RBQ | Gilli Danda | Row 112
+✅ Saved → RBQ | Gilli Danda | Row 113
+✅ Saved → RBQ | Gilli Danda | Row 114
+✅ Saved → RBQ | Gilli Danda | Row 115
+✅ Saved → RBQ | Gilli Danda | Row 116
+✅ Saved → RBQ | Gilli Danda | Row 117
+✅ Saved → RBQ | Gilli Danda | Row 118
+✅ Saved → RBQ | Gilli Danda | Row 119
+✅ Saved → RBQ | Gilli Danda | Row 120
+✅ Saved → RBQ | Gilli Danda | Row 121
+✅ Saved → RBQ | Gilli Danda | Row 122
+✅ Saved → RBQ | Gilli Danda | Row 123
+✅ Saved → RBQ | Gilli Danda | Row 124
+✅ Saved → RBQ | Gilli Danda | Row 125
+✅ Saved → RBQ | Gilli Danda | Row 126
+✅ Saved → RBQ | Gilli Danda | Row 127
+✅ Saved → RBQ | Gilli Danda | Row 128
+✅ Saved → RBQ | Gilli Danda | Row 129
+✅ Saved → RBQ | Gilli Danda | Row 130
+✅ Saved → RBQ | Gilli Danda | Row 131
+✅ Saved → RBQ | Gilli Danda | Row 132
+✅ Saved → RBQ | Gilli Danda | Row 133
+✅ Saved → RBQ | Gilli Danda | Row 134
+✅ Saved → RBQ | Gilli Danda | Row 135
+✅ Saved → RBQ | Gilli Danda | Row 136
+✅ Saved → RBQ | Gilli Danda | Row 137
+✅ Saved → RBQ | Gilli Danda | Row 138
+✅ Saved → RBQ | Gilli Danda | Row 139
+✅ Saved → RBQ | Gilli Danda | Row 140
+✅ Saved → RBQ | Gilli Danda | Row 141
+✅ Saved → RBQ | Gilli Danda | Row 142
+✅ Saved → RBQ | Gilli Danda | Row 143
+✅ Saved → RBQ | Gilli Danda | Row 144
+✅ Saved → RBQ | Gilli Danda | Row 145
+✅ Saved → RBQ | Gilli Danda | Row 146
+✅ Saved → RBQ | Gilli Danda | Row 147
+✅ Saved → RBQ | Gilli Danda | Row 148
+✅ Saved → RBQ | Gilli Danda | Row 149
+✅ Saved → RBQ | Tent Pegging | Row 0
+✅ Saved → RBQ | Tent Pegging | Row 1
+✅ Saved → RBQ | Tent Pegging | Row 2
+✅ Saved → RBQ | Tent Pegging | Row 3
+✅ Saved → RBQ | Tent Pegging | Row 4
+✅ Saved → RBQ | Tent Pegging | Row 5
+✅ Saved → RBQ | Tent Pegging | Row 6
+✅ Saved → RBQ | Tent Pegging | Row 7
+✅ Saved → RBQ | Tent Pegging | Row 8
+✅ Saved → RBQ | Tent Pegging | Row 9
+✅ Saved → RBQ | Tent Pegging | Row 10
+✅ Saved → RBQ | Tent Pegging | Row 11
+✅ Saved → RBQ | Tent Pegging | Row 12
+✅ Saved → RBQ | Tent Pegging | Row 13
+✅ Saved → RBQ | Tent Pegging | Row 14
+✅ Saved → RBQ | Tent Pegging | Row 15
+✅ Saved → RBQ | Tent Pegging | Row 16
+✅ Saved → RBQ | Tent Pegging | Row 17
+✅ Saved → RBQ | Tent Pegging | Row 18
+✅ Saved → RBQ | Tent Pegging | Row 19
+✅ Saved → RBQ | Tent Pegging | Row 20
+✅ Saved → RBQ | Tent Pegging | Row 21
+✅ Saved → RBQ | Tent Pegging | Row 22
+✅ Saved → RBQ | Tent Pegging | Row 23
+✅ Saved → RBQ | Tent Pegging | Row 24
+✅ Saved → RBQ | Tent Pegging | Row 25
+✅ Saved → RBQ | Tent Pegging | Row 26
+✅ Saved → RBQ | Tent Pegging | Row 27
+✅ Saved → RBQ | Tent Pegging | Row 28
+✅ Saved → RBQ | Tent Pegging | Row 29
+✅ Saved → RBQ | Tent Pegging | Row 30
+✅ Saved → RBQ | Tent Pegging | Row 31
+✅ Saved → RBQ | Tent Pegging | Row 32
+✅ Saved → RBQ | Tent Pegging | Row 33
+✅ Saved → RBQ | Tent Pegging | Row 34
+✅ Saved → RBQ | Tent Pegging | Row 35
+✅ Saved → RBQ | Tent Pegging | Row 36
+✅ Saved → RBQ | Tent Pegging | Row 37
+✅ Saved → RBQ | Tent Pegging | Row 38
+✅ Saved → RBQ | Tent Pegging | Row 39
+✅ Saved → RBQ | Tent Pegging | Row 40
+✅ Saved → RBQ | Tent Pegging | Row 41
+✅ Saved → RBQ | Tent Pegging | Row 42
+✅ Saved → RBQ | Tent Pegging | Row 43
+✅ Saved → RBQ | Tent Pegging | Row 44
+✅ Saved → RBQ | Tent Pegging | Row 45
+✅ Saved → RBQ | Tent Pegging | Row 46
+✅ Saved → RBQ | Tent Pegging | Row 47
+✅ Saved → RBQ | Tent Pegging | Row 48
+✅ Saved → RBQ | Tent Pegging | Row 49
+✅ Saved → RBQ | Tent Pegging | Row 50
+✅ Saved → RBQ | Tent Pegging | Row 51
+✅ Saved → RBQ | Tent Pegging | Row 52
+✅ Saved → RBQ | Tent Pegging | Row 53
+✅ Saved → RBQ | Tent Pegging | Row 54
+✅ Saved → RBQ | Tent Pegging | Row 55
+✅ Saved → RBQ | Tent Pegging | Row 56
+✅ Saved → RBQ | Tent Pegging | Row 57
+✅ Saved → RBQ | Tent Pegging | Row 58
+✅ Saved → RBQ | Tent Pegging | Row 59
+✅ Saved → RBQ | Tent Pegging | Row 60
+✅ Saved → RBQ | Tent Pegging | Row 61
+✅ Saved → RBQ | Tent Pegging | Row 62
+✅ Saved → RBQ | Tent Pegging | Row 63
+✅ Saved → RBQ | Tent Pegging | Row 64
+✅ Saved → RBQ | Tent Pegging | Row 65
+✅ Saved → RBQ | Tent Pegging | Row 66
+✅ Saved → RBQ | Tent Pegging | Row 67
+✅ Saved → RBQ | Tent Pegging | Row 68
+✅ Saved → RBQ | Tent Pegging | Row 69
+✅ Saved → RBQ | Tent Pegging | Row 70
+✅ Saved → RBQ | Tent Pegging | Row 71
+✅ Saved → RBQ | Tent Pegging | Row 72
+✅ Saved → RBQ | Tent Pegging | Row 73
+✅ Saved → RBQ | Tent Pegging | Row 74
+✅ Saved → RBQ | Tent Pegging | Row 75
+✅ Saved → RBQ | Tent Pegging | Row 76
+✅ Saved → RBQ | Tent Pegging | Row 77
+✅ Saved → RBQ | Tent Pegging | Row 78
+✅ Saved → RBQ | Tent Pegging | Row 79
+✅ Saved → RBQ | Tent Pegging | Row 80
+✅ Saved → RBQ | Tent Pegging | Row 81
+✅ Saved → RBQ | Tent Pegging | Row 82
+✅ Saved → RBQ | Tent Pegging | Row 83
+✅ Saved → RBQ | Tent Pegging | Row 84
+✅ Saved → RBQ | Tent Pegging | Row 85
+✅ Saved → RBQ | Tent Pegging | Row 86
+✅ Saved → RBQ | Tent Pegging | Row 87
+✅ Saved → RBQ | Tent Pegging | Row 88
+✅ Saved → RBQ | Tent Pegging | Row 89
+✅ Saved → RBQ | Tent Pegging | Row 90
+✅ Saved → RBQ | Tent Pegging | Row 91
+✅ Saved → RBQ | Tent Pegging | Row 92
+✅ Saved → RBQ | Tent Pegging | Row 93
+✅ Saved → RBQ | Tent Pegging | Row 94
+✅ Saved → RBQ | Tent Pegging | Row 95
+✅ Saved → RBQ | Tent Pegging | Row 96
+✅ Saved → RBQ | Tent Pegging | Row 97
+✅ Saved → RBQ | Tent Pegging | Row 98
+✅ Saved → RBQ | Tent Pegging | Row 99
+✅ Saved → RBQ | Tent Pegging | Row 100
+✅ Saved → RBQ | Tent Pegging | Row 101
+✅ Saved → RBQ | Tent Pegging | Row 102
+✅ Saved → RBQ | Tent Pegging | Row 103
+✅ Saved → RBQ | Tent Pegging | Row 104
+✅ Saved → RBQ | Tent Pegging | Row 105
+✅ Saved → RBQ | Tent Pegging | Row 106
+✅ Saved → RBQ | Tent Pegging | Row 107
+✅ Saved → RBQ | Tent Pegging | Row 108
+✅ Saved → RBQ | Tent Pegging | Row 109
+✅ Saved → RBQ | Tent Pegging | Row 110
+✅ Saved → RBQ | Tent Pegging | Row 111
+✅ Saved → RBQ | Tent Pegging | Row 112
+✅ Saved → RBQ | Tent Pegging | Row 113
+✅ Saved → RBQ | Tent Pegging | Row 114
+✅ Saved → RBQ | Tent Pegging | Row 115
+✅ Saved → RBQ | Tent Pegging | Row 116
+✅ Saved → RBQ | Tent Pegging | Row 117
+✅ Saved → RBQ | Tent Pegging | Row 118
+✅ Saved → RBQ | Tent Pegging | Row 119
+✅ Saved → RBQ | Tent Pegging | Row 120
+✅ Saved → RBQ | Tent Pegging | Row 121
+✅ Saved → RBQ | Tent Pegging | Row 122
+✅ Saved → RBQ | Tent Pegging | Row 123
+✅ Saved → RBQ | Tent Pegging | Row 124
+✅ Saved → RBQ | Tent Pegging | Row 125
+Failed to decode JSON from model: {
+  "score": 0,
+  "mistake": "The term 'پومیل' is not a standard Urdu/Persian term for any part of a saddle; it appears to be a misspelling or misinterpretation of 'pommel'. The question and options use 'سڈل' (saddle) correctly, but 'پومیل' is incorrect. The correct term in Urdu for 'pommel' is 'پومل' or 'پومل کا حصہ'. Also, the correct answer option is labeled 'ب)' but written as 'ب) یہ سوار کو کاٹھی میں محفوظ رکھنے میں مدد کرتا ہے...' — 'کاٹھی' is a misspelling of 'سیڈل'. The option should read 'سیڈل' not 'کاٹھی'.",
+  "improved_question": "پومل" کا بنیادی مقصد کیا ہے (سیڈل کا اگلا، اٹھایا ہوا حصہ)؟",
+  "improved_options": [
+    "A) سوار کو پکڑنے کے لیے یہ ایک ہینڈل ہے",
+    "B) یہ سوار کو سیڈل میں محفوظ رکھنے میں مدد کرتا ہے اور انہیں آگے بڑھنے سے روکتا ہے",
+    "C) یہ لانس کو آرام کرنے کی جگہ ہے",
+    "D) یہ سجاوٹ کے لیے ہے"
+  ],
+  "correct_answer": "B) یہ سوار کو سیڈل میں محفوظ رکھنے میں مدد کرتا ہے اور انہیں آگے بڑھنے سے روکتا ہے"
+}
+✅ Saved → RBQ | Tent Pegging | Row 126
+✅ Saved → RBQ | Tent Pegging | Row 127
+✅ Saved → RBQ | Tent Pegging | Row 128
+✅ Saved → RBQ | Tent Pegging | Row 129
+✅ Saved → RBQ | Tent Pegging | Row 130
+✅ Saved → RBQ | Tent Pegging | Row 131
+✅ Saved → RBQ | Tent Pegging | Row 132
+✅ Saved → RBQ | Tent Pegging | Row 133
+✅ Saved → RBQ | Tent Pegging | Row 134
+✅ Saved → RBQ | Tent Pegging | Row 135
+✅ Saved → RBQ | Tent Pegging | Row 136
+✅ Saved → RBQ | Tent Pegging | Row 137
+✅ Saved → RBQ | Tent Pegging | Row 138
+✅ Saved → RBQ | Tent Pegging | Row 139
+✅ Saved → RBQ | Tent Pegging | Row 140
+✅ Saved → RBQ | Tent Pegging | Row 141
+✅ Saved → RBQ | Tent Pegging | Row 142
+✅ Saved → RBQ | Tent Pegging | Row 143
+✅ Saved → RBQ | Tent Pegging | Row 144
+✅ Saved → RBQ | Tent Pegging | Row 145
+✅ Saved → RBQ | Tent Pegging | Row 146
+✅ Saved → RBQ | Tent Pegging | Row 147
+✅ Saved → RBQ | Tent Pegging | Row 148
+✅ Saved → RBQ | Tent Pegging | Row 149
+✅ Saved → RBQ | Malakhra | Row 0
+✅ Saved → RBQ | Malakhra | Row 1
+✅ Saved → RBQ | Malakhra | Row 2
+✅ Saved → RBQ | Malakhra | Row 3
+✅ Saved → RBQ | Malakhra | Row 4
+✅ Saved → RBQ | Malakhra | Row 5
+✅ Saved → RBQ | Malakhra | Row 6
+✅ Saved → RBQ | Malakhra | Row 7
+✅ Saved → RBQ | Malakhra | Row 8
+✅ Saved → RBQ | Malakhra | Row 9
+✅ Saved → RBQ | Malakhra | Row 10
+✅ Saved → RBQ | Malakhra | Row 11
+✅ Saved → RBQ | Malakhra | Row 12
+✅ Saved → RBQ | Malakhra | Row 13
+✅ Saved → RBQ | Malakhra | Row 14
+✅ Saved → RBQ | Malakhra | Row 15
+✅ Saved → RBQ | Malakhra | Row 16
+✅ Saved → RBQ | Malakhra | Row 17
+✅ Saved → RBQ | Malakhra | Row 18
+✅ Saved → RBQ | Malakhra | Row 19
+✅ Saved → RBQ | Malakhra | Row 20
+✅ Saved → RBQ | Malakhra | Row 21
+✅ Saved → RBQ | Malakhra | Row 22
+✅ Saved → RBQ | Malakhra | Row 23
+✅ Saved → RBQ | Malakhra | Row 24
+✅ Saved → RBQ | Malakhra | Row 25
+✅ Saved → RBQ | Malakhra | Row 26
+✅ Saved → RBQ | Malakhra | Row 27
+✅ Saved → RBQ | Malakhra | Row 28
+✅ Saved → RBQ | Malakhra | Row 29
+✅ Saved → RBQ | Malakhra | Row 30
+✅ Saved → RBQ | Malakhra | Row 31
+✅ Saved → RBQ | Malakhra | Row 32
+✅ Saved → RBQ | Malakhra | Row 33
+✅ Saved → RBQ | Malakhra | Row 34
+✅ Saved → RBQ | Malakhra | Row 35
+✅ Saved → RBQ | Malakhra | Row 36
+✅ Saved → RBQ | Malakhra | Row 37
+✅ Saved → RBQ | Malakhra | Row 38
+✅ Saved → RBQ | Malakhra | Row 39
+✅ Saved → RBQ | Malakhra | Row 40
+✅ Saved → RBQ | Malakhra | Row 41
+✅ Saved → RBQ | Malakhra | Row 42
+✅ Saved → RBQ | Malakhra | Row 43
+✅ Saved → RBQ | Malakhra | Row 44
+✅ Saved → RBQ | Malakhra | Row 45
+✅ Saved → RBQ | Malakhra | Row 46
+✅ Saved → RBQ | Malakhra | Row 47
+✅ Saved → RBQ | Malakhra | Row 48
+✅ Saved → RBQ | Malakhra | Row 49
+✅ Saved → RBQ | Malakhra | Row 50
+✅ Saved → RBQ | Malakhra | Row 51
+✅ Saved → RBQ | Malakhra | Row 52
+✅ Saved → RBQ | Malakhra | Row 53
+✅ Saved → RBQ | Malakhra | Row 54
+✅ Saved → RBQ | Malakhra | Row 55
+✅ Saved → RBQ | Malakhra | Row 56
+✅ Saved → RBQ | Malakhra | Row 57
+✅ Saved → RBQ | Malakhra | Row 58
+✅ Saved → RBQ | Malakhra | Row 59
+✅ Saved → RBQ | Malakhra | Row 60
+✅ Saved → RBQ | Malakhra | Row 61
+✅ Saved → RBQ | Malakhra | Row 62
+✅ Saved → RBQ | Malakhra | Row 63
+✅ Saved → RBQ | Malakhra | Row 64
+✅ Saved → RBQ | Malakhra | Row 65
+✅ Saved → RBQ | Malakhra | Row 66
+✅ Saved → RBQ | Malakhra | Row 67
+✅ Saved → RBQ | Malakhra | Row 68
+✅ Saved → RBQ | Malakhra | Row 69
+✅ Saved → RBQ | Malakhra | Row 70
+✅ Saved → RBQ | Malakhra | Row 71
+✅ Saved → RBQ | Malakhra | Row 72
+✅ Saved → RBQ | Malakhra | Row 73
+✅ Saved → RBQ | Malakhra | Row 74
+✅ Saved → RBQ | Malakhra | Row 75
+✅ Saved → RBQ | Malakhra | Row 76
+✅ Saved → RBQ | Malakhra | Row 77
+✅ Saved → RBQ | Malakhra | Row 78
+✅ Saved → RBQ | Malakhra | Row 79
+✅ Saved → RBQ | Malakhra | Row 80
+✅ Saved → RBQ | Malakhra | Row 81
+✅ Saved → RBQ | Malakhra | Row 82
+✅ Saved → RBQ | Malakhra | Row 83
+✅ Saved → RBQ | Malakhra | Row 84
+✅ Saved → RBQ | Malakhra | Row 85
+✅ Saved → RBQ | Malakhra | Row 86
+✅ Saved → RBQ | Malakhra | Row 87
+✅ Saved → RBQ | Malakhra | Row 88
+✅ Saved → RBQ | Malakhra | Row 89
+✅ Saved → RBQ | Malakhra | Row 90
+✅ Saved → RBQ | Malakhra | Row 91
+✅ Saved → RBQ | Malakhra | Row 92
+✅ Saved → RBQ | Malakhra | Row 93
+✅ Saved → RBQ | Malakhra | Row 94
+✅ Saved → RBQ | Malakhra | Row 95
+✅ Saved → RBQ | Malakhra | Row 96
+✅ Saved → RBQ | Malakhra | Row 97
+✅ Saved → RBQ | Malakhra | Row 98
+✅ Saved → RBQ | Malakhra | Row 99
+✅ Saved → RBQ | Malakhra | Row 100
+✅ Saved → RBQ | Malakhra | Row 101
+✅ Saved → RBQ | Malakhra | Row 102
+✅ Saved → RBQ | Malakhra | Row 103
+✅ Saved → RBQ | Malakhra | Row 104
+✅ Saved → RBQ | Malakhra | Row 105
+Failed to decode JSON from model: {
+  "score": 0,
+  "mistake": "The question refers to 'ہنر پر ہتھیار' which is not a recognized equestrian event. The correct term is 'کھیل کے ہنر' or 'ایونٹ آف ایکسپرٹس' (Eventing), which includes dressage, cross-country, and show jumping. Additionally, option A contains absurd elements like 'لیموں کاٹنا' (cutting lemons), which has no place in equestrian sports. The correct components of eventing are dressage, cross-country, and show jumping, not unrelated tasks like cutting lemons.",
+  "improved_question": "کھیل کے ہنر" ایونٹ میں، ایک سوار کو کیا کرنا پڑے گا؟",
+  "improved_options": [
+    "A) ایک ہی دوڑ میں مختلف قسم کے کام انجام دیں، جیسے ڈریسیج، کراس کنٹری اور شو جمپنگ",
+    "B) رکاوٹوں کے ایک سلسلے کو چھلانگ لگانا",
+    "C) ڈریسیج ٹیسٹ کروائیں",
+    "D) دوسرے گھوڑے کے خلاف دوڑ"
+  ],
+  "correct_answer": "A) ایک ہی دوڑ میں مختلف قسم کے کام انجام دیں، جیسے ڈریسیج، کراس کنٹری اور شو جمپنگ"
+}
+✅ Saved → RBQ | Malakhra | Row 106
+✅ Saved → RBQ | Malakhra | Row 107
+✅ Saved → RBQ | Malakhra | Row 108
+✅ Saved → RBQ | Malakhra | Row 109
+✅ Saved → RBQ | Malakhra | Row 110
+✅ Saved → RBQ | Malakhra | Row 111
+✅ Saved → RBQ | Malakhra | Row 112
+✅ Saved → RBQ | Malakhra | Row 113
+✅ Saved → RBQ | Malakhra | Row 114
+✅ Saved → RBQ | Malakhra | Row 115
+✅ Saved → RBQ | Malakhra | Row 116
+✅ Saved → RBQ | Malakhra | Row 117
+✅ Saved → RBQ | Malakhra | Row 118
+✅ Saved → RBQ | Malakhra | Row 119
+✅ Saved → RBQ | Malakhra | Row 120
+✅ Saved → RBQ | Malakhra | Row 121
+✅ Saved → RBQ | Malakhra | Row 122
+✅ Saved → RBQ | Malakhra | Row 123
+✅ Saved → RBQ | Malakhra | Row 124
+✅ Saved → RBQ | Malakhra | Row 125
+✅ Saved → RBQ | Malakhra | Row 126
+✅ Saved → RBQ | Malakhra | Row 128
+✅ Saved → RBQ | Malakhra | Row 129
+✅ Saved → RBQ | Malakhra | Row 130
+✅ Saved → RBQ | Malakhra | Row 131
+✅ Saved → RBQ | Malakhra | Row 133
+✅ Saved → RBQ | Malakhra | Row 134
+✅ Saved → RBQ | Malakhra | Row 136
+✅ Saved → RBQ | Malakhra | Row 137
+✅ Saved → RBQ | Malakhra | Row 139
+✅ Saved → RBQ | Malakhra | Row 140
+✅ Saved → RBQ | Malakhra | Row 141
+✅ Saved → RBQ | Malakhra | Row 142
+✅ Saved → RBQ | Malakhra | Row 143
+✅ Saved → RBQ | Malakhra | Row 144
+✅ Saved → RBQ | Malakhra | Row 146
+✅ Saved → RBQ | Malakhra | Row 147
+✅ Saved → RBQ | Malakhra | Row 149
 
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/DATA/rohan_kirti/niladri/country/pakistan/RBQ/run.py", line 215, in <module>
-    score, mistake, improved_question, improved_options = f"ERROR: {e}"
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ValueError: too many values to unpack (expected 4)
+✅ COMPLETE!
+📄 Live-updating CSV: /DATA/rohan_kirti/country/pakistan/RBQ/Results_RBQ.csv
+Ended at: 11:36:46
+Total Duration: 1:04:48.927541
+✅ Successfully created '/DATA/rohan_kirti/country/pakistan/RBQ/Results_RBQ.xlsx'
