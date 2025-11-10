@@ -123,29 +123,26 @@ Respond ONLY in JSON format (strictly):
 
 
 # %%
-base_path = "/DATA/rohan_kirti/country/thailand/HBQ/"  # main folder containing all countries
-output_file = "/DATA/rohan_kirti/country/thailand/HBQ/Results_HBQ.csv"
+base_path = "/DATA/rohan_kirti/country/france/SBQ/"  # main folder containing all countries
+output_file = "/DATA/rohan_kirti/country/france/SBQ/Results_SBQ.csv"
 
 
 
 # Input CSV file path
-input_csv = "/DATA/rohan_kirti/country/thailand/HBQ/Results_HBQ.csv"
+input_csv = "/DATA/rohan_kirti/country/france/SBQ/Results_SBQ.csv"
 
 # Output Excel file path
-output_excel = "/DATA/rohan_kirti/country/thailand/HBQ/Results_HBQ.xlsx"
-# =============================
-# CONFIGURATION
-# =============================
+output_excel = "/DATA/rohan_kirti/country/france/SBQ/Results_SBQ.xlsx"
+# ============================= 
+# CONFIGURATION 
+# ============================= 
 
 
 
 # ✅ Regional language column mapping (update if needed)
-COL_QUESTION = "คำถาม"
-COL_OPTIONS  = "ตัวเลือก"
-COL_ANSWER   = "คำตอบ"
-
-
-
+COL_QUESTION = "Question2"
+COL_OPTIONS  = "Options2"
+COL_ANSWER   = "Répondre"
 # %%
 # ✅ If output file doesn’t exist → write header
 import csv
@@ -180,15 +177,18 @@ excel_files = glob.glob(os.path.join(base_path, "**/*.xlsx"), recursive=True)
 for file in excel_files:
        
     country = os.path.basename(os.path.dirname(file))
+    print(country)
     xls = pd.ExcelFile(file)
     print(f"\n📌 Processing: {file}")
 
     for sheet in xls.sheet_names:
+        print(sheet)
         df = pd.read_excel(file, sheet_name=sheet)
 
         if COL_QUESTION not in df.columns:
             continue
-        
+
+        df = df[[COL_QUESTION, COL_OPTIONS, COL_ANSWER]].dropna(how="all")
 
         for idx, row in df.iterrows():
             key = (os.path.basename(file), sheet, row[COL_QUESTION])

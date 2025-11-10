@@ -123,16 +123,16 @@ Respond ONLY in JSON format (strictly):
 
 
 # %%
-base_path = "/DATA/rohan_kirti/country/thailand/HBQ/"  # main folder containing all countries
-output_file = "/DATA/rohan_kirti/country/thailand/HBQ/Results_HBQ.csv"
+base_path = "/DATA/rohan_kirti/country/ethopia/HBQ/"  # main folder containing all countries
+output_file = "/DATA/rohan_kirti/country/ethopia/HBQ/Results_HBQ.csv"
 
 
 
 # Input CSV file path
-input_csv = "/DATA/rohan_kirti/country/thailand/HBQ/Results_HBQ.csv"
+input_csv = "/DATA/rohan_kirti/country/ethopia/HBQ/Results_HBQ.csv"
 
 # Output Excel file path
-output_excel = "/DATA/rohan_kirti/country/thailand/HBQ/Results_HBQ.xlsx"
+output_excel = "/DATA/rohan_kirti/country/ethopia/HBQ/Results_HBQ.xlsx"
 # =============================
 # CONFIGURATION
 # =============================
@@ -140,10 +140,9 @@ output_excel = "/DATA/rohan_kirti/country/thailand/HBQ/Results_HBQ.xlsx"
 
 
 # ✅ Regional language column mapping (update if needed)
-COL_QUESTION = "คำถาม"
-COL_OPTIONS  = "ตัวเลือก"
-COL_ANSWER   = "คำตอบ"
-
+COL_QUESTION = "አማራጭ ሀ"
+COL_OPTIONS  = "አማራጭ ለ"
+COL_ANSWER   = "አማራጭ ሐ"
 
 
 # %%
