@@ -1,15 +1,12 @@
-Started at: 14:39:53
+Started at: 16:20:04
+['C:\\Users\\nilad\\Documents\\country-dataset\\Bengali\\IBQ\\Bangladesh_IBQ.xlsx', 'C:\\Users\\nilad\\Documents\\country-dataset\\Bengali\\IBQ\\Results_IBQ.xlsx']
 
-📌 Processing: /DATA/rohan_kirti/country/Bengali/IBQ/Bangladesh_IBQ.xlsx
-Traceback (most recent call last):
-  File "/DATA/rohan_kirti/country/Bengali/IBQ/run.py", line 156, in <module>
-    df = df[[COL_QUESTION, COL_OPTIONS, COL_ANSWER]].dropna(how="all")
-         ~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/pandas/core/frame.py", line 4113, in __getitem__
-    indexer = self.columns._get_indexer_strict(key, "columns")[1]
-              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6212, in _get_indexer_strict
-    self._raise_if_missing(keyarr, indexer, axis_name)
-  File "/DATA/rohan_kirti/miniconda3/envs/salesbot/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6264, in _raise_if_missing
-    raise KeyError(f"{not_found} not in index")
-KeyError: "['অপশন', 'উত্তর'] not in index"
+-> Processing: C:\Users\nilad\Documents\country-dataset\Bengali\IBQ\Bangladesh_IBQ.xlsx
+
+-> Processing: C:\Users\nilad\Documents\country-dataset\Bengali\IBQ\Results_IBQ.xlsx
+
+[COMPLETE]!
+Live-updating CSV: Results_IBQ.csv
+Ended at: 16:20:05
+Total Duration: 0:00:01.252796
+[SUCCESS] Successfully created 'Results_IBQ.xlsx'
