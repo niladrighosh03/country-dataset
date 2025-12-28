@@ -1,0 +1,1514 @@
+﻿image_no,country,file,sheet,question,option,answer,score,What's wrong in Question,How can I improve the question,How can I improve the Options,Correct Answer
+bocce_2,IBQ,IBQ_Italy.xlsx,Bocce,Qual è l'obiettivo principale del gioco della bocce?,"a) Segnare punti
+b) Colpire l'avversario
+c) Evitare le bocce
+d) Passare la boccia",Segnare punti,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_2,IBQ,IBQ_Italy.xlsx,Bocce,Quali sono i colori tipici delle bocce utilizzate nel gioco?,"a) Rosso e verde
+b) Blu e giallo
+c) Bianco e nero
+d) Arancione e viola",Rosso e verde,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_2,IBQ,IBQ_Italy.xlsx,Bocce,Qual è il ruolo del pallino nel gioco della bocce?,"a) Segnare punti
+b) Essere colpito dalle bocce
+c) Determinare la distanza
+d) Essere evitato",Essere colpito dalle bocce,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_2,IBQ,IBQ_Italy.xlsx,Bocce,Qual è la superficie di gioco ideale per il gioco della bocce?,"a) Erba sintetica
+b) Asfalto
+c) Sabbia
+d) Erba naturale",Erba naturale,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_2,IBQ,IBQ_Italy.xlsx,Bocce,Qual è l'importanza culturale del gioco della bocce in Italia?,"a) Celebrare le festività religiose
+b) Rappresentare la storia e le tradizioni locali
+c) Promuovere il turismo
+d) Insegnare abilità sportive",Rappresentare la storia e le tradizioni locali,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_3,IBQ,IBQ_Italy.xlsx,Bocce,Quante persone stanno giocando a bocce nell'immagine?,"a) Due
+b) Quattro
+c) Sei
+d) Otto",Quattro,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_3,IBQ,IBQ_Italy.xlsx,Bocce,Quali sono i colori delle bocce visibili nell'immagine?,"a) Rosso e verde
+b) Bianco e nero
+c) Blu e giallo
+d) Arancione e viola",Rosso e verde,0,"The question asks for the colors of the 'bocce' (bowls) visible in the image, but the correct answer 'Rosso e verde' (Red and Green) doesn't fully align with the colors shown. While there is a red bocce, there's also a blue, yellow and white bocce visible in the image. The question and answer needs to be updated to accurately reflect the image content.",Quali colori di bocce sono visibili nell'immagine?,"['a) Rosso, giallo e blu', 'b) Bianco e nero', 'c) Verde e viola', 'd) Arancione e marrone']","a) Rosso, giallo e blu"
+bocce_3,IBQ,IBQ_Italy.xlsx,Bocce,Chi sta lanciando la boccia rossa nell'immagine?,"a) Una donna
+b) Un bambino
+c) Un uomo
+d) Un anziano",Un uomo,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_3,IBQ,IBQ_Italy.xlsx,Bocce,In quale ambiente si sta svolgendo il gioco di bocce nell'immagine?,"a) In un parco pubblico
+b) In una spiaggia
+c) In una palestra
+d) In un cortile",In un parco pubblico,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_3,IBQ,IBQ_Italy.xlsx,Bocce,Quante bocce sono visibili sull'erba nell'immagine?,"a) Due
+b) Tre
+c) Quattro
+d) Cinque",Quattro,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_4,IBQ,IBQ_Italy.xlsx,Bocce,Dove si trovano le persone rispetto al campo di bocce?,"a) Ai lati del campo
+b) Al centro del campo
+c) Sedute nelle tribune
+d) Fuori dal campo",Ai lati del campo,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_4,IBQ,IBQ_Italy.xlsx,Bocce,Qual è lo sfondo dell'immagine?,"a) Edifici
+b) Alberi
+c) Strada
+d) Mare",Alberi,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_4,IBQ,IBQ_Italy.xlsx,Bocce,Quali dettagli dell'immagine indicano che si tratta di una partita di bocce?,"a) Pallone da calcio
+b) Bastoni e palle
+c) Palline e stecche
+d) Bocce e pallino",Bocce e pallino,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_5,IBQ,IBQ_Italy.xlsx,Bocce,Qual è la posizione delle persone che giocano a bocce nell'immagine?,"a) In piedi
+b) Seduti
+c) Accovacciati
+d) Sdraiati",Accovacciati,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_5,IBQ,IBQ_Italy.xlsx,Bocce,Quali sono le caratteristiche del campo di gioco visibile nell'immagine?,"a) In cemento
+b) In erba
+c) In sabbia
+d) In legno",In erba,0,"The image shows a bowling green, which is a surface covered in a very short, dense grass or artificial turf. The question asks about the characteristics of the playing field and the correct answer should reflect this. While technically 'erba' (grass) is correct, it's not specific enough. The surface is not a typical lawn grass, but a specialized bowling surface.",Qual è la superficie del campo di gioco visibile nell'immagine?,"['a) Cemento', 'b) Erba sintetica', 'c) Sabbia', 'd) Legno']",b) Erba sintetica
+bocce_5,IBQ,IBQ_Italy.xlsx,Bocce,Quanti giocatori sono visibili nell'immagine?,"a) Uno
+b) Due
+c) Tre
+d) Quattro",Due,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_5,IBQ,IBQ_Italy.xlsx,Bocce,Qual è l'atteggiamento dei giocatori visibili nell'immagine?,"a) Rilassato
+b) Concentrato
+c) Disinteressato
+d) Arrabbiato",Concentrato,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_5,IBQ,IBQ_Italy.xlsx,Bocce,Quali accessori si vedono nell'immagine oltre alle bocce?,"a) Racchette
+b) Bastoni
+c) Occhiali da sole
+d) Nessuno accessorio",Nessuno accessorio,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_6,IBQ,IBQ_Italy.xlsx,Bocce,Quali colori di bocce sono visibili nell'immagine?,"a) Rosso e verde
+b) Blu e giallo
+c) Bianco e nero
+d) Arancione e viola",Rosso e verde,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_6,IBQ,IBQ_Italy.xlsx,Bocce,Che tipo di ambiente circonda il campo di bocce nell'immagine?,"a) Urbano
+b) Montano
+c) Naturale
+d) Marino",Naturale,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_6,IBQ,IBQ_Italy.xlsx,Bocce,Qual è la posizione delle persone rispetto alle bocce nell'immagine?,"a) Accanto
+b) A distanza
+c) Lontano
+d) Tra le bocce",Accanto,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_6,IBQ,IBQ_Italy.xlsx,Bocce,Quali azioni stanno compiendo le persone nell'immagine?,"a) Lanciando le bocce
+b) Osservando
+c) Disegnando
+d) Giocando a carte",Lanciando le bocce,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_7,IBQ,IBQ_Italy.xlsx,Bocce,Che tipo di abbigliamento indossano i giocatori di bocce nell'immagine?,"a) Magliette rosse
+b) Magliette blu
+c) Pantaloni bianchi
+d) Cappelli neri",Magliette rosse e blu,0,The correct answer 'Magliette rosse e blu' is not a single option. The question asks for 'what type of clothing' and the answer should be a single choice.,Che colore di maglietta indossano i giocatori di bocce nell'immagine?,"['a) Rossa', 'b) Blu', 'c) Bianca', 'd) Nera']",a) Rossa
+bocce_7,IBQ,IBQ_Italy.xlsx,Bocce,Qual è la superficie su cui si gioca a bocce nell'immagine?,"a) Erba naturale
+b) Cemento
+c) Sabbia
+d) Erba sintetica",Erba naturale,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_7,IBQ,IBQ_Italy.xlsx,Bocce,Quali accessori o attrezzature sono visibili nell'immagine?,"a) Racchette
+b) Bastoni
+c) Occhiali da sole
+d) Nessuno accessorio",Nessuno accessorio,0,"The question asks about visible accessories or equipment in the image. Bocce balls are clearly visible, making the correct answer 'Nessuno accessorio' incorrect. The question is logically sound, but the answer doesn't align with the visual information.",Quali accessori o attrezzature sono visibili nell'immagine?,"['Racchette', 'Bastoni', 'Occhiali da sole', 'Bocce']",Bocce
+bocce_8,IBQ,IBQ_Italy.xlsx,Bocce,Qual è la struttura visibile sullo sfondo dell'immagine?,"a) Palazzo
+b) Alberi
+c) Piscina
+d) Parcheggio",Alberi,0,"The correct answer should be 'Palazzo' (building/structure) as the prominent feature in the background is a large building with a distinctive metal structure, not trees. While there are some trees visible, they are not the dominant background element.",Qual è la struttura principale visibile sullo sfondo dell'immagine?,"['Palazzo', 'Alberi', 'Piscina', 'Parcheggio']",Palazzo
+bocce_8,IBQ,IBQ_Italy.xlsx,Bocce,Che tipo di superficie viene utilizzata per il gioco delle bocce nell'immagine?,"a) Erba naturale
+b) Cemento
+c) Sabbia
+d) Erba sintetica",Erba naturale,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_8,IBQ,IBQ_Italy.xlsx,Bocce,Quali sono gli elementi architettonici visibili nell'immagine?,"a) Panchine
+b) Statue
+c) Fontane
+d) Nessuno",Panchine,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_9,IBQ,IBQ_Italy.xlsx,Bocce,Qual è il colore della boccia che viene lanciata nell'immagine?,"a) Rosso
+b) Verde
+c) Blu
+d) Giallo",Rosso,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_9,IBQ,IBQ_Italy.xlsx,Bocce,Qual è l'abbigliamento del giocatore che sta lanciando la boccia?,"a) Maglietta e pantaloni corti
+b) Giacca e cravatta
+c) Tuta sportiva
+d) Abito elegante",Maglietta e pantaloni corti,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_9,IBQ,IBQ_Italy.xlsx,Bocce,In che tipo di ambiente si svolge il gioco nell'immagine?,"a) Spiaggia
+b) Parco pubblico
+c) Palestra
+d) Stadio",Parco pubblico,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_9,IBQ,IBQ_Italy.xlsx,Bocce,Qual è l'atteggiamento della persona seduta sulla panchina nell'immagine?,"a) Indifferente
+b) Interessato
+c) Addormentato
+d) Arrabbiato",Interessato,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_10,IBQ,IBQ_Italy.xlsx,Bocce,Quante bocce rosse ci sono nell'immagine?,"a) Due
+b) Tre
+c) Quattro
+d) Cinque",Tre,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_10,IBQ,IBQ_Italy.xlsx,Bocce,Qual è la posizione della persona nell'immagine rispetto alle bocce?,"a) In piedi
+b) Seduta
+c) Accovacciata
+d) Sdraiata",In piedi,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_10,IBQ,IBQ_Italy.xlsx,Bocce,Quale mano sta usando la persona per lanciare la boccia?,"a) Destra
+b) Sinistra
+c) Entrambe
+d) Nessuna",Destra,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_10,IBQ,IBQ_Italy.xlsx,Bocce,Qual è l'oggetto che la persona tiene nella mano sinistra?,"a) Pallina
+b) Telefono
+c) Bicchiere
+d) Chiavi",Bicchiere,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_11,IBQ,IBQ_Italy.xlsx,Bocce,Quante bocce nere ci sono nell'immagine?,"a) Una
+b) Due
+c) Tre
+d) Quattro",Tre,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_11,IBQ,IBQ_Italy.xlsx,Bocce,Quante bocce gialle ci sono nell'immagine?,"a) Due
+b) Tre
+c) Quattro
+d) Cinque",Tre,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_11,IBQ,IBQ_Italy.xlsx,Bocce,Qual è il colore della boccia più piccola nell'immagine?,"a) Rossa
+b) Verde
+c) Blu
+d) Bianca",Bianca,0,"The question asks for the color of the smallest bocce, but the image shows multiple bocce balls of similar size, and the smallest one is yellow, not white. The provided correct answer is incorrect.",Qual è il colore della boccia più piccola nell'immagine?,"['a) Rossa', 'b) Verde', 'c) Gialla', 'd) Nera']",c) Gialla
+bocce_11,IBQ,IBQ_Italy.xlsx,Bocce,Quante bocce ci sono in totale nell'immagine?,"a) Cinque
+b) Sei
+c) Sette
+d) Otto",Sette,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_11,IBQ,IBQ_Italy.xlsx,Bocce,Qual è il materiale del campo da bocce nell'immagine?,"a) Erba
+b) Cemento
+c) Sabbia
+d) Legno",Erba,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_12,IBQ,IBQ_Italy.xlsx,Bocce,Che tipo di ambiente circonda i giocatori di bocce nell'immagine?,"a) Urbano
+b) Montano
+c) Naturale
+d) Marino",Naturale,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_12,IBQ,IBQ_Italy.xlsx,Bocce,Quale giocatore sembra essere in procinto di lanciare una boccia nell'immagine?,"a) La persona a sinistra
+b) La persona a destra
+c) Entrambi
+d) Nessuno",La persona a sinistra,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_12,IBQ,IBQ_Italy.xlsx,Bocce,Qual è la posizione della boccia bianca rispetto alle altre bocce nell'immagine?,"a) Più vicina
+b) Più lontana
+c) Sullo stesso livello
+d) Non visibile",Più vicina,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_13,IBQ,IBQ_Italy.xlsx,Bocce,Quali sono i colori delle bocce utilizzate nel gioco?,"a) Rosso e verde
+b) Blu e giallo
+c) Bianco e nero
+d) Arancione e viola",Rosso e verde,0,"The question asks about the colors of the bocce balls, but the image shows that the balls are black. The answer 'Rosso e verde' (Red and green) is incorrect based on the image. The question and answer need to be updated to reflect the actual colors visible in the image.",Quali sono i colori delle bocce visibili nell'immagine?,"a) Rosso e verde
+b) Blu e giallo
+c) Nero
+d) Arancione e viola",Nero
+bocce_13,IBQ,IBQ_Italy.xlsx,Bocce,Qual è l'età approssimativa dei giocatori di bocce nell'immagine?,"a) Bambini
+b) Adolescenti
+c) Adulti
+d) Anziani",Adulti,1,no mistake,no correction needed,no correction needed,no answer needed
+bocce_13,IBQ,IBQ_Italy.xlsx,Bocce,Qual è l'ambiente circostante in cui si sta svolgendo il gioco di bocce?,"a) Parco pubblico
+b) Spiaggia
+c) Palestra
+d) Strada",Parco pubblico,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è la forma delle bocce utilizzate nel gioco delle bocce?,"a) Quadrata
+b) Rettangolare
+c) Circolare
+d) Triangolare",Circolare,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Quali materiali sono utilizzati per le bocce?,"a) Legno
+b) Plastica
+c) Metallo
+d) Tutti i precedenti",Tutti i precedenti,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è il ruolo del pallino nel gioco delle bocce?,"a) Segnare punti
+b) Essere colpito dalle bocce
+c) Determinare la distanza
+d) Essere evitato",Essere colpito dalle bocce,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è l'obiettivo principale del gioco delle bocce?,"a) Segnare gol
+b) Colpire il pallino
+c) Avvicinarsi al pallino
+d) Evitare il contatto fisico",Avvicinarsi al pallino,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è l'importanza culturale del gioco delle bocce in Italia?,"a) Celebrare le festività religiose
+b) Rappresentare la storia e le tradizioni locali
+c) Promuovere il turismo
+d) Insegnare abilità sportive",Rappresentare la storia e le tradizioni locali,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è lo strumento che la persona a sinistra sta tenendo in mano?,"a) Palla
+b) Stecca
+c) Racchetta
+d) Strumento di legno",Strumento di legno,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è l'oggetto che la persona a destra sta tenendo in mano?,"a) Palla da tennis
+b) Guanto da baseball
+c) Boccia
+d) Bastone da hockey",Boccia,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è il colore della cintura della persona a destra?,"a) Rosso
+b) Verde
+c) Blu
+d) Nero",Nero,0,"The question asks for the color of the belt of the person on the right, but the person on the right has a blue belt, not a black belt. The correct answer should be Blu.",Qual è il colore della cintura della persona a destra?,"['a) Rosso', 'b) Verde', 'c) Blu', 'd) Bianco']",c) Blu
+img2,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è il materiale dello strumento che la persona a sinistra sta tenendo?,"a) Plastica
+b) Metallo
+c) Legno
+d) Carta",Legno,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è il contesto in cui si trovano le persone nell'immagine?,"a) Parco
+b) Strada
+c) Casa
+d) Spiaggia",Parco,0,"The image shows people playing 'bocce', a sport typically played in a park or dedicated bocce court. The current options are too broad. The correct answer 'Parco' is reasonable, but the question and options could be more specific to the image.",Cosa si può dedurre dal contesto in cui si trovano le persone nell'immagine?,"a) Stanno giocando a calcio
+b) Stanno giocando a bocce
+c) Stanno facendo una passeggiata
+d) Stanno leggendo un libro",b) Stanno giocando a bocce
+img3,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è l'oggetto marrone sulla parte superiore della struttura?,"a) Palla
+b) Scatola
+c) Cubo
+d) Disco",Palla,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è il colore dell'oggetto sulla parte superiore della struttura in secondo piano?,"a) Bianco
+b) Nero
+c) Marrone
+d) Grigio",Bianco,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è il materiale della struttura in primo piano?,"a) Legno
+b) Metallo
+c) Plastica
+d) Vetro",Legno,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è il colore del tessuto su cui si trovano gli oggetti?,"a) Rosso
+b) Blu
+c) Verde
+d) Giallo",Rosso,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è la forma della struttura in primo piano?,"a) Cubo
+b) Sfera
+c) Cilindro
+d) Piramide",Cubo,0,"The question asks about the shape of the structure in the foreground, but the foreground structure is a box or a cuboid, not a cube. Also, the options do not accurately reflect the visible shapes.",Qual è la forma della struttura in primo piano?,"['a) Cuboide', 'b) Sfera', 'c) Cilindro', 'd) Piramide']",a) Cuboide
+img4,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è il materiale della palla nell'immagine?,"a) Legno
+b) Plastica
+c) Metallo
+d) Pelle",Pelle,1,no mistake,no correction needed,no correction needed,no answer needed
+img4,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è l'oggetto che la palla sta riposando su?,"a) Struttura di legno
+b) Superficie metallica
+c) Tavola di plastica
+d) Vetro",Superficie metallica,0,"The correct answer should be 'Struttura di legno' as the ball is resting on a wooden structure, not a metallic surface. The image clearly shows a wooden base.",Qual è l'oggetto su cui la palla sta riposando?,"['a) Struttura di legno', 'b) Superficie metallica', 'c) Tavola di plastica', 'd) Vetro']",a) Struttura di legno
+img4,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è il colore dell'oggetto a destra sfocato nello sfondo?,"a) Bianco
+b) Grigio
+c) Marrone
+d) Nero",Bianco,0,"The question asks for the color of the blurred object in the background, but the background appears to be primarily green. The stated correct answer 'Bianco' (White) is incorrect as there is no prominent white object in the blurred background. The image focuses on brown balls.",Qual è il colore della palla in primo piano?,"['a) Bianco', 'b) Grigio', 'c) Marrone', 'd) Nero']",c) Marrone
+img4,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è la texture della palla nell'immagine?,"a) Liscia
+b) Ruvida
+c) Striata
+d) Con cuciture",Con cuciture,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è il periodo storico rappresentato nell'immagine?,"a) Medievale
+b) Rinascimento
+c) Barocco
+d) Classico",Rinascimento,0,"The image depicts a scene that is characteristic of the Baroque period, not the Renaissance. The clothing, the dramatic composition, and the architectural style (specifically the fortress) point to the 17th or 18th century, well within the Baroque era. The Renaissance (14th-16th centuries) has different stylistic conventions.",Qual è il periodo storico rappresentato nell'immagine?,"['a) Medievale', 'b) Barocco', 'c) Rinascimento', 'd) Neoclassico']",b) Barocco
+img5,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Quali sono le attività che le persone nell'immagine stanno svolgendo?,"a) Gioco
+b) Commercio
+c) Studio
+d) Festa",Gioco,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Quali sono le caratteristiche architettoniche visibili sullo sfondo?,"a) Castello
+b) Ponte
+c) Chiesa
+d) Torre",Torre,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Come riflettono i vestiti degli individui il periodo storico?,"a) Moda moderna
+b) Abiti tradizionali
+c) Costumi storici
+d) Uniformi militari",Costumi storici,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è il significato dell'ambientazione nell'immagine?,"a) Evento religioso
+b) Rituale sociale
+c) Lavoro quotidiano
+d) Attività ricreativa",Attività ricreativa,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è lo scopo dell'oggetto su cui la palla sta riposando?,"a) Decorazione
+b) Giochi
+c) Supporto
+d) Conservazione",Supporto,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Descrivi la texture e l'aspetto della palla.,"a) Liscia
+b) Ruvida
+c) Striata
+d) Lucida",Ruvida,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è il significato delle cuciture sulla palla?,"a) Estetico
+b) Funzionale
+c) Storico
+d) Culturale",Storico,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual potrebbe essere il rilievo storico o culturale della palla?,"a) Moderno
+b) Antico
+c) Tradizionale
+d) Sportivo",Antico,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è l'ambientazione dell'immagine?,"a) Spiaggia
+b) Centro città
+c) Quartiere residenziale
+d) Parco storico",Centro città,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Quale attività stanno svolgendo le persone nell'immagine?,"a) Passeggiata
+b) Giochi
+c) Picnic
+d) Festa",Gioco,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Descrivi l'abbigliamento delle persone nell'immagine.,"a) Uniformi da lavoro
+b) Abiti casual
+c) Uniformi sportive
+d) Costumi storici",Uniformi sportive,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Cosa si può dedurre sul luogo basandosi sull'architettura e l'assetto delle strade?,"a) Moderno
+b) Storico
+c) Industriale
+d) Commerciale",Storico,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Quante persone sono visibili nell'immagine e cosa stanno facendo?,"a) Due
+b) Quattro
+c) Sei
+d) Otto",Sei,1,no mistake,no correction needed,no correction needed,no answer needed
+img8,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è l'evento o l'attività rappresentata nell'immagine?,"a) Festival musicale
+b) Cerimonia religiosa
+c) Performance tradizionale
+d) Gara sportiva",Performance tradizionale,1,no mistake,no correction needed,no correction needed,no answer needed
+img8,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Che tipo di strumento musicale o oggetto sta tenendo la persona al centro?,"a) Tamburo
+b) Violino
+c) Chitarra
+d) Xilofono",Chitarra,0,"The question asks about a musical instrument, but the image shows people playing a traditional sport (likely a form of pelota vasca) with a cesta (a curved wicker basket). There is no musical instrument visible.",Cosa sta tenendo in mano la persona a destra nell'immagine?,"['a) Un tamburo', 'b) Una racchetta', 'c) Una cesta', 'd) Un violino']",c) Una cesta
+img8,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è lo sfondo visibile nell'immagine?,"a) Edifici moderni
+b) Paesaggio naturale
+c) Piazza pubblica
+d) Interno di un edificio",Piazza pubblica,1,no mistake,no correction needed,no correction needed,no answer needed
+img8,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è il colore dominante degli abiti delle persone nell'immagine?,"a) Bianco
+b) Nero
+c) Rosso
+d) Verde",Bianco,1,no mistake,no correction needed,no correction needed,no answer needed
+img8,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è la probabile occasione dell'evento mostrato nell'immagine?,"a) Giornata lavorativa
+b) Festa tradizionale
+c) Evento sportivo
+d) Cerimonia ufficiale",Festa tradizionale,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è la struttura fatta di oggetti impilati in primo piano nell'immagine?,"a) Piramide
+b) Torre
+c) Scultura
+d) Muro",Torre,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Descrivi l'ambientazione e lo sfondo dell'immagine.,"a) Parco urbano
+b) Area rurale
+c) Piazza cittadina
+d) Interno di edificio",Parco urbano,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è il significato del grande muro sullo sfondo?,"a) Storico
+b) Decorativo
+c) Barriera
+d) Strutturale",Storico,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Come contribuisce la presenza del pubblico sullo sfondo alla scena?,"a) Osservazione
+b) Partecipazione
+c) Decorazione
+d) Distrazione",Osservazione,1,no mistake,no correction needed,no correction needed,no answer needed
+img10,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Cosa sta facendo la persona nell'immagine?,"a) Correndo
+b) Lanciando una palla
+c) Giocando a calcio
+d) Ballando",Lanciando una palla,1,no mistake,no correction needed,no correction needed,no answer needed
+img10,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Che tipo di palla sta lanciando la persona?,"a) Palla da calcio
+b) Palla da basket
+c) Boccia
+d) Palla da tennis",Boccia,1,no mistake,no correction needed,no correction needed,no answer needed
+img10,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Cosa sta indossando la persona nell'immagine?,"a) Tuta sportiva
+b) Abiti casual
+c) Uniforme
+d) Costume",Tuta sportiva,1,no mistake,no correction needed,no correction needed,no answer needed
+img10,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Su che tipo di superficie si trova la persona?,"a) Erba
+b) Asfalto
+c) Sabbia
+d) Parquet",Asfalto,1,no mistake,no correction needed,no correction needed,no answer needed
+img10,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è l'angolo del braccio della persona mentre lancia la palla?,"a) Angolo retto
+b) Angolo acuto
+c) Angolo ottuso
+d) Angolo piatto",Angolo retto,1,no mistake,no correction needed,no correction needed,no answer needed
+img12,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è la posizione della persona a sinistra nell'immagine?,"a) Seduto
+b) In piedi
+c) Accovacciato
+d) Correndo",In piedi,1,no mistake,no correction needed,no correction needed,no answer needed
+img12,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è l'attività che la persona a destra nell'immagine sta eseguendo?,"a) Giocando a bocce
+b) Lettura
+c) Corsa
+d) Dormendo",Giocando a bocce,1,no mistake,no correction needed,no correction needed,no answer needed
+img12,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è il colore del cappello indossato dalla persona al centro nell'immagine?,"a) Rosso
+b) Verde
+c) Blu
+d) Giallo",Verde,1,no mistake,no correction needed,no correction needed,no answer needed
+img13,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è lo sport che la persona sta praticando nell'immagine?,"a) Calcio
+b) Pallavolo
+c) Pallacanestro
+d) Pallamano",Pallamano,1,no mistake,no correction needed,no correction needed,no answer needed
+img13,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Che tipo di equipaggiamento sta tenendo la persona nell'immagine?,"a) Palla da calcio
+b) Racchetta da tennis
+c) Boccia
+d) Pallina da pallamano",Pallina da pallamano,1,no mistake,no correction needed,no correction needed,no answer needed
+img13,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è l'abbigliamento della persona nell'immagine?,"a) Tuta sportiva
+b) Robe casuale
+c) Uniforme scolastica
+d) Costume da bagno",Tuta sportiva,1,no mistake,no correction needed,no correction needed,no answer needed
+img13,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Qual è l'ambientazione dello sfondo nell'immagine?,"a) Parco
+b) Strada urbana
+c) Campagna
+d) Muro di mattoni vecchi",Muro di mattoni vecchi,1,no mistake,no correction needed,no correction needed,no answer needed
+img13,IBQ,IBQ_Italy.xlsx,Pallone col Bracciale,Che azione sta eseguendo la persona nell'immagine?,"a) Correndo
+b) Preparandosi a lanciare una palla
+c) Lettura
+d) Salto in lungo",Preparandosi a lanciare una palla,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,calcio,Qual è la forma del campo di gioco nel Calcio Storico?,"a) Quadrato
+b) Rettangolare
+c) Circolare
+d) Triangolare",Rettangolare,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,calcio,Quali materiali sono utilizzati per le divise dei giocatori nel Calcio Storico?,"a) Cotone
+b) Lana
+c) Seta
+d) Pelle",Lana,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,calcio,Qual è il ruolo della folla durante una partita di Calcio Storico?,"a) Partecipare al gioco
+b) Incitare i giocatori
+c) Giudicare le azioni
+d) Vendere cibo",Incitare i giocatori,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,calcio,Qual è l'obiettivo principale del gioco nel Calcio Storico?,"a) Segnare gol
+b) Difendere la propria area
+c) Eseguire acrobazie
+d) Evitare il contatto fisico",Segnare gol,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,calcio,Qual è l'importanza culturale del Calcio Storico in Italia?,"a) Celebrare le festività religiose
+b) Rappresentare la storia e le tradizioni locali
+c) Promuovere il turismo
+d) Insegnare abilità sportive",Rappresentare la storia e le tradizioni locali,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,calcio,Qual è il colore predominante dei pantaloni indossati dai giocatori?,"a) Rosso
+b) Blu
+c) Verde
+d) Nero",Rosso,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,calcio,Che tipo di attività stanno svolgendo i giocatori nell'immagine?,"a) Lotta
+b) Corsa
+c) Ballando
+d) Nuoto",Lotta,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,calcio,Quante persone sono a terra nella scena?,"a) Una
+b) Due
+c) Tre
+d) Quattro",Due,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,calcio,Qual è lo sfondo dell'immagine?,"a) Rosso
+b) Verde
+c) Bianco
+d) Nero",Rosso,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,calcio,Quale parte del corpo dei giocatori è scoperta?,"a) Mani
+b) Testa
+c) Torace
+d) Piedi",Torace,1,no mistake,no correction needed,no correction needed,no answer needed
+img4,IBQ,IBQ_Italy.xlsx,calcio,Qual è il contesto storico di questa immagine?,"a) Rinascimento
+b) Medioevo
+c) Età moderna
+d) Antica Roma",Rinascimento,1,no mistake,no correction needed,no correction needed,no answer needed
+img4,IBQ,IBQ_Italy.xlsx,calcio,Quali sono le attività principali che si svolgono nella scena?,"a) Calcio
+b) Pallavolo
+c) Tennis
+d) Rugby",Calcio,1,no mistake,no correction needed,no correction needed,no answer needed
+img4,IBQ,IBQ_Italy.xlsx,calcio,Quante persone sono presenti nell'immagine?,"a) Meno di 10
+b) 10-20
+c) 20-30
+d) Più di 30",20-30,1,no mistake,no correction needed,no correction needed,no answer needed
+img4,IBQ,IBQ_Italy.xlsx,calcio,Qual è l'architettura degli edifici sullo sfondo?,"a) Gotica
+b) Barocca
+c) Rinascimentale
+d) Moderna",Rinascimentale,1,no mistake,no correction needed,no correction needed,no answer needed
+img4,IBQ,IBQ_Italy.xlsx,calcio,Quali dettagli indicano che si tratta di un evento pubblico?,"a) Folla di spettatori
+b) Bandiere
+c) Musica
+d) Tutti i precedenti",Tutti i precedenti,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,calcio,Qual è il nome di questo sport?,"a) Calcio Storico
+b) Rugby
+c) Tennis
+d) Pallavolo",Calcio Storico,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,calcio,Quante persone sono visibili nell'immagine?,"a) Meno di 5
+b) 45935
+c) 10-20
+d) Più di 20",2025-10-05 00:00:00,0,The correct answer provided ('2025-10-05 00:00:00') is not a valid answer for the number of people visible in the image. It appears to be a date. The options are also not appropriate given the apparent number of people in the image.,Quante persone sono visibili approssimativamente nell'immagine?,"['a) Meno di 10', 'b) 10-20', 'c) 20-50', 'd) Più di 50']",c) 20-50
+img5,IBQ,IBQ_Italy.xlsx,calcio,Qual è il colore della palla che il giocatore sta tenendo?,"a) Rosso
+b) Blu
+c) Verde
+d) Giallo",Rosso,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,calcio,Descrivi l'abbigliamento dei giocatori.,"a) A torso nudo con pantaloni colorati
+b) Maglietta e pantaloni corti
+c) Tuta sportiva
+d) Abito formale",A torso nudo con pantaloni colorati,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,calcio,Quante persone ci sono tra il pubblico?,"a) Nessuna
+b) 45778
+c) 45936
+d) Più di 10",Più di 10,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,calcio,Qual è il nome del gioco rappresentato nell'immagine?,"a) Calcio Storico
+b) Rugby
+c) Pallamano
+d) Hockey",Calcio Storico,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,calcio,Quanti giocatori indossano maglie rosse?,"a) Uno
+b) Due
+c) Tre
+d) Quattro",Due,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,calcio,Qual è il colore predominante delle maglie dei giocatori?,"a) Blu
+b) Rosso
+c) Verde
+d) Giallo",Rosso,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,calcio,Qual è l'azienda scritta sulla maglia blu?,"a) Nike
+b) Adidas
+c) Puma
+d) Reebok",Nike,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,calcio,Quanti giocatori sono visibili nell'immagine?,"a) Meno di 5
+b) 45935
+c) 10-20
+d) Più di 20",2025-10-05 00:00:00,0,"The provided 'correct answer' (2025-10-05 00:00:00) is a date and not a valid option for the number of players. The question is valid, but the answer is incorrect. Option b) is also unrealistic.",Quanti giocatori sono visibili nell'immagine?,"['Meno di 5', 'Tra 5 e 10', 'Tra 10 e 20', 'Più di 20']",Più di 20
+img7,IBQ,IBQ_Italy.xlsx,calcio,Quante persone stanno partecipando al gioco nell'immagine?,"a) Meno di 10
+b) 10-20
+c) 20-30
+d) Più di 30",20-30,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,calcio,Qual è il colore delle magliette indossate dai giocatori che stanno saltando?,"a) Rosso
+b) Blu
+c) Verde
+d) Giallo",Rosso,0,"The question asks for the color of the jerseys worn by the players who are jumping. However, based on the image, the players jumping are wearing green jerseys, not red. The provided answer is therefore incorrect.",Qual è il colore delle magliette indossate dai giocatori che stanno saltando?,"['a) Verde', 'b) Blu', 'c) Rosso', 'd) Giallo']",a) Verde
+img7,IBQ,IBQ_Italy.xlsx,calcio,Dove si svolge questa partita,"a) in base all'immagine?
+b) Piazza cittadina
+c) Campo di calcio
+d) Stadio moderno",Palestra,0,The correct answer 'Palestra' (Gym) does not match the image. The image shows a game being played in a Piazza (town square). Option 'a) in base all'immagine?' is also not a valid option for a question of this type.,Dove si svolge questa partita?,"['a) In una piazza cittadina', 'b) In un campo di calcio', 'c) In uno stadio moderno', 'd) In una palestra']",a) In una piazza cittadina
+img7,IBQ,IBQ_Italy.xlsx,calcio,Quali sono gli elementi architettonici visibili sullo sfondo dell'immagine?,"a) Chiese medievali
+b) Castelli rinascimentali
+c) Edifici moderni
+d) Case di campagna",Castelli rinascimentali,0,The image depicts a historical event - Calcio Storico Fiorentino. The background architecture consists of buildings that are not necessarily 'Castelli rinascimentali' but rather historical palazzi and buildings typical of Florence. The current answer is too specific.,Quali elementi architettonici sono visibili sullo sfondo dell'immagine?,"['a) Edifici storici fiorentini', 'b) Chiese medievali', 'c) Edifici moderni', 'd) Case di campagna']",a) Edifici storici fiorentini
+img8,IBQ,IBQ_Italy.xlsx,calcio,Qual è il nome della chiesa visibile nell'immagine?,"a) Santa Maria del Fiore
+b) Santa Croce
+c) Santa Maria Novella
+d) San Lorenzo",Santa Maria del Fiore,1,no mistake,no correction needed,no correction needed,no answer needed
+img8,IBQ,IBQ_Italy.xlsx,calcio,Quale evento potrebbe essere in corso in questa immagine?,"a) Partita di calcio storico
+b) Processione religiosa
+c) Concerto
+d) Parata militare",Processione religiosa,1,no mistake,no correction needed,no correction needed,no answer needed
+img8,IBQ,IBQ_Italy.xlsx,calcio,Quanti musicisti con tamburi sono visibili nell'immagine?,"a) Uno
+b) Due
+c) Tre
+d) Quattro",Due,1,no mistake,no correction needed,no correction needed,no answer needed
+img8,IBQ,IBQ_Italy.xlsx,calcio,Quali colori predominano nei costumi dei musicisti?,"a) Rosso e bianco
+b) Blu e giallo
+c) Verde e nero
+d) Viola e oro",Rosso e bianco,1,no mistake,no correction needed,no correction needed,no answer needed
+img8,IBQ,IBQ_Italy.xlsx,calcio,In quale città potrebbe essere stata scattata questa foto?,"a) Roma
+b) Firenze
+c) Venezia
+d) Milano",Firenze,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,calcio,Qual è il tipo di sport rappresentato in questa immagine?,"a) Calcio Storico
+b) Rugby
+c) Pugilato
+d) Pallavolo",Calcio Storico,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,calcio,Quali sono i colori principali dei pantaloni indossati dai giocatori?,"a) Rosso
+b) Blu
+c) Verde
+d) Giallo",Rosso,0,"The question asks about the main colors of the players' pants, but the image shows that the players are wearing pants with multiple colors (red, green, and white/black). The correct answer 'Rosso' (Red) is partially correct as red is present, but not the only main color. The question is misleading.",Quali sono i colori presenti sui pantaloni indossati dai giocatori?,"a) Solo rosso
+b) Rosso e verde
+c) Solo verde
+d) Rosso, verde e bianco",Rosso e verde
+img9,IBQ,IBQ_Italy.xlsx,calcio,Cosa tiene in mano il giocatore in primo piano a sinistra?,"a) Una palla
+b) Un bastone
+c) Una bandiera
+d) Una corda",Una palla,1,no mistake,no correction needed,no correction needed,no answer needed
+img11,IBQ,IBQ_Italy.xlsx,calcio,Che tipo di evento sportivo è rappresentato in questa immagine?,"a) Calcio Storico
+b) Rugby
+c) Pugilato
+d) Pallavolo",Calcio Storico,1,no mistake,no correction needed,no correction needed,no answer needed
+img11,IBQ,IBQ_Italy.xlsx,calcio,Quali sono i colori principali degli abiti dei partecipanti nell'immagine?,"a) Rosso e Blu
+b) Bianco e Nero
+c) Verde e Giallo
+d) Blu e Giallo",Rosso e Blu,1,no mistake,no correction needed,no correction needed,no answer needed
+img11,IBQ,IBQ_Italy.xlsx,calcio,Qual è l'azione principale che si sta svolgendo nell'immagine?,"a) Combattimento
+b) Gioco di squadra
+c) Danza
+d) Atletica",Combattimento,1,no mistake,no correction needed,no correction needed,no answer needed
+img11,IBQ,IBQ_Italy.xlsx,calcio,Quali dettagli dell'immagine suggeriscono che si tratta di un evento pubblico?,"a) Folla di spettatori
+b) Bandiere
+c) Palcoscenico
+d) Tutti i precedenti",Folla di spettatori,1,no mistake,no correction needed,no correction needed,no answer needed
+img12,IBQ,IBQ_Italy.xlsx,calcio,Quali colori predominano nei pantaloni dei giocatori?,"a) Rosso
+b) Blu
+c) Verde
+d) Giallo",Rosso,1,no mistake,no correction needed,no correction needed,no answer needed
+img12,IBQ,IBQ_Italy.xlsx,calcio,Quanti spettatori ci sono sugli spalti?,"a) Meno di 50
+b) 50-100
+c) 100-150
+d) Più di 150",50-100,1,no mistake,no correction needed,no correction needed,no answer needed
+img12,IBQ,IBQ_Italy.xlsx,calcio,Qual è l'oggetto che uno dei giocatori tiene in mano?,"a) Una palla
+b) Un bastone
+c) Una bandiera
+d) Una corda",Una palla,1,no mistake,no correction needed,no correction needed,no answer needed
+img13,IBQ,IBQ_Italy.xlsx,calcio,Quali sono i colori principali dei vestiti dei partecipanti?,"a) Rosso e Blu
+b) Bianco e Nero
+c) Verde e Giallo
+d) Blu e Giallo",Rosso e Blu,1,no mistake,no correction needed,no correction needed,no answer needed
+img13,IBQ,IBQ_Italy.xlsx,calcio,Quali misure di sicurezza sembrano essere presenti nell'immagine?,"a) Barriere di protezione
+b) Polizia
+c) Ambulanza
+d) Nessuna delle precedenti",Nessuna delle precedenti,0,"The image depicts a wrestling match. There are visible spectators, suggesting some level of crowd control which can be considered a safety measure. Therefore, stating 'Nessuna delle precedenti' is incorrect.","Quali misure di sicurezza possono essere osservate nell'immagine, considerando la presenza di spettatori?","['a) Barriere di protezione', 'b) Presenza di personale di sicurezza/controllori', 'c) Presenza di personale medico', 'd) Nessuna delle precedenti']",b) Presenza di personale di sicurezza/controllori
+img14,IBQ,IBQ_Italy.xlsx,calcio,Qual è il contesto dell'immagine?,"a) Competizione di lotta
+b) Festa
+c) Concerto
+d) Manifestazione",Competizione di lotta,1,no mistake,no correction needed,no correction needed,no answer needed
+img14,IBQ,IBQ_Italy.xlsx,calcio,Quali sono i colori predominanti nell'immagine?,"a) Marrone e rosso
+b) Verde e blu
+c) Bianco e nero
+d) Rosso e giallo",Marrone e rosso,1,no mistake,no correction needed,no correction needed,no answer needed
+img14,IBQ,IBQ_Italy.xlsx,calcio,Quali dettagli si possono osservare sui vestiti delle persone nell'immagine?,"a) Strappati e infangati
+b) Nuovi e puliti
+c) Uniformi
+d) Tradizionali",Strappati e infangati,1,no mistake,no correction needed,no correction needed,no answer needed
+img14,IBQ,IBQ_Italy.xlsx,calcio,Cosa si può dedurre dall'atteggiamento delle persone nell'immagine?,"a) Energia e competizione
+b) Relax e divertimento
+c) Paura e ansia
+d) Tristezza ed emozione",Energia e competizione,1,no mistake,no correction needed,no correction needed,no answer needed
+img14,IBQ,IBQ_Italy.xlsx,calcio,Quali elementi di sfondo sono visibili nell'immagine?,"a) Terza persona
+b) Edifici
+c) Paesaggio naturale
+d) Automobili",Terza persona,0,"The question asks about background elements, but the correct answer 'Terza persona' (Third person) is not a background element. The image clearly shows people in the background, but 'Terza persona' is a grammatical concept, not a visual element. The question needs to focus on visible objects or features in the background.",Quali elementi sono visibili sullo sfondo nell'immagine?,"['a) Spettatori', 'b) Edifici', 'c) Alberi', 'd) Automobili']",a) Spettatori
+img1,IBQ,IBQ_Italy.xlsx,Ruzzola,What activity are the individuals in the image engaged in?,"a) Horse racing preparations
+b) Picnic
+c) Reading
+d) Painting",Horse racing preparations,0,"The image shows individuals preparing a track or course, possibly for horse racing, but it's not directly 'horse racing preparations' as the image depicts the preparation *of* the racing surface. The options are also somewhat weak and don't accurately reflect the scene. A better question and options would focus on what they are *doing* with the equipment.",What task are the individuals in the image performing?,"a) Preparing a race track
+b) Having a picnic
+c) Reading a map
+d) Landscape painting",a) Preparing a race track
+img1,IBQ,IBQ_Italy.xlsx,Ruzzola,Describe the setting and environment where the image was taken.,"a) Urban street
+b) Indoor arena
+c) Outdoor grassy area
+d) Beach",Outdoor grassy area,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Ruzzola,What is the significance of the wooden board in the image?,"a) Decorative piece
+b) Game board
+c) Preparation tool
+d) Painting canvas",Preparation tool,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Ruzzola,How does the attire of the individuals relate to the Palio horse racing event?,"a) Casual wear
+b) Formal suits
+c) Sports uniform
+d) Traditional costume",Traditional costume,0,"The image shows individuals in casual clothing, not traditional costumes associated with the Palio horse racing event. The Palio is known for its historical costumes and pageantry. The question and answer are incorrect based on the image.",How does the attire of the individuals relate to the Palio horse racing event?,"['Casual wear', 'Formal suits', 'Sports uniform', 'Historically accurate costume']",Casual wear
+img1,IBQ,IBQ_Italy.xlsx,Ruzzola,Explain the possible role of the person standing in the background.,"a) Observer
+b) Trainer
+c) Jockey
+d) Artist",Observer,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Ruzzola,Qual è l'obiettivo principale del gioco della ruzzola?,"a) Raccogliere punti
+b) Giungere al traguardo
+c) Lanciare la ruzzola più lontano
+d) Eliminare avversari",Lanciare la ruzzola più lontano,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Ruzzola,Qual è la dimensione tipica della ruzzola utilizzata nel gioco?,"a) Piccola
+b) Media
+c) Grande
+d) Variabile",Media,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Ruzzola,Quali sono i partecipanti principali nel gioco della ruzzola?,"a) Bambini
+b) Adulti
+c) Anziani
+d) Tutti",Tutti,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Ruzzola,Cosa determina la vittoria nel gioco della ruzzola?,"a) Numero di lanci
+b) Tempo impiegato
+c) Distanza del lancio
+d) Numero di avversari eliminati",Distanza del lancio,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Ruzzola,Qual è il contesto tipico in cui si svolge il gioco della ruzzola?,"a) Interno
+b) Esterno
+c) Mare
+d) Montagna",Esterno,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Ruzzola,Che tipo di formaggio viene utilizzato nella gara di ruzzola?,"a) Pecorino
+b) Parmigiano
+c) Provolone
+d) Emmental",Provolone,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Ruzzola,Qual è il ruolo delle persone vestite di bianco nella foto?,"a) Giocatori
+b) Arbitri
+c) Spettatori
+d) Organizzatori",Organizzatori,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Ruzzola,Dove si svolge la gara di ruzzola nella foto?,"a) Stadio
+b) Campo aperto
+c) Centro città
+d) Parco",Centro città,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Ruzzola,Quante forme di formaggio sono visibili nella foto?,"a) 5
+b) 7
+c) 10
+d) 12",10,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Ruzzola,Quali sono gli strumenti utilizzati nella gara di ruzzola?,"a) Palle
+b) Dischi di legno
+c) Manubri
+d) Coni",Dischi di legno,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Ruzzola,Qual è la superficie di gioco ideale per la ruzzola?,"a) Campo in erba
+b) Pista di sabbia
+c) Strada asfaltata
+d) Parcheggio sterrato",Strada asfaltata,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Ruzzola,Che tipo di attrezzatura è necessaria per giocare alla ruzzola?,"a) Palla
+b) Disco di legno
+c) Racchetta
+d) Corda",Disco di legno,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Ruzzola,Qual è l'origine storica del gioco della ruzzola?,"a) Antica Roma
+b) Medioevo
+c) Rinascimento
+d) Età moderna",Antica Roma,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Ruzzola,In quali occasioni si gioca tradizionalmente alla ruzzola?,"a) Festival religiosi
+b) Feste di paese
+c) Competizioni scolastiche
+d) Cerimonie ufficiali",Feste di paese,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,Ruzzola,Qual è il nome del gioco tradizionale mostrato nell'immagine?,"a) Bocce
+b) Ruzzola
+c) Calcio
+d) Basket",Ruzzola,0,"The image does not depict any game. It shows a landscape view of a village and mountains. The question asks about a game shown in the image, but there isn't one. Therefore, the question and answer are incorrect and illogical.",L'immagine mostra un paesaggio. Quale caratteristica geografica è predominante nell'immagine?,"['a) Spiaggia', 'b) Montagna', 'c) Deserto', 'd) Foresta']",b) Montagna
+img6,IBQ,IBQ_Italy.xlsx,Ruzzola,In quale regione italiana si gioca principalmente la ruzzola?,"a) Lazio
+b) Lombardia
+c) Marche
+d) Sicilia",Marche,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,Ruzzola,Quali sono le regole principali del gioco della ruzzola?,"a) Lanciare più lontano possibile
+b) Raccogliere punti
+c) Segnare gol
+d) Eliminare avversari",Lanciare più lontano possibile,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,Ruzzola,Quali strumenti sono necessari per giocare alla ruzzola?,"a) Palla
+b) Disco di legno
+c) Racchetta
+d) Cono",Disco di legno,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Ruzzola,Qual è il nome del gioco mostrato nell'immagine?,"a) Bocce
+b) Ruzzola
+c) Calcio
+d) Basket",Ruzzola,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Ruzzola,Da quale paese proviene il gioco ruzzola?,"a) Francia
+b) Spagna
+c) Italia
+d) Portogallo",Italia,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Ruzzola,Quante persone stanno partecipando al gioco nell'immagine?,"a) 3
+b) 5
+c) 7
+d) 10",Non specificato,0,"The correct answer is not specified, and a precise count of people in the image is difficult due to the crowd. The options are too specific for an accurate answer.",Quante persone sembrano partecipare attivamente al gioco nell'immagine?,"['a) Meno di 5', 'b) Tra 5 e 10', 'c) Tra 10 e 20', 'd) Più di 20']",c) Tra 10 e 20
+img7,IBQ,IBQ_Italy.xlsx,Ruzzola,Qual è l'obiettivo del gioco ruzzola?,"a) Raccogliere punti
+b) Giungere al traguardo
+c) Lanciare la ruzzola più lontano
+d) Eliminare avversari",Lanciare la ruzzola più lontano,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Ruzzola,Qual è la data di origine del gioco ruzzola?,"a) Medioevo
+b) Rinascimento
+c) Età moderna
+d) Non specificato",Non specificato,0,"The question asks about the origin date of 'ruzzola', which is a traditional Italian sport involving rolling a wheel down a hill. While the image depicts a similar activity (cheese rolling), it doesn't directly help determine the *origin date* of ruzzola. The correct answer 'Non specificato' is valid, but the options are too broad. More specific time periods relating to its documented history would be better. The question needs refinement to make it answerable with a degree of historical precision.",Quando è iniziata la tradizione del gioco della ruzzola?,"['a) XIV secolo', 'b) XV secolo', 'c) XIX secolo', 'd) XX secolo']",c) XIX secolo
+img8,IBQ,IBQ_Italy.xlsx,Ruzzola,Quali sono gli oggetti principali visibili nell'immagine?,"a) Due persone e una ruzzola
+b) Un cane e una palla
+c) Una bici e una persona
+d) Un albero e una palla",Due persone e una ruzzola,1,no mistake,no correction needed,no correction needed,no answer needed
+img8,IBQ,IBQ_Italy.xlsx,Ruzzola,Che tipo di abbigliamento indossano le persone nell'immagine?,"a) Camicia bianca e maglietta scura con cappello
+b) Completo elegante
+c) Tuta da ginnastica
+d) Cappotto e sciarpa",Camicia bianca e maglietta scura con cappello,1,no mistake,no correction needed,no correction needed,no answer needed
+img8,IBQ,IBQ_Italy.xlsx,Ruzzola,Qual è l'azione che una delle persone sta compiendo nell'immagine?,"a) Tirando la ruzzola
+b) Lanciando una palla
+c) Correndo
+d) Leggendo un libro",Tirando la ruzzola,1,no mistake,no correction needed,no correction needed,no answer needed
+img8,IBQ,IBQ_Italy.xlsx,Ruzzola,Qual è lo sfondo dell'immagine?,"a) Ambiente esterno con vegetazione
+b) Interno di una casa
+c) Spiaggia affollata
+d) Parco giochi",Ambiente esterno con vegetazione,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,Ruzzola,Quali sono le regole fondamentali del gioco della ruzzola?,"a) Numero di lanci
+b) Tempo impiegato
+c) Distanza del lancio
+d) Numero di avversari eliminati",Distanza del lancio,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,Ruzzola,Quali sono le origini storiche del gioco della ruzzola?,"a) Antica Roma
+b) Medioevo
+c) Rinascimento
+d) Età moderna",Antica Roma,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,Ruzzola,Quali sono le attrezzature necessarie per giocare alla ruzzola?,"a) Palla
+b) Disco di legno
+c) Racchetta
+d) Corda",Disco di legno,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,Ruzzola,Quali sono le differenze tra la ruzzola e altri giochi simili?,"a) Forma dell'attrezzatura
+b) Regole del gioco
+c) Numero di partecipanti
+d) Materiali utilizzati",Forma dell'attrezzatura,1,no mistake,no correction needed,no correction needed,no answer needed
+img10,IBQ,IBQ_Italy.xlsx,Ruzzola,Quante persone partecipano al gioco nell'immagine?,"a) 3
+b) 5
+c) 7
+d) 10",6,0,"The provided correct answer (6) is incorrect. Counting the visible players in the image, there are 7 people participating in the game.",Quante persone partecipano al gioco nell'immagine?,"['a) 5', 'b) 6', 'c) 7', 'd) 10']",c) 7
+img10,IBQ,IBQ_Italy.xlsx,Ruzzola,Quali numeri di maglia indossano i partecipanti nell'immagine?,"a) 541 e 545
+b) 565 e 599
+c) 523 e 588
+d) 512 e 599",541 e 545,1,no mistake,no correction needed,no correction needed,no answer needed
+img10,IBQ,IBQ_Italy.xlsx,Ruzzola,Qual è l'oggetto che i partecipanti stanno inseguendo nell'immagine?,"a) Palla
+b) Forma di formaggio
+c) Disco di legno
+d) Racchetta",Forma di formaggio,0,The correct answer should be 'Palla' (ball) as the image clearly shows participants chasing a round object which is a ball. 'Forma di formaggio' (cheese shape) is incorrect.,Qual è l'oggetto che i partecipanti stanno inseguendo nell'immagine?,"['Palla', 'Forma di formaggio', 'Disco di legno', 'Racchetta']",Palla
+img10,IBQ,IBQ_Italy.xlsx,Ruzzola,Dove si svolge il gioco mostrato nell'immagine?,"a) Spiaggia
+b) Collina erbosa
+c) Campo da tennis
+d) Piazza pubblica",Collina erbosa,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Pallanuto,Qual è il significato della palla tenuta dal giocatore nell'immagine?,"a) Simbolo di attacco
+b) Ricordo
+c) Simbolo di difesa
+d) Attrezzo di allenamento",Simbolo di attacco,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Pallanuto,Come tenta il giocatore in difesa di bloccare l'attaccante nell'immagine?,"a) Cercando di nuotare via
+b) Afferrando la palla
+c) Afferrando la maglia dell'attaccante
+d) Sollevando le mani per bloccare il tiro",Sollevando le mani per bloccare il tiro,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Pallanuto,Quali sono le competenze chiave necessarie per eccellere nel gioco di pallanuto?,"a) Corsa veloce
+b) Resistenza all'acqua
+c) Forza mentale
+d) Abilità a cavalcare",Resistenza all'acqua,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Pallanuto,Descrivi la condizione fisica e l'allenamento necessario per giocare a pallanuto a questo livello.,"a) Condizione fisica debole e allenamento saltuario
+b) Condizione fisica ottima e allenamento intensivo
+c) Condizione fisica moderata e allenamento occasionale
+d) Condizione fisica scarsa e nessun allenamento",Condizione fisica ottima e allenamento intensivo,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Pallanuto,Come influisce l'ambiente acquatico sul gioco e le strategie nel pallanuto?,"a) Non influisce
+b) Influisce negativamente
+c) Rende il gioco più facile
+d) Influisce positivamente",Influisce positivamente,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Pallanuto,Qual è il numero del giocatore con la palla?,"a) 3
+b) 5
+c) 8
+d) 10",5,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Pallanuto,Quanti giocatori sono visibili nell'immagine?,"a) 2
+b) 3
+c) 4
+d) 5",3,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Pallanuto,Che colore è la palla utilizzata nel gioco?,"a) Rossa
+b) Blu
+c) Verde
+d) Gialla",Gialla,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Pallanuto,Qual è il numero del giocatore che sta alzando il braccio?,"a) 4
+b) 7
+c) Non visibile
+d) 11",Non visibile,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Pallanuto,Qual è il colore delle cuffie dei giocatori?,"a) Blu
+b) Rosso
+c) Verde
+d) Arancione",Verde,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Pallanuto,Qual è il nome del gioco mostrato nell'immagine?,"a) Bocce
+b) Ruzzola
+c) Calcio
+d) Basket",Ruzzola,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Pallanuto,Da quale paese proviene il gioco ruzzola?,"a) Francia
+b) Spagna
+c) Italia
+d) Portogallo",Italia,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Pallanuto,Quante persone stanno partecipando al gioco nell'immagine?,"a) 3
+b) 5
+c) 7
+d) 10",Non specificato,0,"The question asks for the number of people participating in the game in the image, but the 'Correct Answer' is not specified. Also, without the image, the question cannot be verified.",Quante persone si vedono nell'immagine che partecipano al gioco?,"['a) 3', 'b) 5', 'c) 7', 'd) 10']",no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Pallanuto,Qual è l'obiettivo del gioco ruzzola?,"a) Raccogliere punti
+b) Giungere al traguardo
+c) Lanciare la ruzzola più lontano
+d) Eliminare avversari",Lanciare la ruzzola più lontano,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Pallanuto,Qual è la data di origine del gioco ruzzola?,"a) Medioevo
+b) Rinascimento
+c) Età moderna
+d) Non specificato",Non specificato,0,"The question asks for the origin date of 'ruzzola', a traditional Italian game. While the game has ancient roots, pinpointing a precise 'origin date' is difficult. The answer 'Non specificato' (Not specified) is technically correct in that sense, but the options are too broad and historically inaccurate as presented. 'Medioevo' (Middle Ages), 'Rinascimento' (Renaissance), and 'Età moderna' (Modern Age) are periods, not specific dates, and none accurately reflect the game's evolution. The question needs to be framed to ask about the historical period *when the game became known or widely played* rather than its precise origin.",In quale periodo storico si è diffuso il gioco della ruzzola?,"['a) Antica Roma', 'b) Medioevo', 'c) XVIII secolo', 'd) XIX secolo']",a) Antica Roma
+img4,IBQ,IBQ_Italy.xlsx,Pallanuto,Qual è l'obiettivo principale del gioco della ruzzola?,"a) Lanciare la ruzzola più lontano
+b) Giungere al traguardo
+c) Realizzare una forma
+d) Eliminare avversari",Lanciare la ruzzola più lontano,0,The objective of Bocce (ruzzola) is not to throw the ball the furthest. The main goal is to get your bocce balls closer to the pallino (the jack) than your opponent's balls. The current answer is incorrect.,Qual è l'obiettivo principale del gioco della ruzzola?,"['a) Avvicinare la ruzzola il più possibile al pallino', 'b) Giungere al traguardo', 'c) Realizzare una forma specifica', 'd) Eliminare avversari']",a) Avvicinare la ruzzola il più possibile al pallino
+img4,IBQ,IBQ_Italy.xlsx,Pallanuto,Qual è la superficie di gioco ideale per la ruzzola?,"a) Campo in erba
+b) Pista di sabbia
+c) Strada asfaltata
+d) Parcheggio sterrato",Strada asfaltata,1,no mistake,no correction needed,no correction needed,no answer needed
+img4,IBQ,IBQ_Italy.xlsx,Pallanuto,Quale attrezzatura è necessaria per giocare alla ruzzola?,"a) Palla
+b) Disco di legno
+c) Racchetta
+d) Corda",Disco di legno,1,no mistake,no correction needed,no correction needed,no answer needed
+img4,IBQ,IBQ_Italy.xlsx,Pallanuto,Quali sono le origini storiche del gioco della ruzzola?,"a) Antica Roma
+b) Medioevo
+c) Rinascimento
+d) Età moderna",Antica Roma,1,no mistake,no correction needed,no correction needed,no answer needed
+img4,IBQ,IBQ_Italy.xlsx,Pallanuto,In quali occasioni si gioca tradizionalmente alla ruzzola?,"a) Festival religiosi
+b) Feste di paese
+c) Competizioni scolastiche
+d) Cerimonie ufficiali",Feste di paese,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Pallanuto,Che tipo di attrezzatura è necessaria per giocare alla ruzzola?,"a) Palla
+b) Disco di legno
+c) Racchetta
+d) Corda",Disco di legno,0,"The question asks about the equipment for 'ruzzola', but the image depicts water polo. This creates a mismatch between the question and the provided context. The question is factually correct regarding ruzzola, but irrelevant to the image.",Che tipo di attrezzatura è necessaria per giocare a pallanuoto?,"['a) Palla', 'b) Disco di legno', 'c) Racchetta', 'd) Corda']",a) Palla
+img5,IBQ,IBQ_Italy.xlsx,Pallanuto,Qual è l'origine storica del gioco della ruzzola?,"a) Antica Roma
+b) Medioevo
+c) Rinascimento
+d) Età moderna",Antica Roma,0,"The question asks about the historical origins of 'ruzzola' (a game involving rolling a wheel), but the image shows water polo. This creates a disconnect and makes the question irrelevant to the provided context. The correct answer 'Antica Roma' is true for the origins of 'ruzzola' but irrelevant to the image.",Qual è lo sport raffigurato nell'immagine?,"a) Calcio
+b) Pallanuoto
+c) Basket
+d) Tennis",Pallanuoto
+img6,IBQ,IBQ_Italy.xlsx,Pallanuto,Qual è il nome del gioco tradizionale mostrato nell'immagine?,"a) Bocce
+b) Ruzzola
+c) Calcio
+d) Basket",Ruzzola,0,"The image clearly depicts a water polo player. The question asks about a traditional game shown in the image, and the provided answer 'Ruzzola' is incorrect. Bocce and Ruzzola are both ground games, while the image shows a water sport.",Qual è lo sport mostrato nell'immagine?,"['a) Pallanuoto', 'b) Bocce', 'c) Calcio', 'd) Basket']",a) Pallanuoto
+img6,IBQ,IBQ_Italy.xlsx,Pallanuto,In quale regione italiana si gioca principalmente la ruzzola?,"a) Lazio
+b) Lombardia
+c) Marche
+d) Sicilia",Marche,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,Pallanuto,Quali sono le regole principali del gioco della ruzzola?,"a) Lanciare più lontano possibile
+b) Raccogliere punti
+c) Segnare gol
+d) Eliminare avversari",Lanciare più lontano possibile,0,"The question asks about 'ruzzola', but the image depicts water polo. Therefore, the question and answer are factually incorrect in relation to the provided image. Ruzzola is a different sport than water polo.",Quali sono le regole principali del gioco della pallanuoto?,"['a) Lanciare la palla il più lontano possibile', 'b) Segnare gol', 'c) Raccogliere punti', 'd) Eliminare gli avversari']",b) Segnare gol
+img6,IBQ,IBQ_Italy.xlsx,Pallanuto,Quali strumenti sono necessari per giocare alla ruzzola?,"a) Palla
+b) Disco di legno
+c) Racchetta
+d) Cono",Disco di legno,0,"The question asks about the tools needed to play 'ruzzola', but the image shows water polo. The question and image are mismatched. Ruzzola is a bowling-like game with a wooden disc, but the image doesn't relate to that sport.",Quali strumenti sono necessari per giocare a pallanuoto?,"['a) Palla', 'b) Disco di legno', 'c) Racchetta', 'd) Cono']",a) Palla
+img8,IBQ,IBQ_Italy.xlsx,Pallanuto,Quante persone partecipano al gioco nell'immagine?,"a) 3
+b) 5
+c) 7
+d) 10",6,0,"The correct answer is not consistent with the number of people visible in the image. There are clearly 2 players prominently visible in the image, plus parts of other players. The provided answer 6 is incorrect. The question asks for the number of *people* in the game, not necessarily the total number visible in the image.",Quante persone sono chiaramente visibili nel gioco nell'immagine?,"['a) 2', 'b) 3', 'c) 4', 'd) 5']",a) 2
+img8,IBQ,IBQ_Italy.xlsx,Pallanuto,Quali numeri di maglia indossano i partecipanti nell'immagine?,"a) 541 e 545
+b) 565 e 599
+c) 523 e 588
+d) 512 e 599",541 e 545,0,"The question asks about jersey numbers, but the image shows water polo players with numbers on their caps, not jerseys. The numbers visible are '2' and '13', not the numbers provided in the options or the correct answer. The question is factually incorrect based on the image.",Quali numeri sono visibili sui cappelli dei partecipanti nell'immagine?,"['a) 541 e 545', 'b) 2 e 13', 'c) 523 e 588', 'd) 512 e 599']",b) 2 e 13
+img8,IBQ,IBQ_Italy.xlsx,Pallanuto,Qual è l'oggetto che i partecipanti stanno inseguendo nell'immagine?,"a) Palla
+b) Forma di formaggio
+c) Disco di legno
+d) Racchetta",Forma di formaggio,0,"The correct answer is a ball, not a 'forma di formaggio' (cheese shape). The image clearly shows a water polo ball.",Qual è l'oggetto che i partecipanti stanno inseguendo nell'immagine?,"['Palla', 'Forma di formaggio', 'Disco di legno', 'Racchetta']",Palla
+img8,IBQ,IBQ_Italy.xlsx,Pallanuto,Dove si svolge il gioco mostrato nell'immagine?,"a) Spiaggia
+b) Collina erbosa
+c) Campo da tennis
+d) Piazza pubblica",Collina erbosa,0,The question asks where the game in the image takes place. The image clearly shows a water polo match taking place in a swimming pool. The correct answer 'Collina erbosa' (grassy hill) is incorrect. The question and options do not match the image content.,Dove si svolge il gioco mostrato nell'immagine?,"['a) Piscina', 'b) Spiaggia', 'c) Campo da tennis', 'd) Stadio']",a) Piscina
+img1,IBQ,IBQ_Italy.xlsx,Pallavolo,What is the main object in the image?,"a) Net
+b) Ball
+c) Player
+d) Court",Ball,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Pallavolo,What sport is being played in the image?,"a) Basketball
+b) Baseball
+c) Volleyball
+d) Tennis",Volleyball,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Pallavolo,Describe the position of the ball in the image.,"a) Above the net
+b) On the ground
+c) In a player's hands
+d) Outside the court",Above the net,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Pallavolo,What is the significance of the net in the image?,"a) Decoration
+b) Boundary
+c) Central element
+d) Scoreboard",Central element,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Pallavolo,What can be inferred about the setting of the game from the image?,"a) Indoor stadium
+b) Outdoor field
+c) Beach court
+d) Street court",Indoor stadium,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Pallavolo,Which team is winning in the volleyball game?,"a) Team A
+b) Team B
+c) Tied
+d) Not visible",Not visible,0,"The image shows a volleyball game in progress, but it doesn't indicate which team is winning or even if a point has been scored. The correct answer should be 'Not visible', but the question implies a winning team exists to be identified.",Can the winning team be determined from the volleyball game shown in the image?,"['Team A', 'Team B', 'Tied', 'Not visible']",Not visible
+img2,IBQ,IBQ_Italy.xlsx,Pallavolo,What is the score of the volleyball game?,"a) 45945
+b) 10-15
+c) 20-20
+d) Not visible",Not visible,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Pallavolo,Who are the players in the image?,"a) Team A players
+b) Team B players
+c) Not specified
+d) Not visible",Not specified,0,"The question asks 'Who are the players in the image?', but the options are framed as 'Team A players' or 'Team B players', implying the players belong to specific teams. Since the image doesn't provide information about team affiliation, 'Not specified' is a valid answer, but the question is misleading. The question should ask about identifying the players without reference to teams.",What are the players in the image doing?,"['Playing volleyball', 'Playing basketball', 'Not specified', 'Not visible']",Playing volleyball
+img2,IBQ,IBQ_Italy.xlsx,Pallavolo,What is the significance of the number 6 in the volleyball game?,"a) Captain
+b) Setter
+c) Defender
+d) Spiker",Setter,0,"The question is ambiguous and lacks context. The number '6' does not inherently have a specific significance in volleyball related to player positions. It's a jersey number, and while setters *can* wear number 6, it's not definitive. The question implies a universal rule which isn't true.",What player position is typically responsible for setting the ball for a spike?,"['a) Captain', 'b) Setter', 'c) Defender', 'd) Spiker']",Setter
+img2,IBQ,IBQ_Italy.xlsx,Pallavolo,What is the role of the player wearing number 6 in the volleyball game?,"a) Scorer
+b) Defender
+c) Blocker
+d) Setter",Setter,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Pallavolo,Quanti giocatori ci sono in una squadra di pallavolo?,"a) 4
+b) 5
+c) 6
+d) 7",6,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Pallavolo,Qual è l'altezza della rete di pallavolo?,"a) 2 metri
+b) 2
+c) 24 metri
+d) 2",43 metri,0,The correct answer provided (43 metri) is factually incorrect. The height of a volleyball net is 2.43 meters for men and 2.24 meters for women. The options are also not realistic. Options b and d are simply '2' which is not a height. Option c is excessively large.,Qual è l'altezza standard della rete da pallavolo maschile?,"['a) 2.24 metri', 'b) 2.43 metri', 'c) 3 metri', 'd) 1.83 metri']",b) 2.43 metri
+img3,IBQ,IBQ_Italy.xlsx,Pallavolo,Quali sono le regole base della pallavolo?,"a) Servizio e ricezione
+b) Due tocchi massimi
+c) Tre tocchi massimi
+d) Cinque tocchi massimi",Tre tocchi massimi,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Pallavolo,Qual è la dimensione standard di un campo da pallavolo?,"a) 6x6 metri
+b) 8x8 metri
+c) 9x18 metri
+d) 10x20 metri",9x18 metri,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Pallavolo,Come viene assegnato un punto in una partita di pallavolo?,"a) Quando la palla tocca il pavimento
+b) Quando la palla colpisce la rete
+c) Quando la palla esce dal campo
+d) Quando la palla viene bloccata",Quando la palla tocca il pavimento,1,no mistake,no correction needed,no correction needed,no answer needed
+img4,IBQ,IBQ_Italy.xlsx,Pallavolo,Quanti giocatori ci sono in ogni squadra nel gioco di pallavolo?,"a) 4
+b) 5
+c) 6
+d) 7",6,1,no mistake,no correction needed,no correction needed,no answer needed
+img4,IBQ,IBQ_Italy.xlsx,Pallavolo,Qual è il colore delle maglie indossate dalle due squadre?,"a) Blu e rosso
+b) Giallo e verde
+c) Verde e nero
+d) Arancione e bianco",Blu e rosso,1,no mistake,no correction needed,no correction needed,no answer needed
+img4,IBQ,IBQ_Italy.xlsx,Pallavolo,Quale giocatore sta tentando di bloccare la palla?,"a) Giocatore di destra
+b) Giocatore di sinistra
+c) Giocatore centrale
+d) Giocatore in fondo",Giocatore centrale,1,no mistake,no correction needed,no correction needed,no answer needed
+img4,IBQ,IBQ_Italy.xlsx,Pallavolo,Qual è la posizione del giocatore che sta colpendo la palla?,"a) Sotto la rete
+b) Sopra la rete
+c) Accanto alla rete
+d) Fuori dal campo",Sopra la rete,1,no mistake,no correction needed,no correction needed,no answer needed
+img4,IBQ,IBQ_Italy.xlsx,Pallavolo,Qual è il credito per l'immagine?,"a) Getty Images
+b) Shutterstock
+c) Fotolia
+d) Pixabay",Getty Images,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Pallavolo,Qual è il numero del giocatore che sta cercando di schiacciare la palla?,"a) 10
+b) 12
+c) 14
+d) 16",12,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Pallavolo,Quanti giocatori sono visibili nell'immagine?,"a) 2
+b) 3
+c) 4
+d) 5",3,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Pallavolo,Di che colore sono le maglie della squadra che sta cercando di bloccare la palla?,"a) Blu
+b) Rosso
+c) Verde
+d) Bianco",Rosso,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Pallavolo,Quale sport viene giocato nell'immagine?,"a) Basket
+b) Baseball
+c) Pallavolo
+d) Tennis",Pallavolo,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Pallavolo,Qual è la posizione del giocatore numero 13?,"a) Vicino alla rete
+b) Lontano dalla rete
+c) Fuori dal campo
+d) In panchina",Lontano dalla rete,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,Pallavolo,Qual è il numero della maglia del giocatore che sta per colpire la palla?,"a) 10
+b) 12
+c) 15
+d) 17",15,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,Pallavolo,Come contribuisce l'azione di tuffarsi del giocatore al gioco della pallavolo?,"a) Salvataggio della palla
+b) Attacco
+c) Blocco
+d) Servizio",Salvataggio della palla,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,Pallavolo,Quali sono gli elementi chiave dell'ambientazione del campionato di pallavolo mostrato nell'immagine?,"a) Rete e pallone
+b) Spettatori e campo
+c) Allenatore e panchina
+d) Cartelloni e luci",Spettatori e campo,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,Pallavolo,Come influisce la presenza della folla sull'atmosfera del gioco di pallavolo?,"a) Positivamente
+b) Negativamente
+c) Non influisce
+d) Non specificato",Positivamente,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,Pallavolo,Quali tecniche stanno utilizzando i giocatori per salvare la palla nel gioco di pallavolo?,"a) Tuffo e alzata
+b) Blocco e schiacciata
+c) Servizio e ricezione
+d) Passaggio e muro",Tuffo e alzata,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Pallavolo,Qual è il significato del numero 19 sulla maglia del giocatore nel gioco della pallavolo?,"a) Capitano della squadra
+b) Libero
+c) Palleggiatore
+d) Attaccante",Palleggiatore,0,"The number 19 on a volleyball jersey doesn't inherently indicate the player's position (setter). Any position can wear any number. The question implies a fixed association which is incorrect. The image shows a player with jersey number 19, but doesn't reveal their position.",Qual è un numero di maglia che può essere indossato da un giocatore in una partita di pallavolo?,"a) Solo il capitano può indossare il numero 19
+b) Solo il libero può indossare il numero 19
+c) Qualsiasi giocatore può indossare il numero 19
+d) Solo l'attaccante può indossare il numero 19",c) Qualsiasi giocatore può indossare il numero 19
+img7,IBQ,IBQ_Italy.xlsx,Pallavolo,Quanti giocatori sono visibili nell'immagine della pallavolo?,"a) 3
+b) 5
+c) 7
+d) 10",5,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Pallavolo,Quali azioni stanno compiendo i giocatori di pallavolo nell'immagine?,"a) Attacco
+b) Blocco
+c) Salvataggio
+d) Festa",Festa,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Pallavolo,Descrivi le uniformi indossate dai giocatori di pallavolo nell'immagine.,"a) Maglie numerate
+b) Pantaloncini bianchi
+c) Scarpe da ginnastica
+d) Cuffie",Maglie numerate,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Pallavolo,Cosa si può dedurre dall'ambientazione del gioco di pallavolo nell'immagine?,"a) Palestra scolastica
+b) Campo all'aperto
+c) Spiaggia
+d) Stadio al chiuso",Stadio al chiuso,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,Pallavolo,Qual è l'azione principale che si svolge nell'immagine?,"a) Blocco
+b) Salvataggio
+c) Attacco
+d) Schiacciata",Schiacciata,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,Pallavolo,Qual è il colore della maglia indossata dal giocatore che sta saltando per colpire la palla?,"a) Rosso
+b) Giallo
+c) Blu
+d) Verde",Blu,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,Pallavolo,Descrivi l'ambiente in cui si svolge il gioco.,"a) Campo all'aperto
+b) Campo indoor
+c) Campo sulla spiaggia
+d) Campo da strada",Campo indoor,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,Pallavolo,Qual è l'importanza dell'illuminazione nell'immagine e come influisce sull'atmosfera generale?,"a) Illuminazione scarsa
+b) Illuminazione moderata
+c) Illuminazione forte
+d) Non specificato",Illuminazione forte,1,no mistake,no correction needed,no correction needed,no answer needed
+img10,IBQ,IBQ_Italy.xlsx,Pallavolo,Qual è il significato del numero 2 nel gioco della pallavolo?,"a) Libero
+b) Palleggiatore
+c) Attaccante
+d) Bloccante",Libero,1,no mistake,no correction needed,no correction needed,no answer needed
+img10,IBQ,IBQ_Italy.xlsx,Pallavolo,Come influisce la tecnica di blocco dei giocatori con le maglie blu sul gioco?,"a) Diminuisce l'attacco
+b) Facilita la difesa
+c) Aumenta i punti
+d) Blocca il pallone",Blocca il pallone,0,"The question asks about the effect of blocking players with blue jerseys. However, blocking in volleyball does not 'block the ball' in the sense of stopping it entirely; it *redirects* it. The correct answer should reflect that. Also, 'aumenta i punti' and 'diminuisce l'attacco' are too broad/indirect as direct effects of a block.",Come influisce la tecnica di blocco dei giocatori con le maglie blu sull'azione di gioco?,"[""a) Devia l'attacco avversario"", 'b) Facilita la difesa della squadra', 'c) Rallenta il gioco', 'd) Impedisce la ricezione']",a) Devia l'attacco avversario
+img10,IBQ,IBQ_Italy.xlsx,Pallavolo,Quali strategie può utilizzare il giocatore con la maglia rossa per superare i blocchi?,"a) Cambio di direzione
+b) Forza estrema
+c) Salto alto
+d) Passaggio",Cambio di direzione,1,no mistake,no correction needed,no correction needed,no answer needed
+img10,IBQ,IBQ_Italy.xlsx,Pallavolo,Come influisce il posizionamento dei giocatori sull'esito di questa azione di pallavolo?,"a) Aumenta l'attacco
+b) Riduce la difesa
+c) Facilita il gioco
+d) Migliora la coordinazione",Migliora la coordinazione,1,no mistake,no correction needed,no correction needed,no answer needed
+img10,IBQ,IBQ_Italy.xlsx,Pallavolo,Qual è l'importanza del lavoro di squadra nella difesa mostrata nell'immagine?,"a) Aumenta la potenza
+b) Facilita l'attacco
+c) Incrementa la comunicazione
+d) Efficienza difensiva",Efficienza difensiva,1,no mistake,no correction needed,no correction needed,no answer needed
+img11,IBQ,IBQ_Italy.xlsx,Pallavolo,Il giocatore nell'immagine sta eseguendo un servizio o un passaggio nel gioco di pallavolo?,"a) Servizio
+b) Passaggio
+c) Schermatura
+d) Ricezione",Passaggio,1,no mistake,no correction needed,no correction needed,no answer needed
+img11,IBQ,IBQ_Italy.xlsx,Pallavolo,Qual è il colore e il design del pallone da pallavolo nell'immagine?,"a) Giallo e blu
+b) Bianco e rosso
+c) Rosso e verde
+d) Verde e nero",Giallo e blu,1,no mistake,no correction needed,no correction needed,no answer needed
+img11,IBQ,IBQ_Italy.xlsx,Pallavolo,Descrivi l'ambientazione o il luogo in cui si svolge il gioco di pallavolo.,"a) Campo all'aperto
+b) Campo indoor
+c) Spiaggia
+d) Campo improvvisato",Campo indoor,1,no mistake,no correction needed,no correction needed,no answer needed
+img11,IBQ,IBQ_Italy.xlsx,Pallavolo,Che tipo di polsino indossa il giocatore nell'immagine?,"a) Polsino nero
+b) Polsino bianco
+c) Polsino blu
+d) Polsino rosso",Polsino nero,1,no mistake,no correction needed,no correction needed,no answer needed
+img11,IBQ,IBQ_Italy.xlsx,Pallavolo,Quale tecnica sta usando il giocatore per colpire il pallone nell'immagine?,"a) Passaggio sotto
+b) Schermatura
+c) Servizio
+d) Attacco",Passaggio sotto,1,no mistake,no correction needed,no correction needed,no answer needed
+img12,IBQ,IBQ_Italy.xlsx,Pallavolo,Chi sono i giocatori coinvolti nella partita di pallavolo?,"a) Giocatore in maglia blu
+b) Giocatore in maglia rossa
+c) Entrambi i giocatori
+d) Non specificato",Entrambi i giocatori,1,no mistake,no correction needed,no correction needed,no answer needed
+img12,IBQ,IBQ_Italy.xlsx,Pallavolo,Qual è il significato della rete gialla nel gioco di pallavolo?,"a) Segna i punti
+b) Definisce il campo
+c) Indica il centro del gioco
+d) Serve come ostacolo",Serve come ostacolo,1,no mistake,no correction needed,no correction needed,no answer needed
+img12,IBQ,IBQ_Italy.xlsx,Pallavolo,Descrivi l'ambientazione o il luogo in cui si svolge la partita di pallavolo.,"a) Campo all'aperto
+b) Campo indoor
+c) Spiaggia
+d) Parco urbano",Campo all'aperto,0,"The correct answer should be 'Campo all'aperto' since the image shows a beach volleyball game, which is played outdoors. However, considering that beach volleyball is a specific type of outdoor volleyball, 'Campo all'aperto' is not precise enough. The question itself is valid, but the provided answer is slightly off given the context of the image. The options are also a bit broad and could be more specific to beach volleyball.",Descrivi l'ambientazione specifica in cui si svolge la partita di pallavolo mostrata nell'immagine.,"a) Spiaggia
+b) Campo indoor
+c) Campo da beach volley
+d) Parco urbano",a) Spiaggia
+img12,IBQ,IBQ_Italy.xlsx,Pallavolo,Quali azioni stanno compiendo i giocatori nella partita di pallavolo?,"a) Attacco e difesa
+b) Servizio e ricezione
+c) Passaggio e schiacciata
+d) Blocco e attacco",Blocco e attacco,1,no mistake,no correction needed,no correction needed,no answer needed
+img12,IBQ,IBQ_Italy.xlsx,Pallavolo,Come riflette la partita di pallavolo mostrata nell'immagine lo sport della pallavolo?,"a) Mostra l'abilità
+b) Mostra la velocità
+c) Mostra la coordinazione
+d) Mostra la competizione",Mostra la competizione,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Skiing,What are the colors of the skiers' jackets?,"a) Red and blue
+b) Yellow and green
+c) Black and white
+d) Purple and orange",Red and blue,0,"The image shows the skiers wearing pink and teal (or green) jackets, not red and blue. The question and answer are factually incorrect based on the provided image.",What are the colors of the skiers' jackets?,"['a) Pink and teal', 'b) Yellow and green', 'c) Black and white', 'd) Purple and orange']",a) Pink and teal
+img1,IBQ,IBQ_Italy.xlsx,Skiing,Describe the weather conditions in the image.,"a) Cloudy with snowfall
+b) Sunny and clear
+c) Windy with snowstorm
+d) Foggy and overcast",Sunny and clear,0,"The image shows a snowy mountain landscape with skiers and bright sunshine. While it's clear, 'Sunny and clear' doesn't fully capture the presence of snow, which is a significant visual element. The question could be more specific.",What are the weather conditions shown in the image?,"['a) Sunny with snow', 'b) Cloudy with snowfall', 'c) Overcast and snowy', 'd) Rainy and cold']",a) Sunny with snow
+img1,IBQ,IBQ_Italy.xlsx,Skiing,What type of terrain are the skiers on?,"a) Flat ground
+b) Steep slope
+c) Snow-covered mountain
+d) Rocky trail",Snow-covered mountain,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Skiing,How many skiers are in the image?,"a) 1
+b) 2
+c) 3
+d) 4",2,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Skiing,What safety equipment are the skiers wearing?,"a) Helmets and goggles
+b) Life jackets and snorkels
+c) Knee pads and gloves
+d) Elbow pads and wrist guards",Helmets and goggles,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Skiing,Qual è il numero della maglia del giocatore che sta per colpire la palla?,"a) 10
+b) 12
+c) 15
+d) 17",15,0,"The image shows a skier performing a trick, not a soccer player hitting a ball. Therefore, the question is factually incorrect and does not relate to the provided image.",Qual è il numero della maglia dello sciatore in aria?,"['a) 10', 'b) 12', 'c) 15', 'd) 17']",c) 15
+img2,IBQ,IBQ_Italy.xlsx,Skiing,Come contribuisce l'azione di tuffarsi del giocatore al gioco della pallavolo?,"a) Salvataggio della palla
+b) Attacco
+c) Blocco
+d) Servizio",Salvataggio della palla,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Skiing,Quali sono gli elementi chiave dell'ambientazione del campionato di pallavolo mostrato nell'immagine?,"a) Rete e pallone
+b) Spettatori e campo
+c) Allenatore e panchina
+d) Cartelloni e luci",Spettatori e campo,0,"The image shows a skiing/snowboarding event, not a volleyball match. Therefore, the question and answer are factually incorrect and misleading.",Quali sono gli elementi chiave dell'ambientazione della gara di sci/snowboard mostrata nell'immagine?,"['a) Rampe e sci', 'b) Spettatori e neve', 'c) Atleta e cielo', 'd) Pali e illuminazione']",Spettatori e neve
+img2,IBQ,IBQ_Italy.xlsx,Skiing,Come influisce la presenza della folla sull'atmosfera del gioco di pallavolo?,"a) Positivamente
+b) Negativamente
+c) Non influisce
+d) Non specificato",Positivamente,0,"The question is about volleyball, but the provided image is of a skier performing a trick. This creates a mismatch between the question and the visual context. The question itself is valid in the context of volleyball, and the answer is generally correct, but the image is irrelevant. Additionally, 'Non specificato' is not a good option for a multiple-choice question. It's better to phrase it as 'Indifferente'.",Come influisce la presenza del pubblico sull'atmosfera di una partita di pallavolo?,"['Positivamente', 'Negativamente', 'Indifferente', 'Dipende dalla partita']",Positivamente
+img2,IBQ,IBQ_Italy.xlsx,Skiing,Quali tecniche stanno utilizzando i giocatori per salvare la palla nel gioco di pallavolo?,"a) Tuffo e alzata
+b) Blocco e schiacciata
+c) Servizio e ricezione
+d) Passaggio e muro",Tuffo e alzata,0,"The image shows a skier performing a trick, not volleyball players. The question is about volleyball techniques, but the image is irrelevant. The question itself is valid, but the image context is wrong. Also, 'tuffo e alzata' (dive and set) are *sometimes* used for saving a ball, but not always the primary techniques. Better options would focus on defensive techniques.",Quali tecniche difensive stanno utilizzando i giocatori per salvare la palla nel gioco di pallavolo?,"['Tuffo e palleggio difensivo', 'Blocco e recupero palla', 'Servizio e ricezione', 'Schiacciata e muro']",Tuffo e palleggio difensivo
+img3,IBQ,IBQ_Italy.xlsx,Skiing,Quanti giocatori ci sono in una squadra di pallavolo?,"a) 4
+b) 5
+c) 6
+d) 7",6,0,"The question asks about the number of players in a volleyball team, but the provided image is of a skier. This creates a mismatch between the question and the context. A standard volleyball team has 6 players on the court, but the question is rendered irrelevant due to the image.",Quanti giocatori ci sono in una squadra di pallavolo?,"['a) 5', 'b) 6', 'c) 7', 'd) 8']",b) 6
+img3,IBQ,IBQ_Italy.xlsx,Skiing,Qual è l'altezza della rete di pallavolo?,"a) 2 metri
+b) 2
+c) 24 metri
+d) 2",43 metri,0,"The question is about volleyball net height, but the image shows a skiing scene. The question and answer are also factually incorrect. The correct height of a volleyball net is 2.43 meters for men and 2.24 meters for women. The answer provided (43 meters) is way off.",Qual è l'altezza della rete da pallavolo maschile?,"['a) 2,24 metri', 'b) 2,43 metri', 'c) 3 metri', 'd) 1,83 metri']","b) 2,43 metri"
+img3,IBQ,IBQ_Italy.xlsx,Skiing,Quali sono le regole base della pallavolo?,"a) Servizio e ricezione
+b) Due tocchi massimi
+c) Tre tocchi massimi
+d) Cinque tocchi massimi",Tre tocchi massimi,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Skiing,Qual è la dimensione standard di un campo da pallavolo?,"a) 6x6 metri
+b) 8x8 metri
+c) 9x18 metri
+d) 10x20 metri",9x18 metri,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Skiing,Come viene assegnato un punto in una partita di pallavolo?,"a) Quando la palla tocca il pavimento
+b) Quando la palla colpisce la rete
+c) Quando la palla esce dal campo
+d) Quando la palla viene bloccata",Quando la palla tocca il pavimento,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Skiing,Qual è il numero del giocatore che sta cercando di schiacciare la palla?,"a) 10
+b) 12
+c) 14
+d) 16",12,0,"The image shows a ski slope, not a basketball game. The question asks about a player 'trying to dunk the ball', which is irrelevant to the image. The question and options are therefore factually incorrect.",Qual è il numero dello sciatore in primo piano?,"['a) 10', 'b) 12', 'c) 14', 'd) 16']",no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Skiing,Quanti giocatori sono visibili nell'immagine?,"a) 2
+b) 3
+c) 4
+d) 5",3,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Skiing,Di che colore sono le maglie della squadra che sta cercando di bloccare la palla?,"a) Blu
+b) Rosso
+c) Verde
+d) Bianco",Rosso,0,"The image shows a ski slope, not a sports game with teams and balls. The question asks about the color of jerseys of a team blocking a ball, which is not relevant to the image.",Di che colore sono i pali che delimitano il percorso da sci?,"['a) Blu', 'b) Rosso', 'c) Giallo', 'd) Bianco']",c) Giallo
+img5,IBQ,IBQ_Italy.xlsx,Skiing,Quale sport viene giocato nell'immagine?,"a) Basket
+b) Baseball
+c) Pallavolo
+d) Tennis",Pallavolo,0,"The image shows a skiing scene, not volleyball. The question and answer are incorrect with respect to the image provided.",Quale sport viene praticato nell'immagine?,"['a) Sci', 'b) Basket', 'c) Baseball', 'd) Pallavolo']",a) Sci
+img5,IBQ,IBQ_Italy.xlsx,Skiing,Qual è la posizione del giocatore numero 13?,"a) Vicino alla rete
+b) Lontano dalla rete
+c) Fuori dal campo
+d) In panchina",Lontano dalla rete,0,"The image shows a ski slope, not a sports field where a player with a number could be positioned. The question and options are therefore irrelevant to the image.","Considerando l'immagine, dove si trova lo sciatore con il casco giallo?","['a) In cima alla pista', 'b) A metà pista', 'c) Vicino alla rete di protezione', 'd) Alla base della pista']",b) A metà pista
+img7,IBQ,IBQ_Italy.xlsx,Skiing,Qual è il significato del numero 19 sulla maglia del giocatore nel gioco della pallavolo?,"a) Capitano della squadra
+b) Libero
+c) Palleggiatore
+d) Attaccante",Palleggiatore,0,"The image shows a snowy mountain landscape with people skiing, which has no relevance to the question about volleyball and jersey numbers. The question is about volleyball, but the image is unrelated. The number 19 on a volleyball jersey does not inherently signify a 'Palleggiatore' (setter). It's simply a jersey number.",Qual è un possibile ruolo di un giocatore di pallavolo con il numero 19 sulla maglia?,"['a) Capitano della squadra', 'b) Libero', 'c) Palleggiatore', 'd) Schiacciatore']",c) Palleggiatore
+img7,IBQ,IBQ_Italy.xlsx,Skiing,Quanti giocatori sono visibili nell'immagine della pallavolo?,"a) 3
+b) 5
+c) 7
+d) 10",5,0,"The image shows people skiing, not playing volleyball. The question is about volleyball players, which is factually incorrect and doesn't relate to the image.",Quanti sciatori sono visibili nell'immagine?,"['a) 3', 'b) 4', 'c) 5', 'd) 6']",b) 4
+img7,IBQ,IBQ_Italy.xlsx,Skiing,Quali azioni stanno compiendo i giocatori di pallavolo nell'immagine?,"a) Attacco
+b) Blocco
+c) Salvataggio
+d) Festa",Festa,0,"The image shows people skiing, not playing volleyball. The question asks about volleyball actions, which is irrelevant to the image. The answer 'Festa' (Party) is also incorrect in the context of the image.",Quali azioni stanno compiendo le persone nell'immagine?,"a) Sci
+b) Escursionismo
+c) Arrampicata
+d) Pattinaggio",a) Sci
+img7,IBQ,IBQ_Italy.xlsx,Skiing,Descrivi le uniformi indossate dai giocatori di pallavolo nell'immagine.,"a) Maglie numerate
+b) Pantaloncini bianchi
+c) Scarpe da ginnastica
+d) Cuffie",Maglie numerate,0,"The image shows people skiing, not playing volleyball. The question asks about volleyball uniforms, which is irrelevant to the image.",Descrivi l'abbigliamento indossato dalle persone nell'immagine.,"['a) Tute da sci colorate', 'b) Pantaloni da sci', 'c) Caschi da sci', 'd) Giubbotti imbottiti']",a) Tute da sci colorate
+img7,IBQ,IBQ_Italy.xlsx,Skiing,Cosa si può dedurre dall'ambientazione del gioco di pallavolo nell'immagine?,"a) Palestra scolastica
+b) Campo all'aperto
+c) Spiaggia
+d) Stadio al chiuso",Stadio al chiuso,0,"The image shows a snowy mountain landscape with people skiing, not a volleyball game. The question and answer are completely irrelevant to the image.",Cosa si può dedurre dall'ambientazione mostrata nell'immagine?,"['a) Una spiaggia tropicale', 'b) Un campo da calcio', 'c) Una pista da sci', 'd) Una città affollata']",c) Una pista da sci
+img9,IBQ,IBQ_Italy.xlsx,Skiing,Qual è l'azione principale che si svolge nell'immagine?,"a) Blocco
+b) Salvataggio
+c) Attacco
+d) Schiacciata",Schiacciata,0,"The image depicts a person cross-country skiing, not a basketball dunk (schiacciata). The question and answer are completely mismatched with the provided image.",Qual è l'azione principale che si svolge nell'immagine?,"['a) Sci di fondo', 'b) Arrampicata', 'c) Escursionismo', 'd) Ciclismo']",a) Sci di fondo
+img9,IBQ,IBQ_Italy.xlsx,Skiing,Qual è il colore della maglia indossata dal giocatore che sta saltando per colpire la palla?,"a) Rosso
+b) Giallo
+c) Blu
+d) Verde",Blu,0,"The image shows a person cross-country skiing, not playing a sport involving hitting a ball. The question asks about the color of a jersey worn by a player jumping to hit a ball, which doesn't relate to the image. The provided answer 'Blu' (Blue) is also incorrect as the player is wearing red.",Qual è il colore della giacca indossata dalla persona che scia?,"['a) Rosso', 'b) Giallo', 'c) Blu', 'd) Verde']",a) Rosso
+img9,IBQ,IBQ_Italy.xlsx,Skiing,Descrivi l'ambiente in cui si svolge il gioco.,"a) Campo all'aperto
+b) Campo indoor
+c) Campo sulla spiaggia
+d) Campo da strada",Campo indoor,0,"The question asks to describe the environment where the game takes place, but the image shows a person skiing in a snowy, mountainous outdoor environment. The correct answer 'Campo indoor' (indoor field) is factually incorrect given the image. The question itself is valid, but the answer needs adjustment.",Descrivi l'ambiente in cui si svolge l'attività mostrata nell'immagine.,"['a) Montagna innevata', 'b) Campo indoor', 'c) Spiaggia', 'd) Strada cittadina']",a) Montagna innevata
+img9,IBQ,IBQ_Italy.xlsx,Skiing,Qual è l'importanza dell'illuminazione nell'immagine e come influisce sull'atmosfera generale?,"a) Illuminazione scarsa
+b) Illuminazione moderata
+c) Illuminazione forte
+d) Non specificato",Illuminazione forte,1,no mistake,no correction needed,no correction needed,no answer needed
+img10,IBQ,IBQ_Italy.xlsx,Skiing,Qual è il colore della maglia del giocatore che sta per schiacciare la palla?,"a) Blu
+b) Rosso
+c) Giallo
+d) Verde",Blu,0,"The image depicts people skiing, not playing a sport where one 'schiaccia la palla' (smashes the ball - volleyball/basketball). The question is irrelevant to the image. The player is wearing a blue jacket.",Qual è il colore della giacca del giocatore in primo piano?,"a) Blu
+b) Rosso
+c) Giallo
+d) Verde",Blu
+img10,IBQ,IBQ_Italy.xlsx,Skiing,Quanti giocatori stanno cercando di bloccare la palla?,"a) 1
+b) 2
+c) 3
+d) 4",2,0,"The image shows people skiing, not attempting to block a ball. The question is irrelevant to the image.",Quante persone stanno sciando nell'immagine?,"['a) 1', 'b) 2', 'c) 3', 'd) 4']",c) 3
+img10,IBQ,IBQ_Italy.xlsx,Skiing,Qual è l'azione principale mostrata nell'immagine?,"a) Servizio
+b) Blocco
+c) Schiacciata
+d) Ricezione",Schiacciata,0,"The image shows people skiing, not playing volleyball or basketball where actions like serving, blocking, spiking, or receiving are relevant. The question and options are mismatched with the image.",Qual è l'azione principale mostrata nell'immagine?,"['a) Sci alpinismo', 'b) Sci di discesa', 'c) Snowboard', 'd) Escursionismo sulla neve']",a) Sci alpinismo
+img10,IBQ,IBQ_Italy.xlsx,Skiing,Qual è la posizione della palla nell'immagine?,"a) Sopra la rete
+b) Sotto la rete
+c) Fuori dal campo
+d) In mano a un giocatore",Sopra la rete,0,"The image shows people skiing in a snowy mountain landscape. The question asks about the position of a ball relative to a net, which is not present in the image. The question is therefore not factually correct or logically connected to the image.",Qual è l'attività mostrata nell'immagine?,"['a) Sci alpino', 'b) Nuoto', 'c) Ciclismo', 'd) Calcio']",a) Sci alpino
+img10,IBQ,IBQ_Italy.xlsx,Skiing,Qual è lo scopo del gioco della pallavolo?,"a) Segnare punti
+b) Bloccare avversari
+c) Resistere più a lungo
+d) Eliminare avversari",Segnare punti,0,"The question asks about the purpose of volleyball, but the image shows people ski mountaineering. This creates a mismatch between the question and the visual context. The question itself is logically correct in the context of volleyball, but irrelevant to the provided image.",Qual è lo scopo del gioco della pallavolo?,"['a) Segnare punti', 'b) Far cadere la palla nel campo avversario', 'c) Impedire alla palla di toccare il suolo', 'd) Mantenere la palla in gioco']",a) Segnare punti
+img11,IBQ,IBQ_Italy.xlsx,Skiing,nan,nan,nan,0,"The question, options, and correct answer are all missing (nan). I need the content of these fields to evaluate the MCQ. Based on the image, a suitable question would relate to skiing or the mountain in the background (Matterhorn).",ছবিতে কোন খেলাধুলাটি প্রদর্শিত হচ্ছে?,"['ফুটবল', 'বাস্কেটবল', 'স্কিইং', 'গলফ']",স্কিইং
+img1,IBQ,IBQ_Italy.xlsx,Morra,What game are the boys playing?,"a) Chess
+b) Morra
+c) Checkers
+d) Hopscotch",Morra,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Morra,What are the boys holding in their hands?,"a) Coins
+b) Marbles
+c) Fingers extended for counting
+d) Dice",Fingers extended for counting,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Morra,How many boys are shown in the image?,"a) 2
+b) 3
+c) 4
+d) 5",3,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Morra,What type of hats are the boys wearing?,"a) Baseball caps
+b) Beret-style hats
+c) Newsboy caps
+d) Bowler hats",Newsboy caps,1,no mistake,no correction needed,no correction needed,no answer needed
+img1,IBQ,IBQ_Italy.xlsx,Morra,What is the overall tone of the image?,"a) Playful and interactive
+b) Serious and formal
+c) Sad and gloomy
+d) Lonely and quiet",Playful and interactive,0,"The image depicts three young boys seemingly engaged in a game with cards, but their expressions are somber and their clothing suggests a lack of privilege. While there's interaction, 'playful' doesn't accurately capture the overall tone, which is more subdued or serious than playful. The overall tone is more serious and focused, rather than playful.",What best describes the overall mood of the image?,"['a) Focused and engaged', 'b) Serious and contemplative', 'c) Sad and melancholic', 'd) Relaxed and carefree']",b) Serious and contemplative
+img2,IBQ,IBQ_Italy.xlsx,Morra,Quanti uomini sono raffigurati nell'immagine?,"a) 2
+b) 3
+c) 4
+d) 5",3,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Morra,Che tipo di gioco stanno giocando gli uomini?,"a) Scacchi
+b) Morra
+c) Dama
+d) Carte",Morra,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Morra,Qual è l'ambientazione dell'immagine?,"a) Una piazza moderna
+b) Un tempio antico
+c) Una foresta
+d) Un mercato",Un tempio antico,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Morra,Che tipo di abbigliamento indossano gli uomini?,"a) Abiti moderni
+b) Abiti tradizionali
+c) Uniformi militari
+d) Cappotti eleganti",Abiti tradizionali,1,no mistake,no correction needed,no correction needed,no answer needed
+img2,IBQ,IBQ_Italy.xlsx,Morra,Che accessorio indossano tutti gli uomini?,"a) Cappelli
+b) Cinture di cuoio
+c) Zaini
+d) Occhiali",Cappelli,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Morra,Quante mani sono visibili nell'immagine?,"a) 4
+b) 6
+c) 8
+d) 10",6,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Morra,Che tipo di gioco stanno giocando le persone?,"a) Morra
+b) Carte
+c) Scacchi
+d) Dama",Morra,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Morra,Di che colore è il tavolo nell'immagine?,"a) Nero
+b) Bianco
+c) Marrone
+d) Grigio",Nero,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Morra,Quante persone partecipano al gioco?,"a) 2
+b) 3
+c) 4
+d) 5",3,1,no mistake,no correction needed,no correction needed,no answer needed
+img3,IBQ,IBQ_Italy.xlsx,Morra,Che gesto fanno alcune mani?,"a) Mostrano numeri
+b) Incrociano le dita
+c) Salutano
+d) Fanno pugni",Mostrano numeri,1,no mistake,no correction needed,no correction needed,no answer needed
+img4,IBQ,IBQ_Italy.xlsx,Morra,What are the colors of the skiers' pants?,"a) Black and white
+b) Red and green
+c) Yellow and purple
+d) Blue and orange",Black and white,0,"The image shows people in casual wear, not skiers. Therefore, the question about 'skiers' pants' is incorrect. The people in the image are wearing dark colored pants, predominantly grey or black.",What are the colors of the men's pants?,"a) Black and grey
+b) Red and green
+c) Yellow and purple
+d) Blue and orange",Black and grey
+img4,IBQ,IBQ_Italy.xlsx,Morra,Describe the mountain peak in the background.,"a) Snow-covered
+b) Rocky and bare
+c) Forest-covered
+d) Icy and jagged",Snow-covered,0,"The question asks about a mountain peak, but the image shows people in front of a store. There is no mountain peak visible in the image.",Describe what is visible in the background of the image.,"['a) A store sign', 'b) A forest', 'c) A mountain range', 'd) A clear sky']",a) A store sign
+img4,IBQ,IBQ_Italy.xlsx,Morra,What activity are the skiers performing?,"a) Ski jumping
+b) Slalom skiing
+c) Cross-country skiing
+d) Freestyle skiing",Slalom skiing,0,"The image shows people in a store, not skiers performing any activity. The question is completely irrelevant to the image.",What are the people in the image doing?,"['a) Shopping in a store', 'b) Waiting for a bus', 'c) Having a conversation', 'd) Looking at a map']",a) Shopping in a store
+img4,IBQ,IBQ_Italy.xlsx,Morra,How many ski poles are visible in the image?,"a) 2
+b) 3
+c) 4
+d) 5",4,0,"The image depicts people, not a skiing scene with ski poles. The question is irrelevant to the provided image.",How many people are visible in the image?,"['a) 2', 'b) 3', 'c) 4', 'd) 5']",c) 4
+img4,IBQ,IBQ_Italy.xlsx,Morra,What is the color of the skiers' helmets?,"a) Red
+b) Blue
+c) Black
+d) White",Red,0,"The image shows people in everyday clothing, not skiers. Therefore, the question about the color of skiers' helmets is irrelevant to the provided image.",What is the color of the hat worn by the person on the left?,"a) Black
+b) Red
+c) Blue
+d) White",Black
+img5,IBQ,IBQ_Italy.xlsx,Morra,How many people are participating in the image?,"a) 2
+b) 3
+c) 4
+d) 5",3,0,"The question asks how many people are participating, but the correct answer (3) does not match the actual number of people clearly visible in the image. There are at least 8 people visible in the image.",How many people are visible in the image?,"['a) 5', 'b) 6', 'c) 7', 'd) 8 or more']",d) 8 or more
+img5,IBQ,IBQ_Italy.xlsx,Morra,What is the setting of the morra game?,"a) Park
+b) Indoors
+c) Classroom
+d) Street",Indoors,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Morra,What item is placed on the table for the game?,"a) Book
+b) Coins
+c) Dice
+d) Nothing",Coins,1,no mistake,no correction needed,no correction needed,no answer needed
+img5,IBQ,IBQ_Italy.xlsx,Morra,Describe the hand gestures used in the game.,"a) Open palm
+b) Fists
+c) Pinkies
+d) Extended fingers",Extended fingers,0,"The image depicts people playing a game that resembles boules or petanque. The hand gestures involve holding and releasing balls, not specific hand positions like 'extended fingers'. The question is not relevant to the image and the answer is incorrect in the context of the image.",What action are the players primarily performing in the game shown?,"['a) Rolling balls', 'b) Holding balls', 'c) Throwing balls', 'd) Pointing']",a) Rolling balls
+img5,IBQ,IBQ_Italy.xlsx,Morra,What expression are the players showing?,"a) Happy
+b) Sad
+c) Neutral
+d) Confused",Neutral,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,Morra,How many people are participating in the morra game in the image?,"a) 2
+b) 3
+c) 4
+d) 5",3,0,"ERROR: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))",ERROR,ERROR,ERROR
+img6,IBQ,IBQ_Italy.xlsx,Morra,What are the players doing with their hands in the image?,"a) Counting fingers
+b) Holding coins
+c) Raising fists
+d) Pointing fingers",Counting fingers,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,Morra,Describe the setting of the morra game.,"a) Park
+b) Street
+c) Inside a building
+d) Beach",Street,0,"The image shows the morra game being played on grass, suggesting a park or outdoor setting rather than a street. Therefore, the provided correct answer is inaccurate.",Where is the morra game being played in the image?,"['a) Park', 'b) Street', 'c) Inside a building', 'd) Beach']",a) Park
+img6,IBQ,IBQ_Italy.xlsx,Morra,What type of clothing are the people wearing?,"a) Casual wear
+b) Formal suits
+c) Traditional attire
+d) Sports uniforms",Casual wear,1,no mistake,no correction needed,no correction needed,no answer needed
+img6,IBQ,IBQ_Italy.xlsx,Morra,What expression do the players have?,"a) Serious
+b) Happy
+c) Focused
+d) Confused",Focused,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Morra,What is the significance of the hand gestures in the morra game depicted in the image?,"a) Counting fingers
+b) Holding coins
+c) Signaling a number
+d) Pointing directions",Signaling a number,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Morra,How many people are participating in the morra game shown in the image?,"a) 2
+b) 3
+c) 4
+d) 5",3,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Morra,What is written on the back of the shirt of the person on the left in the image?,"a) Logo
+b) Brand name
+c) Blank
+d) Pattern",Brand name,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Morra,What is the setting or location where the morra game is taking place in the image?,"a) Park
+b) Street
+c) Indoor
+d) Beach",Street,1,no mistake,no correction needed,no correction needed,no answer needed
+img7,IBQ,IBQ_Italy.xlsx,Morra,What are the rules of the morra game being played in the image?,"a) Each player shows a number of fingers and guesses the total
+b) Rolling a dice
+c) Holding a coin
+d) Pointing fingers",Each player shows a number of fingers and guesses the total,1,no mistake,no correction needed,no correction needed,no answer needed
+img8,IBQ,IBQ_Italy.xlsx,Morra,What is the historical significance of the game being played in the image?,"a) Traditional hand game
+b) Cultural ritual
+c) Modern invention
+d) Children's play",Traditional hand game,1,no mistake,no correction needed,no correction needed,no answer needed
+img8,IBQ,IBQ_Italy.xlsx,Morra,How many people are actively participating in the game of morra in the image?,"a) 2
+b) 3
+c) 4
+d) 5",3,1,no mistake,no correction needed,no correction needed,no answer needed
+img8,IBQ,IBQ_Italy.xlsx,Morra,What are the visible architectural elements in the background of the image?,"a) Arched structure
+b) Modern buildings
+c) Wide street
+d) Park",Arched structure,0,"The question asks about architectural elements, but the image shows a group of people in what appears to be an alleyway or a narrow street. There are no clearly visible architectural elements like arches, modern buildings, or a park. The question is not relevant to the image.",What is visible in the background of the image?,"['A narrow street', 'Walls', 'A doorway', 'People']",A narrow street
+img8,IBQ,IBQ_Italy.xlsx,Morra,Describe the clothing and accessories worn by the individuals in the image.,"a) Period clothing
+b) Modern casual wear
+c) Formal suits
+d) Sports attire",Period clothing,0,"The clothing depicted in the image is modern casual wear, not period clothing. The question asks to *describe* the clothing, but the options present classifications of clothing styles. This makes it less of a descriptive question and more of a classification question.",What type of clothing are the individuals in the image wearing?,"['a) Formal wear', 'b) Modern casual wear', 'c) Traditional costumes', 'd) Athletic gear']",b) Modern casual wear
+img8,IBQ,IBQ_Italy.xlsx,Morra,What can be inferred about the social setting or context of the game being played in the image?,"a) Formal gathering
+b) Casual hangout
+c) Ritual ceremony
+d) Competitive event",Casual hangout,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,Morra,What is the setting of the morra game depicted in the image?,"a) Park
+b) Indoor
+c) Street
+d) Beach",Street,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,Morra,How many people are playing the morra game?,"a) 2
+b) 3
+c) 4
+d) 5",3,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,Morra,What are the players wearing in the image?,"a) Casual clothes
+b) Formal suits
+c) Sportswear
+d) Traditional attire",Casual clothes,0,"The image depicts people wearing hats and older style clothing, which doesn't fit 'casual clothes' as understood today. 'Casual clothes' typically refers to modern, informal wear. The correct answer should be based on the historical clothing displayed in the image.",What type of clothing are the people wearing in the image?,"['a) Modern casual clothes', 'b) Historical attire', 'c) Sportswear', 'd) Formal suits']",b) Historical attire
+img9,IBQ,IBQ_Italy.xlsx,Morra,What other objects can be seen in the background of the image?,"a) Cars
+b) Trees
+c) Buildings
+d) Animals",Buildings,1,no mistake,no correction needed,no correction needed,no answer needed
+img9,IBQ,IBQ_Italy.xlsx,Morra,What is the expression of the person on the right in the image?,"a) Happy
+b) Sad
+c) Focused
+d) Neutral",Happy,1,no mistake,no correction needed,no correction needed,no answer needed
+img10,IBQ,IBQ_Italy.xlsx,Morra,How many people are participating in the game of morra?,"a) 2
+b) 3
+c) 4
+d) 5",3,1,no mistake,no correction needed,no correction needed,no answer needed
+img10,IBQ,IBQ_Italy.xlsx,Morra,What are the participants doing with their hands?,"a) Holding coins
+b) Extending fingers
+c) Clapping
+d) Raising hands",Extending fingers,1,no mistake,no correction needed,no correction needed,no answer needed
+img10,IBQ,IBQ_Italy.xlsx,Morra,What type of footwear are the participants wearing?,"a) Sandals
+b) Sneakers
+c) Boots
+d) Barefoot",Sneakers,0,"The image depicts people from a historical setting, wearing boots. The question asks about 'participants' which implies a sporting context, but the image doesn't show a sporting event. The correct answer should be 'Boots', but it's not present as an option in the original question. Also, the image does not indicate that they are wearing sneakers.",What type of footwear are the people in the image wearing?,"a) Sandals
+b) Sneakers
+c) Boots
+d) Dress Shoes",Boots
+img10,IBQ,IBQ_Italy.xlsx,Morra,What is the tone of the image?,"a) Serious
+b) Joyful
+c) Relaxed
+d) Indifferent",Joyful,1,no mistake,no correction needed,no correction needed,no answer needed
+img11,IBQ,IBQ_Italy.xlsx,Morra,How many fingers are being shown by each player in the image?,"a) 2
+b) 3
+c) 4
+d) 5",2,1,no mistake,no correction needed,no correction needed,no answer needed
+img11,IBQ,IBQ_Italy.xlsx,Morra,What is the significance of the hand gestures in the game of morra?,"a) Counting
+b) Throwing
+c) Hitting
+d) Catch",Counting,1,no mistake,no correction needed,no correction needed,no answer needed
+img11,IBQ,IBQ_Italy.xlsx,Morra,Can you describe the setting or environment where the game of morra is taking place?,"a) Park
+b) Street
+c) Indoor
+d) Beach",Street,1,no mistake,no correction needed,no correction needed,no answer needed
+img11,IBQ,IBQ_Italy.xlsx,Morra,What strategies might players use to win the game of morra?,"a) Guessing
+b) Cheating
+c) Counting
+d) Bluffing",Counting,1,no mistake,no correction needed,no correction needed,no answer needed
+img11,IBQ,IBQ_Italy.xlsx,Morra,How does the game of morra determine a winner?,"a) Total number of fingers
+b) Highest hand
+c) Hitting the hand
+d) Throwing a dice",Total number of fingers,1,no mistake,no correction needed,no correction needed,no answer needed
+img12,IBQ,IBQ_Italy.xlsx,Morra,How many boys are in the image participating in the game of Morra?,"a) 2
+b) 3
+c) 4
+d) 5",3,1,no mistake,no correction needed,no correction needed,no answer needed
+img12,IBQ,IBQ_Italy.xlsx,Morra,What item is visible in the boys' hands while playing Morra?,"a) Coins
+b) Sticks
+c) Fingers extended
+d) Marbles",Fingers extended,1,no mistake,no correction needed,no correction needed,no answer needed
+img12,IBQ,IBQ_Italy.xlsx,Morra,What is the setting of the Morra game shown in the image?,"a) Classroom
+b) Park
+c) Street
+d) Home",Street,1,no mistake,no correction needed,no correction needed,no answer needed
+img12,IBQ,IBQ_Italy.xlsx,Morra,What is the boys' expression while playing Morra?,"a) Serious
+b) Happy
+c) Angry
+d) Confused",Happy,1,no mistake,no correction needed,no correction needed,no answer needed
